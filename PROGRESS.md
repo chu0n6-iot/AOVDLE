@@ -1,55 +1,48 @@
-# Arena of Valor research sources
+# AOVDLE – Project Progress
 
-This file records the minimum verified/trusted sources used for the current research snapshot. The repository scope is restricted to male Arena of Valor competitions, excluding Honor of Kings, women's events, and 1v1.
+> Cập nhật theo trạng thái thực tế; không đánh dấu hoàn thành khi dữ liệu chưa được kiểm chứng.
 
-## Primary Liquipedia sources
+## Trạng thái hiện tại
 
-- AIC main page: https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship
-- AIC 2017 Asia: https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia
-- AIC 2018: https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2018
-- AIC 2019: https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019
-- AIC 2020: https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020
-- AIC 2021: https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021
-- AIC 2022: https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022
-- AIC 2023: https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023
-- AIC 2024: https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024
-- AIC 2025: https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025
-- AIC 2026: https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2026
-- AWC 2018: https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2018
-- AWC 2019: https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019
-- AWC 2021: https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021
-- APL main page: https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League
-- APL 2020: https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020
-- APL 2022: https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022
-- APL 2023: https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023
-- APL 2024: https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024
-- APL 2025: https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025
-- APL 2026: https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026
-- Throne of Glory 2017: https://liquipedia.net/honorofkings/Throne_of_Glory/2017
+**Overall status: DESIGN / PRE-DEVELOPMENT — historical data collection in progress**
 
-## Cross-check references
+- Product direction: đã thống nhất trong tài liệu thiết kế.
+- Application code/database: chưa triển khai theo trạng thái đã biết.
+- Historical data: đã có bản khảo sát ban đầu; chưa nghiệm thu đầy đủ.
+- Media permissions: chưa xác minh; không tải hoặc sử dụng ảnh.
 
-- Official Arena of Valor Wiki / Esports archive: https://arenaofvalor.fandom.com/wiki/Esports
-- Official AIC wiki: https://arenaofvalor.fandom.com/wiki/Arena_Of_Valor_International_Championship
-- Esports Charts APL overview: https://escharts.com/events/arena-valor-premier-league
-- Esports Charts AOV tournament archive: https://escharts.com/tournaments/aov
-- Garena news for APL 2026 launch: https://www.garena.sg/news/WVYUNE
+## Historical data research
 
-## Verification policy used in this snapshot
+- [x] Tạo dữ liệu khảo sát ban đầu cho giải, đội và roster AIC 2017/APL 2026.
+- [x] Liệt kê trang nguồn Liquipedia và một số nguồn đối chiếu trong `data/research/sources.md`.
+- [ ] Thu thập roster đầy đủ cho các edition AWC 2018 đến AIC 2025 được yêu cầu.
+- [ ] Xác minh từng dòng roster đăng ký và phân biệt với người thực sự thi đấu.
+- [ ] Xác minh role DSL/Jungle/Mid/Farm/Support theo nguồn; không suy luận vị trí.
+- [ ] Xác minh Head Coach theo từng đội/edition.
+- [ ] Đối chiếu tên/nickname/quốc gia từng tuyển thủ khi có nguồn đáng tin.
+- [ ] Rà soát CSV hiện có về định dạng, khóa ID, trạng thái và tính nhất quán trước khi dùng làm dữ liệu ứng dụng.
 
-- `verified`: direct naming in an official or Liquipedia-listed entry, with no material contradiction in current sources.
-- `partial`: source page exists and team names are confirmed, but full roster, positions or coach entries are incomplete or not consistently published for the edition.
-- `unverified`: not yet confirmed with tournament or team-level evidence.
+## Trạng thái lần cập nhật này
 
-## Data collection status
+Đã rà soát các nguồn tìm kiếm cho các edition AWC 2018, AIC 2018, AWC 2019, AIC 2019, APL 2020, AIC 2020, AWC 2021, AIC 2021, AIC 2022, APL 2022, APL 2023, AIC 2023, APL 2024, AIC 2024, APL 2025 và AIC 2025. Nhiều bản tóm tắt có mâu thuẫn về đội, người chơi và việc đăng ký/thi đấu. Vì vậy, không nhập các tên chưa kiểm tra được vào roster chuẩn chỉ dựa trên search snippet.
 
-- Tournament catalog: 20 editions recorded in scope.
-- Fully verified AIC participant rows: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025.
-- Partial roster verification: APL 2026 and AIC 2026 entries; still pending full team-by-team confirmation.
-- Missing / incomplete: complete role-by-role data for every player across the full 2017–2026 span; coach listing for all teams; precise player country data where the official source is not explicit.
+Không tuyên bố các edition này đã có roster hoàn chỉnh. `sources.md` ghi URL Liquipedia và nguồn đối chiếu, cùng lưu ý về chất lượng chứng cứ.
 
-## Compliance notes
+## Rủi ro / vấn đề còn lại
 
-- No images were downloaded or reused.
-- No Honor of Kings or female-only / 1v1 events were included.
-- All roster records follow the project rule to keep one player identity and multiple player versions by season/team.
+1. Một số nguồn cộng đồng hoặc bản tóm tắt thứ cấp có thể gộp roster khu vực/qualifier với Main Event.
+2. Thông tin người thi đấu thực tế không đồng nghĩa với danh sách đăng ký; cần căn cứ match sheet/game log.
+3. Vai trò thi đấu và Head Coach thường không có trong trang giải hoặc thay đổi theo trận.
+4. Quốc tịch, tên thật và nickname cần được xác minh riêng; không suy đoán từ khu vực/đội.
+5. AIC 2026 được ghi trong catalog trước đó với trạng thái held dù ngày dự kiến là tháng 12/2026; cần sửa status thành planned/ongoing theo ngày truy cập trước khi nghiệm thu catalog.
+6. Bản push trước đó đặt nội dung nguồn vào `PROGRESS.md` thay vì `data/research/sources.md`; lần cập nhật này khôi phục `PROGRESS.md` theo đúng mục đích và tạo `sources.md` đúng đường dẫn.
+
+## Nguyên tắc tiếp tục
+
+Chỉ thêm từng edition sau khi có roster nguồn cụ thể. Mỗi player version phải gắn với tournament + team riêng; role/country/coach để trống nếu thiếu bằng chứng. Dữ liệu chưa đủ bằng chứng được đánh dấu `partial` hoặc `unverified`, không sử dụng như dữ liệu đã nghiệm thu.
+
+## Update log
+
+| Ngày | Thay đổi |
+|---|---|
+| 2026-11-15 | Khôi phục progress log; tạo sources.md đúng đường dẫn; ghi nhận kết quả và giới hạn xác minh roster cho các edition được yêu cầu. |
