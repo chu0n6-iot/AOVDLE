@@ -1,0 +1,84 @@
+player_id,player_name,nickname,country,team_id,tournament_id,team_name,role,source_url,verification_status
+PLAYER_AIC2017_SMG_1,SMG_Hanzo,,Taiwan,AIC2017_SMG,AIC2017,SMG,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_SMG_2,SMG_ChiChi,,Taiwan,AIC2017_SMG,AIC2017,SMG,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_SMG_3,SMG_Liang,,Taiwan,AIC2017_SMG,AIC2017,SMG,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_SMG_4,SMG_Sirenia,,Taiwan,AIC2017_SMG,AIC2017,SMG,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_SMG_5,SMG_Lulala,,Taiwan,AIC2017_SMG,AIC2017,SMG,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_GTV_1,GTV_PS Man,,Vietnam,AIC2017_GTV,AIC2017,GameTV,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_GTV_2,GTV_XB,,Vietnam,AIC2017_GTV,AIC2017,GameTV,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_GTV_3,GTV_Be Chanh,,Vietnam,AIC2017_GTV,AIC2017,GameTV,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_GTV_4,GTV_Henry,,Vietnam,AIC2017_GTV,AIC2017,GameTV,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_GTV_5,GTV_Matoong,,Vietnam,AIC2017_GTV,AIC2017,GameTV,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_GTV_6,GTV_ProE,,Vietnam,AIC2017_GTV,AIC2017,GameTV,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_OLY_1,Op_Rush,,South Korea,AIC2017_OLY,AIC2017,Team Olympus,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_OLY_2,Op_Chaser,,South Korea,AIC2017_OLY,AIC2017,Team Olympus,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_OLY_3,Op_HAK,,South Korea,AIC2017_OLY,AIC2017,Team Olympus,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_OLY_4,Op_Sun,,South Korea,AIC2017_OLY,AIC2017,Team Olympus,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_OLY_5,Op_JJak,,South Korea,AIC2017_OLY,AIC2017,Team Olympus,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_MBC_1,BEC_007x,,Thailand,AIC2017_MBC,AIC2017,Monori Bacon,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_MBC_2,BEC_Cherie,,Thailand,AIC2017_MBC,AIC2017,Monori Bacon,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_MBC_3,BEC_JameCo,,Thailand,AIC2017_MBC,AIC2017,Monori Bacon,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_MBC_4,BEC_MeMarkz,,Thailand,AIC2017_MBC,AIC2017,Monori Bacon,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_MBC_5,BEC_Moss,,Thailand,AIC2017_MBC,AIC2017,Monori Bacon,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_MBC_6,BEC_ReMix,,Thailand,AIC2017_MBC,AIC2017,Monori Bacon,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_PA_1,PA_NamChin,,Vietnam,AIC2017_PA,AIC2017,ProArmy,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_PA_2,PA_Bug,,Vietnam,AIC2017_PA,AIC2017,ProArmy,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_PA_3,PA_YL,,Vietnam,AIC2017_PA,AIC2017,ProArmy,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_PA_4,PA_Khien,,Vietnam,AIC2017_PA,AIC2017,ProArmy,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_PA_5,PA_Gau,,Vietnam,AIC2017_PA,AIC2017,ProArmy,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_AIC2017_PA_6,PA_Zeno,,Vietnam,AIC2017_PA,AIC2017,ProArmy,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+PLAYER_APL2026_DCG_1,Weiyu,,Taiwan,APL2026_DCG,APL2026,Deep Cross Gaming,DSL,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_DCG_2,Xcen,,Taiwan,APL2026_DCG,APL2026,Deep Cross Gaming,Jungle,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_DCG_3,XinChen,,Taiwan,APL2026_DCG,APL2026,Deep Cross Gaming,Mid,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_DCG_4,YouLun,,Taiwan,APL2026_DCG,APL2026,Deep Cross Gaming,Farm,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_DCG_5,Yaooo,,Taiwan,APL2026_DCG,APL2026,Deep Cross Gaming,Support,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_ANK_1,WeiT,,Taiwan,APL2026_ANK,APL2026,ANK Gaming,DSL,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_ANK_2,LiTing,,Taiwan,APL2026_ANK,APL2026,ANK Gaming,Jungle,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_ANK_3,Long,,Taiwan,APL2026_ANK,APL2026,ANK Gaming,Mid,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_ANK_4,Ying,,Taiwan,APL2026_ANK,APL2026,ANK Gaming,Farm,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_ANK_5,Tao,,Taiwan,APL2026_ANK,APL2026,ANK Gaming,Support,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_FPT_1,Vịt,,Vietnam,APL2026_FPT,APL2026,FPT Polytechnic,DSL,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_FPT_2,Oguu,,Vietnam,APL2026_FPT,APL2026,FPT Polytechnic,Jungle,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_FPT_3,Sleepy,,Vietnam,APL2026_FPT,APL2026,FPT Polytechnic,Mid,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_FPT_4,ThànhDuy,,Vietnam,APL2026_FPT,APL2026,FPT Polytechnic,Farm,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_FPT_5,ThếKhang,,Vietnam,APL2026_FPT,APL2026,FPT Polytechnic,Support,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_TF_1,HuyHoàng,,Vietnam,APL2026_TF,APL2026,Team Flash,DSL,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_TF_2,Gray,,Vietnam,APL2026_TF,APL2026,Team Flash,Jungle,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_TF_3,Maris,,Vietnam,APL2026_TF,APL2026,Team Flash,Mid,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_TF_4,BéTrọc,,Vietnam,APL2026_TF,APL2026,Team Flash,Farm,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_TF_5,Yutan,,Vietnam,APL2026_TF,APL2026,Team Flash,Support,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_SGP_1,Nolan,,Vietnam,APL2026_SGP,APL2026,Saigon Phantom,DSL,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_SGP_2,Yuu,,Vietnam,APL2026_SGP,APL2026,Saigon Phantom,Jungle,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_SGP_3,Fish,,Vietnam,APL2026_SGP,APL2026,Saigon Phantom,Mid,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_SGP_4,Shin,,Vietnam,APL2026_SGP,APL2026,Saigon Phantom,Farm,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_SGP_5,Khoa,,Vietnam,APL2026_SGP,APL2026,Saigon Phantom,Support,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_GAM_1,Adonis,,Vietnam,APL2026_GAM,APL2026,GAM Esports,DSL,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_GAM_2,Yiuling,,Vietnam,APL2026_GAM,APL2026,GAM Esports,Jungle,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_GAM_3,Aliyah,,Vietnam,APL2026_GAM,APL2026,GAM Esports,Mid,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_GAM_4,TiếnPhát,,Vietnam,APL2026_GAM,APL2026,GAM Esports,Farm,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_GAM_5,PhúHoàng,,Vietnam,APL2026_GAM,APL2026,GAM Esports,Support,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_BRU_1,Littleboyz,,Thailand,APL2026_BRU,APL2026,Buriram United Esports,DSL,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_BRU_2,AlmondP,,Thailand,APL2026_BRU,APL2026,Buriram United Esports,Jungle,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_BRU_3,NuNu,,Thailand,APL2026_BRU,APL2026,Buriram United Esports,Mid,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_BRU_4,Ligky,,Thailand,APL2026_BRU,APL2026,Buriram United Esports,Farm,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_BRU_5,Deawwy,,Thailand,APL2026_BRU,APL2026,Buriram United Esports,Support,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_FS_1,AshEarth,,Thailand,APL2026_FS,APL2026,FULL SENSE,DSL,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_FS_2,Overone,,Thailand,APL2026_FS,APL2026,FULL SENSE,Jungle,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_FS_3,Agetsive,,Thailand,APL2026_FS,APL2026,FULL SENSE,Mid,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_FS_4,Sharkz,,Thailand,APL2026_FS,APL2026,FULL SENSE,Farm,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_FS_5,NOARje,,Thailand,APL2026_FS,APL2026,FULL SENSE,Support,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_KGC_1,BASKUNG,,Thailand,APL2026_KGC,APL2026,King of Gamers Club,DSL,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_KGC_2,Cinderella,,Thailand,APL2026_KGC,APL2026,King of Gamers Club,Jungle,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_KGC_3,PuPu,,Thailand,APL2026_KGC,APL2026,King of Gamers Club,Mid,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_KGC_4,Nightza,,Thailand,APL2026_KGC,APL2026,King of Gamers Club,Farm,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_KGC_5,KrataiA,,Thailand,APL2026_KGC,APL2026,King of Gamers Club,Support,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_SOL_1,NTNz,,Thailand,APL2026_SOL,APL2026,Solyx Esports,DSL,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_SOL_2,Myra,,Thailand,APL2026_SOL,APL2026,Solyx Esports,Jungle,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_SOL_3,Psocute,,Thailand,APL2026_SOL,APL2026,Solyx Esports,Mid,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_SOL_4,Deboom,,Thailand,APL2026_SOL,APL2026,Solyx Esports,Farm,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_SOL_5,Acapae,,Thailand,APL2026_SOL,APL2026,Solyx Esports,Support,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_BT_1,MarkKy,,Thailand,APL2026_BT,APL2026,Bacon Time,DSL,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_BT_2,Bonus,,Thailand,APL2026_BT,APL2026,Bacon Time,Jungle,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_BT_3,Kimsensei,,Thailand,APL2026_BT,APL2026,Bacon Time,Mid,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_BT_4,Opar,,Thailand,APL2026_BT,APL2026,Bacon Time,Farm,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+PLAYER_APL2026_BT_5,Alawin,,Thailand,APL2026_BT,APL2026,Bacon Time,Support,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
