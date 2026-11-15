@@ -1,0 +1,41 @@
+team_id,tournament_id,team_name,region,country,source_url,verification_status
+AIC2017_SMG, AIC2017,SMG,Taiwan,Taiwan,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+AIC2017_GTV, AIC2017,GameTV,Vietnam,Vietnam,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+AIC2017_OLY, AIC2017,Team Olympus,South Korea,South Korea,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+AIC2017_MBC, AIC2017,Monori Bacon,Thailand,Thailand,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+AIC2017_PA, AIC2017,ProArmy,Vietnam,Vietnam,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+AIC2017_ST, AIC2017,Samsung Taiwan Esports,Taiwan,Taiwan,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+AIC2017_AR, AIC2017,ALPHA Red,Thailand,Thailand,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+AIC2017_TCL, AIC2017,Team CL,South Korea,South Korea,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+AIC2017_MVP, AIC2017,MVP,South Korea,South Korea,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+AIC2017_DAY5, AIC2017,Day5,South Korea,South Korea,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+AIC2017_AIN, AIC2017,AIN,South Korea,South Korea,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+AIC2017_EVOS, AIC2017,EVOS.AoV,Indonesia,Indonesia,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia,verified
+AIC2025_FS, AIC2025,FULL SENSE,Thailand,Thailand,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,verified
+AIC2025_FW, AIC2025,Flash Wolves,Taiwan,Taiwan,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,verified
+AIC2025_BT, AIC2025,Bacon Time,Thailand,Thailand,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,verified
+AIC2025_PSG, AIC2025,PSG Esports,Thailand,Thailand,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,verified
+AIC2025_ONE, AIC2025,ONE Team,Taiwan,Taiwan,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,verified
+AIC2025_TF, AIC2025,Team Flash,Vietnam,Vietnam,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,verified
+AIC2025_HKA, AIC2025,Hong Kong Attitude,Hong Kong,Hong Kong,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,verified
+AIC2025_OS, AIC2025,One Star Esports,Vietnam,Vietnam,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,verified
+AIC2025_BRU, AIC2025,Buriram United Esports,Thailand,Thailand,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,verified
+AIC2025_SGP, AIC2025,Saigon Phantom,Vietnam,Vietnam,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,verified
+AIC2025_DCG, AIC2025,Deep Cross Gaming,Taiwan,Taiwan,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,verified
+AIC2025_SN, AIC2025,Super Nova,Thailand,Thailand,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,verified
+APL2026_FPT, APL2026,FPT Polytechnic,Vietnam,Vietnam,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_TF, APL2026,Team Flash,Vietnam,Vietnam,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_SGP, APL2026,Saigon Phantom,Vietnam,Vietnam,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_GAM, APL2026,GAM Esports,Vietnam,Vietnam,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_DCG, APL2026,Deep Cross Gaming,Taiwan,Taiwan,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_ANK, APL2026,ANK Gaming,Taiwan,Taiwan,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_FW, APL2026,Flash Wolves,Taiwan,Taiwan,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_BM, APL2026,BanMei Gaming,Taiwan,Taiwan,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_BRU, APL2026,Buriram United Esports,Thailand,Thailand,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_FS, APL2026,FULL SENSE,Thailand,Thailand,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_KGC, APL2026,King of Gamers Club,Thailand,Thailand,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_SOL, APL2026,Solyx Esports,Thailand,Thailand,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_BT, APL2026,Bacon Time,Thailand,Thailand,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_ONE, APL2026,ONE Team,Taiwan,Taiwan,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_HKA, APL2026,Hong Kong Attitude,Hong Kong,Hong Kong,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
+APL2026_OS, APL2026,One Star Esports,Vietnam,Vietnam,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial
