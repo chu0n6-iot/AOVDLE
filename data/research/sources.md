@@ -1,0 +1,9 @@
+## Roster addendum – 2018 and 2019 verifiable subsets
+
+The supplementary CSV files `teams_addendum_2018_2019.csv`, `players_addendum_2018_2019.csv`, and `rosters_addendum_2018_2019.csv` contain a research subset for AWC 2018 and AIC 2019. These are **not complete editions** and should not be merged into production/game data as verified records yet.
+
+- AWC 2018 subset: 8 teams and 46 player-version candidates from event group-stage and contemporaneous source leads. Cross-check lead: Esports Earnings (https://www.esportsearnings.com/tournaments/29615-arena-of-valor-world-cup-2018) and HTH Gaming contemporary team coverage (https://hthgaming.com/aov/awc-2018-teams). Liquipedia: https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2018/Group_Stage and https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2018/Bootcamp.
+- AIC 2019 subset: event participant teams / player candidates from eight listed participant teams. Cross-check lead: https://www.esportsearnings.com/tournaments/40829-aov-international-championship-2019 and https://pressthegame.com/tournaments/arena-of-valor-international-championship/2019. Liquipedia: https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019 and its Group Stage page.
+- Every row leaves role, legal name, country, head coach, and confirmed match appearance blank/unknown where the consulted source material did not establish them.
+- `partial` is intentional: source-search summaries are not equivalent to direct validation of every row. Do not infer registration from a match mention or played status from registration list.
+- AIC 2018 and AWC 2019 are not added in this pass because the available summaries conflicted materially about participant teams and player-team membership; keep these editions pending direct event-page review rather than promoting disputed data.

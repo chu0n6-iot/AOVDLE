@@ -1,0 +1,17 @@
+team_id,tournament_id,team_name,region,country,source_url,verification_status
+AWC2018_KOR,AWC2018,Korea,,,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2018/Group_Stage,partial
+AWC2018_THA,AWC2018,Thailand,,,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2018/Group_Stage,partial
+AWC2018_TPE,AWC2018,Chinese Taipei,,,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2018/Group_Stage,partial
+AWC2018_CHN,AWC2018,China,,,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2018/Group_Stage,partial
+AWC2018_NA,AWC2018,North America,,,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2018/Group_Stage,partial
+AWC2018_TPE_WC,AWC2018,Chinese Taipei Wildcard,,,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2018/Group_Stage,partial
+AWC2018_THA_WC,AWC2018,Thailand Wildcard,,,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2018/Group_Stage,partial
+AWC2018_VNM,AWC2018,Vietnam,,,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2018/Group_Stage,partial
+AIC2019_TF,AIC2019,Team Flash,,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial
+AIC2019_BRU,AIC2019,Buriram United Esports,,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial
+AIC2019_HKA,AIC2019,Hong Kong Attitude,,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial
+AIC2019_IGP,AIC2019,HTVC IGP Gaming,,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial
+AIC2019_AHQ,AIC2019,ahq e-Sports Club,,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial
+AIC2019_EVOS,AIC2019,EVOS Esports,,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial
+AIC2019_ONE,AIC2019,ONE Team,,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial
+AIC2019_USG,AIC2019,Unsold Stuff Gaming,AIC 2019 main event,,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial
