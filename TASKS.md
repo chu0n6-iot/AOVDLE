@@ -72,7 +72,7 @@
 
 ### TASK-010: Media rights
 - Kiểm tra ảnh tuyển thủ, HLV, logo.
-- Ghi chủ sở hữu và giấy phép.
+- Ghi ch�� sở hữu và giấy phép.
 
 **Acceptance:** chỉ asset có quyền phù hợp mới được xuất bản.
 
@@ -169,3 +169,18 @@
 - Assistant Coach.
 - Full hero ban/pick simulation.
 - Women's competitions, 1v1 và HOK.
+
+## Research follow-up
+
+### TASK-026: Reconcile historical research data
+- Đối chiếu CSV hiện có từ 2019 trở đi với event-specific Liquipedia pages.
+- Đưa dữ liệu partial/unverified vào trạng thái quarantine; không cho vào game pool.
+- Sửa quan hệ ID / roster / player rows và phát hiện duplicate hoặc missing references.
+
+**Acceptance:** coverage manifest phản ánh từng edition; không ghi nhận full verification nếu chưa có chứng cứ trường-by-trường.
+
+### TASK-027: Build playable web MVP
+- Chưa bắt đầu: repo hiện tại không có application source, package manager manifest, scripts hay test setup.
+- Thực hiện sau khi stack/runtime được duyệt hoặc được cung cấp trong workspace có thể kiểm tra.
+
+**Acceptance:** build/test chạy thực tế, dữ liệu dùng theo nguồn hiện có, không có mock historical players.

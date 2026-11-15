@@ -4,48 +4,58 @@
 
 ## Trạng thái hiện tại
 
-**Overall status: DESIGN / PRE-DEVELOPMENT — historical data collection in progress**
+**Overall status: DESIGN / PRE-DEVELOPMENT — roster research and application implementation not complete**
 
-- Product direction: đã thống nhất trong tài liệu thiết kế.
-- Application code/database: chưa triển khai theo trạng thái đã biết.
-- Historical data: có bản khảo sát ban đầu và roster addendum một phần; chưa nghiệm thu đầy đủ.
-- Media permissions: chưa xác minh; không tải hoặc sử dụng ảnh.
+- Repository đang có tài liệu Markdown và CSV nghiên cứu; không thấy application source, package manifest, build/test scripts hay database.
+- Historical data CSV có dữ liệu một phần và mâu thuẫn; chưa nghiệm thu để dùng trong game pool.
+- Không có ảnh người chơi được tải hoặc tích hợp.
+- Chưa có build/test command để chạy trong repository hiện tại.
 
-## Historical data research
+## Scope được cập nhật
 
-- [x] Tạo dữ liệu khảo sát ban đầu cho giải, đội và roster AIC 2017/APL 2026.
-- [x] Bổ sung roster subset cho AWC 2018 và AIC 2019; trạng thái `partial`, không phải dữ liệu hoàn chỉnh/đã nghiệm thu.
-- [x] Lưu Liquipedia URLs và nguồn cross-check trong `data/research/sources.md`.
-- [ ] Thu thập roster đầy đủ cho các edition còn lại trong yêu cầu AWC 2018–AIC 2025.
-- [ ] Xác minh từng dòng roster đăng ký và phân biệt với người thực sự thi đấu.
-- [ ] Xác minh role DSL/Jungle/Mid/Farm/Support theo nguồn; không suy luận vị trí.
-- [ ] Xác minh Head Coach theo từng đội/edition.
-- [ ] Đối chiếu tên/nickname/quốc gia từng tuyển thủ khi có nguồn đáng tin.
-- [ ] Rà soát CSV hiện có về định dạng, khóa ID, trạng thái và tính nhất quán trước khi dùng làm dữ liệu ứng dụng.
+Roster audit này bao quát các edition AoV nam quốc tế từ 2019 đến APL 2026, không chỉ APL 2026:
 
-## Kết quả cập nhật roster
+AWC 2019, AIC 2019, APL 2020, AIC 2020, AWC 2021, AIC 2021, AIC 2022, APL 2022, APL 2023, AIC 2023, APL 2024, AIC 2024, APL 2025, AIC 2025 và APL 2026.
 
-- AWC 2018: 8 team rows và 46 player/roster rows đưa vào file addendum; partial, cần kiểm tra trực tiếp từng dòng theo nguồn event.
-- AIC 2019: 8 team rows đã được liệt kê; danh sách player subset cần hoàn thiện trong bước tiếp theo; partial.
-- AIC 2018 và AWC 2019: tạm chưa nhập roster vì các bản tóm tắt tìm kiếm bất nhất về đội dự giải và người chơi. Cần xác minh trực tiếp Liquipedia theo từng stage trước khi nhập.
-- Còn lại theo yêu cầu: APL 2020, AIC 2020, AWC 2021, AIC 2021, AIC 2022, APL 2022, APL 2023, AIC 2023, APL 2024, AIC 2024, APL 2025, AIC 2025.
+Danh sách theo edition và coverage status được lưu trong `data/research/roster_coverage_2019_2026.csv`.
 
-## Rủi ro / vấn đề còn lại
+## Kết quả kiểm tra CSV hiện có
 
-1. Bản tóm tắt tìm kiếm không phải bằng chứng đủ m���nh cho mọi dòng; các file addendum được giữ partial.
-2. Thông tin người thi đấu thực tế không đồng nghĩa với danh sách đăng ký; cần match sheet/game log.
-3. Vai trò thi đấu và Head Coach thường không có trong trang giải hoặc thay đổi theo trận.
-4. Quốc tịch, tên thật và nickname cần được xác minh riêng; không suy đoán từ khu vực/đội.
-5. AIC 2026 từng được ghi trạng thái held dù ngày dự kiến là tháng 12/2026; cần sửa status theo ngày kiểm tra trước khi nghiệm thu catalog.
-6. Rà soát thêm cấu trúc CSV cũ trước khi hợp nhất addendum; lần này dùng tên addendum để không ghi đè lịch sử dữ liệu hiện có.
+- Canonical `rosters.csv` có 50 dòng roster cho APL 2026, tất cả đều `partial`; không có dòng nào đạt đủ verified + role + nguồn đối chiếu để vào strict Draft pool.
+- Canonical `players.csv` có 55 dòng APL 2026 (partial), nhưng chỉ 50 dòng có cặp roster tương ứng; 5 player-version records chưa khớp rosters.csv.
+- `coaches.csv` có 14 dòng APL 2026, đều partial; không đủ điều kiện dùng Coach Draft verified-only.
+- Roster addendum 2018/2019 chỉ có 23 dòng AWC 2018 (partial); không có roster rows AIC 2019 dù `players_addendum_2018_2019.csv` có các candidate AIC 2019. Vì vậy các player rows đó chưa thể coi là roster đã xác minh.
+- Addenda hiện có chưa đồng nhất schema/IDs với các canonical CSV và cần được quarantine/đối soát trước khi dùng.
+- Các summary kết quả tìm kiếm về AWC/AIC/APL nhiều năm có mâu thuẫn team/player, duplicate assignments, nhầm wildcard/qualifier, và không phân biệt đăng ký với thi đấu. Không sao chép các danh sách đó vào dữ liệu chính.
+- Coverage hiện tại của 15 editions 2019–APL 2026: 0 editions có roster đủ chuẩn verified; 0 role rows verified đủ để khởi tạo game pool; 0 Head Coach rows verified.
 
-## Nguyên tắc tiếp tục
+## Việc đã hoàn thành trong lần cập nhật này
 
-Chỉ thêm từng edition sau khi có roster nguồn cụ thể. Mỗi player version phải gắn với tournament + team riêng; role/country/coach để trống nếu thiếu bằng chứng. Dữ liệu chưa đủ bằng chứng được đánh dấu `partial` hoặc `unverified`, không sử dụng như dữ liệu đã nghiệm thu.
+- [x] Kiểm kê tình trạng dữ liệu roster theo tất cả các edition từ AWC 2019 đến APL 2026.
+- [x] Tạo `data/research/roster_coverage_2019_2026.csv` làm manifest theo giải, có nguồn Liquipedia/đối chiếu, trạng thái và vấn đề còn lại.
+- [x] Cập nhật `TASKS.md` để ghi việc reconciliation dữ liệu và điều kiện trước khi xây web MVP.
+- [x] Giữ nguyên các CSV lịch sử/addendum; không ghi đè hoặc gộp dữ liệu chưa xác minh.
+
+## Chưa hoàn thành / blockers
+
+- [ ] Thu thập đầy đủ từng participant team, registered roster và played lineup cho từng edition 2019–2026.
+- [ ] Xác minh player identity, quốc gia, role, Head Coach, thời hạn roster và nguồn từng field.
+- [ ] Chuẩn hóa schema/IDs và reconcile các player rows bị thiếu roster relation.
+- [ ] Xác minh bằng chứng đồng thời roster + overlap trước khi tạo synergy evidence.
+- [ ] Xây dựng web MVP (Draft, Coach Draft, Dream Team, Synergy, Tournament UI).
+- [ ] Xác minh cấu hình APL 2026; chỉ các trường đã được nguồn xác nhận mới được hiển thị như luật.
+- [ ] Chạy build/test; chưa có ứng dụng/scripts trong repo để thực hiện.
+
+## Lưu ý về giải pháp
+
+Không dùng dữ liệu thiếu nguồn hoặc role làm dữ liệu giả để “đủ” 15 đối thủ. Theo RULES.md, chỉ dữ liệu verified mới được phép vào Draft/AI. Khi roster verified chưa đủ, MVP cần thể hiện empty/insufficient-data state thay vì tự tạo tuyển thủ, coach, role hoặc synergy.
+
+Không có ảnh nào được thêm. Không có thay đổi schema/database/kiến trúc. Không có code ứng dụng được thêm trong lần cập nhật này.
 
 ## Update log
 
 | Ngày | Thay đổi |
 |---|---|
-| 2026-11-15 | Ghi nhận kết quả xác minh ban đầu; tạo sources.md đúng đường dẫn. |
-| 2026-11-15 | Thêm roster addendum partial cho AWC 2018 và AIC 2019; ghi rõ AIC 2018/AWC 2019 đang giữ pending do nguồn mâu thuẫn. |
+| 2026-11-15 | Khởi tạo bộ tài liệu thiết kế. |
+| 2026-11-15 | Ghi nhận dữ liệu AWC 2018/AIC 2019 là subset partial, chưa nghiệm thu. |
+| 2026-11-15 | Rà soát coverage roster từ 2019 đến APL 2026; ghi rõ các bất nhất và tình trạng chưa đủ điều kiện cho MVP. |
