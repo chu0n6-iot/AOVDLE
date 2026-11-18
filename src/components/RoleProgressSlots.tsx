@@ -1,6 +1,6 @@
 import React from 'react';
 import { Role, ROLES, ROLE_LABELS, PlayerVersion, CoachVersion } from '../data/types';
-import { RotateCcw, Shield, CheckCircle2, Sparkles } from './icons';
+import { RotateCcw, Shield, CheckCircle2 } from './icons';
 import { getAssetUrl } from '../utils/assets';
 
 interface RoleProgressSlotsProps {
@@ -22,39 +22,42 @@ export const RoleProgressSlots: React.FC<RoleProgressSlotsProps> = ({
   onSelectRole,
   canReroll,
 }) => {
+  const pickedCount = ROLES.filter(r => picks[r] !== null).length;
+
   return (
-    <div className="bg-[#0D1923] rounded-2xl p-4 lg:p-5 border border-[#354653]/60 shadow-xl mb-6">
-      <div className="flex items-center justify-between gap-4 mb-3 pb-3 border-b border-[#354653]/40 flex-wrap">
-        <div>
-          <h3 className="font-['Barlow_Condensed'] font-black text-lg text-[#F2F0E9] flex items-center gap-2">
+    <div className="bg-[#0D1923] rounded-xl sm:rounded-2xl p-2 sm:p-3 border border-[#354653]/60 shadow-lg mb-2 sm:mb-3 shrink-0">
+      {/* Header bar */}
+      <div className="flex items-center justify-between gap-2 mb-2 pb-1.5 border-b border-[#354653]/40">
+        <div className="flex items-center gap-2">
+          <h3 className="font-['Barlow_Condensed'] font-black text-sm sm:text-base text-[#F2F0E9] flex items-center gap-1.5">
             <span>ĐỘI HÌNH DRAFT</span>
-            <span className="text-xs font-semibold px-2 py-0.5 rounded-full bg-[#142330] text-[#C9A45C] border border-[#C9A45C]/30">
-              {ROLES.filter(r => picks[r] !== null).length}/5 TUYỂN THỦ
+            <span className="text-[10px] sm:text-xs font-bold px-2 py-0.2 rounded-full bg-[#142330] text-[#C9A45C] border border-[#C9A45C]/30">
+              {pickedCount}/5 TUYỂN THỦ
             </span>
           </h3>
-          <p className="text-xs text-[#91A0AA]">
-            Chọn lần lượt 5 vị trí trên bản đồ, sau đó chọn 1 Head Coach.
-          </p>
+          <span className="text-[11px] text-[#91A0AA] hidden md:inline">
+            • Chọn 5 vị trí trên bản đồ, sau đó chọn Head Coach
+          </span>
         </div>
 
         {/* Reroll Button */}
         <button
           onClick={onReroll}
           disabled={!canReroll || rerollsLeft <= 0}
-          className={`flex items-center gap-2 px-4 py-2 rounded-xl font-['Barlow_Condensed'] font-bold text-sm tracking-wider transition-all duration-200 border ${
+          className={`flex items-center gap-1.5 px-2.5 sm:px-3 py-1 rounded-lg font-['Barlow_Condensed'] font-bold text-xs tracking-wider transition-all border cursor-pointer ${
             canReroll && rerollsLeft > 0
-              ? 'bg-gradient-to-r from-[#C9A45C] to-[#80683D] text-[#071018] border-[#F2F0E9]/30 hover:shadow-lg hover:shadow-[#C9A45C]/25 hover:scale-105 active:scale-95'
+              ? 'bg-gradient-to-r from-[#C9A45C] to-[#80683D] text-[#071018] border-[#F2F0E9]/30 hover:scale-105 active:scale-95 shadow-sm'
               : 'bg-[#142330] text-[#91A0AA]/40 border-[#354653]/40 cursor-not-allowed'
           }`}
           title={rerollsLeft <= 0 ? 'Đã hết lượt reroll' : 'Đổi 3 đội tuyển khác'}
         >
-          <RotateCcw className={`w-4 h-4 ${rerollsLeft > 0 ? 'animate-spin-slow' : ''}`} />
+          <RotateCcw className={`w-3.5 h-3.5 ${rerollsLeft > 0 ? 'animate-spin-slow' : ''}`} />
           <span>REROLL ({rerollsLeft}/3)</span>
         </button>
       </div>
 
-      {/* 5 Role Slots + 1 Coach Slot Grid */}
-      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-3">
+      {/* 5 Role Slots + 1 Coach Slot Grid (Single row of 6 on sm+) */}
+      <div className="grid grid-cols-6 gap-1.5 sm:gap-2">
         {ROLES.map(role => {
           const player = picks[role];
           const isTarget = targetRole === role;
@@ -64,50 +67,47 @@ export const RoleProgressSlots: React.FC<RoleProgressSlotsProps> = ({
             <div
               key={role}
               onClick={() => onSelectRole(role)}
-              className={`relative rounded-xl p-2.5 border transition-all cursor-pointer flex flex-col items-center text-center ${
+              className={`relative rounded-lg p-1 sm:p-1.5 border transition-all cursor-pointer flex flex-col items-center text-center select-none ${
                 player
                   ? 'bg-[#142330] border-[#C9A45C]/60 hover:border-[#C9A45C]'
                   : isTarget
-                  ? 'bg-[#142330]/80 border-[#C9A45C] ring-2 ring-[#C9A45C]/40 animate-pulse'
-                  : 'bg-[#071018]/60 border-[#354653]/60 hover:border-[#354653]'
+                  ? 'bg-[#142330] border-[#C9A45C] ring-1 ring-[#C9A45C] shadow-sm'
+                  : 'bg-[#071018]/70 border-[#354653]/50 hover:border-[#354653]'
               }`}
             >
-              {/* Role Indicator Header */}
-              <div className="w-full flex items-center justify-between mb-1.5 px-1">
-                <span className="font-['Barlow_Condensed'] font-bold text-xs text-[#C9A45C] tracking-wide">
+              {/* Role Header */}
+              <div className="w-full flex items-center justify-between px-0.5 mb-1 leading-none">
+                <span className="font-['Barlow_Condensed'] font-bold text-[10px] sm:text-xs text-[#C9A45C]">
                   {role}
                 </span>
-                {player && <CheckCircle2 className="w-3.5 h-3.5 text-[#3EAD83]" />}
+                {player && <CheckCircle2 className="w-2.5 h-2.5 sm:w-3 sm:h-3 text-[#3EAD83]" />}
               </div>
 
-              {/* Slot Avatar / Placeholder */}
-              <div className="w-12 h-12 rounded-lg bg-[#071018] border border-[#354653] overflow-hidden flex items-center justify-center mb-1.5 p-1 relative">
+              {/* Avatar Icon */}
+              <div className="w-7 h-7 sm:w-9 sm:h-9 rounded-md bg-[#071018] border border-[#354653] overflow-hidden flex items-center justify-center p-0.5 relative mb-0.5">
                 {player ? (
                   <img
                     src={getAssetUrl(player.portrait_url || '/assets/placeholders/player-portrait.svg')}
                     alt={player.player_name}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover rounded"
                   />
                 ) : (
                   <img
                     src={getAssetUrl(label.icon)}
                     alt={role}
-                    className="w-6 h-6 opacity-40"
+                    className="w-4 h-4 sm:w-5 sm:h-5 opacity-40"
                   />
                 )}
                 {player && (
-                  <span className="absolute bottom-0 right-0 bg-[#0D1923] text-[#C9A45C] font-black text-[9px] px-1 border-t border-l border-[#C9A45C]/40 rounded-tl">
+                  <span className="absolute bottom-0 right-0 bg-[#0D1923] text-[#C9A45C] font-black text-[8px] sm:text-[9px] px-0.5 leading-none rounded-tl">
                     {player.rating}
                   </span>
                 )}
               </div>
 
-              {/* Player Name / Empty Label */}
-              <p className="font-['Barlow_Condensed'] font-bold text-xs text-[#F2F0E9] truncate w-full">
+              {/* Name */}
+              <p className="font-['Barlow_Condensed'] font-bold text-[10px] sm:text-xs text-[#F2F0E9] truncate w-full leading-tight">
                 {player ? player.player_name : label.vi}
-              </p>
-              <p className="text-[10px] text-[#91A0AA] truncate w-full">
-                {player ? `${player.year} • ${player.team_name.split(' ')[0]}` : 'Chưa chọn'}
               </p>
             </div>
           );
@@ -115,41 +115,38 @@ export const RoleProgressSlots: React.FC<RoleProgressSlotsProps> = ({
 
         {/* Coach Slot */}
         <div
-          className={`relative rounded-xl p-2.5 border transition-all flex flex-col items-center text-center ${
+          className={`relative rounded-lg p-1 sm:p-1.5 border transition-all flex flex-col items-center text-center select-none ${
             coach
               ? 'bg-[#142330] border-[#C9A45C]/60'
-              : 'bg-[#071018]/60 border-[#354653]/60'
+              : 'bg-[#071018]/70 border-[#354653]/50'
           }`}
         >
-          <div className="w-full flex items-center justify-between mb-1.5 px-1">
-            <span className="font-['Barlow_Condensed'] font-bold text-xs text-[#C9A45C] tracking-wide">
+          <div className="w-full flex items-center justify-between px-0.5 mb-1 leading-none">
+            <span className="font-['Barlow_Condensed'] font-bold text-[10px] sm:text-xs text-[#C9A45C]">
               COACH
             </span>
-            {coach && <CheckCircle2 className="w-3.5 h-3.5 text-[#3EAD83]" />}
+            {coach && <CheckCircle2 className="w-2.5 h-2.5 sm:w-3 sm:h-3 text-[#3EAD83]" />}
           </div>
 
-          <div className="w-12 h-12 rounded-lg bg-[#071018] border border-[#354653] overflow-hidden flex items-center justify-center mb-1.5 p-1 relative">
+          <div className="w-7 h-7 sm:w-9 sm:h-9 rounded-md bg-[#071018] border border-[#354653] overflow-hidden flex items-center justify-center p-0.5 relative mb-0.5">
             {coach ? (
               <img
                 src={getAssetUrl(coach.portrait_url || '/assets/placeholders/coach-portrait.svg')}
                 alt={coach.coach_name}
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover rounded"
               />
             ) : (
-              <Shield className="w-6 h-6 text-[#91A0AA]/30" />
+              <Shield className="w-4 h-4 sm:w-5 sm:h-5 text-[#91A0AA]/30" />
             )}
             {coach && (
-              <span className="absolute bottom-0 right-0 bg-[#0D1923] text-[#C9A45C] font-black text-[9px] px-1 border-t border-l border-[#C9A45C]/40 rounded-tl">
+              <span className="absolute bottom-0 right-0 bg-[#0D1923] text-[#C9A45C] font-black text-[8px] sm:text-[9px] px-0.5 leading-none rounded-tl">
                 {coach.rating}
               </span>
             )}
           </div>
 
-          <p className="font-['Barlow_Condensed'] font-bold text-xs text-[#F2F0E9] truncate w-full">
-            {coach ? coach.coach_name : 'Head Coach'}
-          </p>
-          <p className="text-[10px] text-[#91A0AA] truncate w-full">
-            {coach ? `${coach.year} • ${coach.team_name.split(' ')[0]}` : 'Vòng 2'}
+          <p className="font-['Barlow_Condensed'] font-bold text-[10px] sm:text-xs text-[#F2F0E9] truncate w-full leading-tight">
+            {coach ? coach.coach_name : 'HLV Trưởng'}
           </p>
         </div>
       </div>

@@ -22,24 +22,24 @@ export const Navbar: React.FC<NavbarProps> = ({
 
   return (
     <>
-      <header className="sticky top-0 z-40 bg-[#0D1923]/95 backdrop-blur-md border-b border-[#354653]/60 px-4 lg:px-8 py-3">
-        <div className="max-w-7xl mx-auto flex items-center justify-between gap-4">
+      <header className="sticky top-0 z-40 bg-[#0D1923]/95 backdrop-blur-md border-b border-[#354653]/60 px-3 sm:px-6 py-1.5 sm:py-2 shrink-0">
+        <div className="max-w-7xl mx-auto flex items-center justify-between gap-3">
           {/* Logo & Brand */}
-          <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-[#C9A45C] to-[#80683D] flex items-center justify-center shadow-lg shadow-[#C9A45C]/20 border border-[#F2F0E9]/20">
-              <Shield className="w-6 h-6 text-[#071018]" />
+          <div className="flex items-center gap-2.5">
+            <div className="w-8 h-8 sm:w-9 sm:h-9 rounded-lg bg-gradient-to-br from-[#C9A45C] to-[#80683D] flex items-center justify-center shadow-md border border-[#F2F0E9]/20 shrink-0">
+              <Shield className="w-4 h-4 sm:w-5 sm:h-5 text-[#071018]" />
             </div>
             <div>
-              <div className="flex items-center gap-2">
-                <span className="font-['Barlow_Condensed'] font-black text-2xl lg:text-3xl tracking-wider text-[#F2F0E9]">
+              <div className="flex items-center gap-1.5 leading-none">
+                <span className="font-['Barlow_Condensed'] font-black text-xl sm:text-2xl tracking-wider text-[#F2F0E9]">
                   AOV<span className="text-[#C9A45C]">DLE</span>
                 </span>
-                <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-[#C9A45C]/20 text-[#C9A45C] border border-[#C9A45C]/40">
+                <span className="text-[9px] font-bold px-1 py-0.2 rounded bg-[#C9A45C]/20 text-[#C9A45C] border border-[#C9A45C]/40">
                   APL 2026
                 </span>
               </div>
-              <p className="text-[11px] text-[#91A0AA] hidden sm:block tracking-wide">
-                Build your Dream Team • Choose Coach • Rewrite History
+              <p className="text-[10px] text-[#91A0AA] hidden md:block tracking-wide mt-0.5">
+                Draft Đội Hình • Chọn HLV • Mô Phỏng Esports Đỉnh Cao
               </p>
             </div>
           </div>

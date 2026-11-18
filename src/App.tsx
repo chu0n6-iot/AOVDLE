@@ -167,8 +167,11 @@ export const App: React.FC = () => {
     }
   };
 
+  // Draft view mode for mobile screens: 'teams' or 'map'
+  const [mobileDraftView, setMobileDraftView] = useState<'teams' | 'map'>('teams');
+
   return (
-    <div className="min-h-screen bg-[#071018] text-[#F2F0E9] flex flex-col selection:bg-[#C9A45C] selection:text-[#071018]">
+    <div className="h-[100dvh] max-h-[100dvh] w-full bg-[#071018] text-[#F2F0E9] flex flex-col overflow-hidden selection:bg-[#C9A45C] selection:text-[#071018]">
       {/* Top Navbar */}
       <Navbar
         currentTab={currentTab === 'champion' ? 'tournament' : currentTab}
@@ -179,11 +182,11 @@ export const App: React.FC = () => {
         onResetGame={handleResetGame}
       />
 
-      {/* Main Content Area */}
-      <main className="flex-1 pb-16">
+      {/* Main Content Area - Contained Viewport Scroll */}
+      <main className="flex-1 min-h-0 overflow-y-auto overflow-x-hidden flex flex-col">
         {/* TAB 1: DRAFT SCREEN */}
         {currentTab === 'draft' && (
-          <div className="max-w-7xl mx-auto px-4 lg:px-8 py-6">
+          <div className="w-full max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 py-3 sm:py-4 flex-1 flex flex-col min-h-0">
             {/* Top Slots Progress Indicator */}
             <RoleProgressSlots
               picks={draftState.picks}
@@ -191,26 +194,57 @@ export const App: React.FC = () => {
               targetRole={draftState.targetRole}
               rerollsLeft={draftState.rerollsLeft}
               onReroll={() => setDraftState(prev => rerollDraftTeams(prev))}
-              onSelectRole={role => setDraftState(prev => ({ ...prev, targetRole: role }))}
+              onSelectRole={role => {
+                setDraftState(prev => ({ ...prev, targetRole: role }));
+                if (window.innerWidth < 1024) setMobileDraftView('teams');
+              }}
               canReroll={draftState.phase === 'team_draft'}
             />
 
-            {/* Two-Column Layout */}
-            <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+            {/* Mobile View Toggle Pills (Visible only on < lg) */}
+            <div className="flex lg:hidden items-center justify-center gap-2 mb-3 shrink-0">
+              <button
+                onClick={() => setMobileDraftView('teams')}
+                className={`flex-1 py-1.5 px-3 rounded-xl text-xs font-['Barlow_Condensed'] font-bold tracking-wider uppercase transition-all ${
+                  mobileDraftView === 'teams'
+                    ? 'bg-[#C9A45C] text-[#071018] shadow-md shadow-[#C9A45C]/20'
+                    : 'bg-[#142330] text-[#91A0AA] border border-[#354653]/60'
+                }`}
+              >
+                {draftState.phase === 'player_draft' ? 'Chọn Tuyển Thủ' : '3 Đội Tuyển'}
+              </button>
+              <button
+                onClick={() => setMobileDraftView('map')}
+                className={`flex-1 py-1.5 px-3 rounded-xl text-xs font-['Barlow_Condensed'] font-bold tracking-wider uppercase transition-all ${
+                  mobileDraftView === 'map'
+                    ? 'bg-[#C9A45C] text-[#071018] shadow-md shadow-[#C9A45C]/20'
+                    : 'bg-[#142330] text-[#91A0AA] border border-[#354653]/60'
+                }`}
+              >
+                Bản Đồ Chiến Trường ({picksCount}/5)
+              </button>
+            </div>
+
+            {/* Main Draft Layout: 2 Columns on Desktop, Switchable on Mobile */}
+            <div className="grid grid-cols-1 lg:grid-cols-12 gap-4 lg:gap-8 items-start flex-1 min-h-0">
               {/* LEFT COLUMN: 3 Team Cards or Roster Selection (6 cols) */}
-              <div className="lg:col-span-6 space-y-4">
+              <div
+                className={`lg:col-span-6 space-y-3 ${
+                  mobileDraftView === 'teams' ? 'block' : 'hidden lg:block'
+                }`}
+              >
                 {draftState.phase === 'team_draft' && (
                   <div>
-                    <div className="flex items-center justify-between mb-4">
-                      <h2 className="font-['Barlow_Condensed'] font-black text-2xl text-[#F2F0E9] tracking-wider">
+                    <div className="flex items-center justify-between mb-2">
+                      <h2 className="font-['Barlow_Condensed'] font-black text-lg sm:text-xl text-[#F2F0E9] tracking-wider">
                         CHỌN 1 TRONG 3 ĐỘI TUYỂN
                       </h2>
-                      <span className="text-xs text-[#C9A45C] font-semibold">
+                      <span className="text-xs text-[#C9A45C] font-semibold bg-[#C9A45C]/10 px-2 py-0.5 rounded-full border border-[#C9A45C]/30">
                         Lượt {picksCount + 1} / 5
                       </span>
                     </div>
 
-                    <div className="space-y-4">
+                    <div className="space-y-2.5">
                       {draftState.currentTeamChoices.map((team, idx) => (
                         <TeamCard
                           key={team.team_id}
@@ -236,11 +270,18 @@ export const App: React.FC = () => {
               </div>
 
               {/* RIGHT COLUMN: Interactive Antaris Battlefield Map (6 cols) */}
-              <div className="lg:col-span-6 flex flex-col items-center">
+              <div
+                className={`lg:col-span-6 flex flex-col items-center justify-center ${
+                  mobileDraftView === 'map' ? 'block' : 'hidden lg:flex'
+                }`}
+              >
                 <MapDraftView
                   picks={draftState.picks}
                   targetRole={draftState.targetRole}
-                  onSelectRole={role => setDraftState(prev => ({ ...prev, targetRole: role }))}
+                  onSelectRole={role => {
+                    setDraftState(prev => ({ ...prev, targetRole: role }));
+                    if (window.innerWidth < 1024) setMobileDraftView('teams');
+                  }}
                 />
               </div>
             </div>

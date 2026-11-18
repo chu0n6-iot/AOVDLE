@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -35,6 +35,19 @@ jobs:
 
       - name: Build production bundle
         run: npm run build
+
+      - name: Ensure 404.html & .nojekyll in build output
+        run: |
+          cp dist/index.html dist/404.html || true
+          touch dist/.nojekyll
+
+      - name: Deploy to gh-pages branch (compatible with branch-based deployment)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          force_orphan: true
+          commit_message: "Deploy AOVDLE production build [skip ci]"
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v3

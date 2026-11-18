@@ -24,7 +24,7 @@ export const MapDraftView: React.FC<MapDraftViewProps> = ({
   onSelectRole,
 }) => {
   return (
-    <div className="relative w-full aspect-square max-w-[620px] mx-auto rounded-2xl overflow-hidden border-2 border-[#C9A45C]/40 bg-[#071018] shadow-2xl shadow-[#C9A45C]/15 group">
+    <div className="relative w-full aspect-square max-h-[min(50vh,440px)] max-w-[min(50vh,440px)] mx-auto rounded-2xl overflow-hidden border-2 border-[#C9A45C]/40 bg-[#071018] shadow-2xl shadow-[#C9A45C]/15 group shrink-0">
       {/* Background Overhead Map */}
       <img
         src={getAssetUrl('/assets/maps/aov_antaris_map.png')}

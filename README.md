@@ -2,18 +2,26 @@
 
 > Build your Dream Team. Choose your Coach. Rewrite your history.
 
+🎮 **Chơi bản Web Online:** [https://chu0n6-iot.github.io/AOVDLE/](https://chu0n6-iot.github.io/AOVDLE/)  
+📱 **Tài liệu Kế hoạch iOS:** [IOS_DEVELOPMENT_PLAN.md](file:///c:/Users/letro/AOVDLE/IOS_DEVELOPMENT_PLAN.md)  
+🤝 **Hướng dẫn Đóng góp Sự kiện:** [CONTRIBUTING.md](file:///c:/Users/letro/AOVDLE/CONTRIBUTING.md)  
+📂 **Kho Dữ liệu Giải đấu:** [src/data/](file:///c:/Users/letro/AOVDLE/src/data/)
+
+---
+
 ## 1. Giới thiệu
 
-**AOVDLE** là web game Draft & Tournament Simulation lấy cảm hứng từ lịch sử thi đấu chuyên nghiệp của Arena of Valor (Liên Quân Mobile).
+**AOVDLE** là web game Draft & Tournament Simulation lấy cảm hứng từ lịch sử thi đấu thể thao điện tử Arena of Valor (Liên Quân Mobile) đỉnh cao qua các kỳ AWC, AIC và APL.
 
-Người chơi xây dựng đội hình Dream Team từ các thế hệ tuyển thủ từng tham dự giải đấu quốc tế, lựa chọn một Head Coach và đưa đội hình tham gia giải đấu giả lập.
+Người chơi xây dựng đội hình Dream Team từ các thế hệ tuyển thủ từng tham dự giải đấu quốc tế, lựa chọn một Head Coach chiến lược và đưa đội hình tham gia giải đấu giả lập quốc tế APL 2026.
 
-Điểm đặc biệt của AOVDLE:
-- Tuyển thủ có phiên bản riêng theo từng mùa giải.
-- Ảnh tuyển thủ theo đúng thời kỳ thi đấu.
-- Có thể lựa chọn Head Coach.
-- Hidden Synergy giữa những tuyển thủ từng thi đấu chung đội.
-- Tournament Simulation dựa trên thể thức APL 2026.
+### Điểm đặc biệt của AOVDLE:
+- **Tuyển thủ theo từng mùa giải lịch sử:** Mỗi tuyển thủ sở hữu ảnh thi đấu thực tế, chỉ số sức mạnh theo năm đỉnh cao và thông số vai trò chi tiết.
+- **Head Coach & Chiến thuật:** Tuyển chọn HLV trưởng với các trường phái chiến thuật riêng biệt (Kiểm soát mục tiêu, Snowball đầu trận, Giao tranh tổng cuối trận...).
+- **Hidden Synergy:** Kích hoạt hệ số buff ẩn khi tái hợp những đồng đội hoặc thầy trò từng cùng chung màu áo lịch sử.
+- **Realistic Esports Simulation:** Mô phỏng từng ván đấu (Match-by-match) với timeline thời gian thực (First Blood, Rồng ánh sáng, Tà thần Caesar, Lật kèo, Quét sạch, Phá vỡ Nhà chính).
+- **Hệ thống FMVP giải đấu:** Vinh danh Tuyển thủ xuất sắc nhất giải đấu dựa trên số lần MVP ván, KDA toàn giải, tỷ lệ tham gia hạ gục (KP%) và phong độ đỉnh cao.
+- **Thiết kế Responsive Fullscreen (100dvh):** Tối ưu hóa trải nghiệm trên Desktop/Laptop ngang và Điện thoại di động (Dọc & Ngang), loại bỏ thanh cuộn trang toàn cục phiền toái.
 
 ## 2. Phạm vi dự án
 
@@ -300,25 +308,33 @@ Dự án được chia thành 5 module chính:
 - Tách biệt Data, Draft, Rating và Simulation.
 - Mỗi giai đoạn phải được kiểm thử trước khi tiếp tục.
 
-## 12. Current Project Status
+## 12. Current Project Status & Deployment
 
-**Status: DESIGN / PRE-DEVELOPMENT**
+**Status: v2.1.0 — BIG UPDATE: REALISTIC ESPORTS SIMULATION & RESPONSIVE FULLSCREEN**
 
-Các quyết định sản phẩm đã được thống nhất:
+- [x] AoV International Historical Data (AWC, AIC, APL).
+- [x] Male Players & Head Coaches from Saigon Phantom, Team Flash, Talon, Bacon Time, Buriram United, Flash Wolves, ONE Team, MAD Team, Bikertopia...
+- [x] Interactive Battlefield Map (Antaris) & 5-position Player Draft.
+- [x] Head Coach Draft & Tactical Identity Buffs.
+- [x] Strict Historical Hidden Synergy Engine.
+- [x] Dynamic Player Form (Excellent, Strong, Stable, Inconsistent, Poor).
+- [x] Match-by-Match Realistic Simulation Engine with Timeline Events & Live Scoreboard.
+- [x] Full APL 2026 Tournament Format: Swiss Stage (16 teams) -> Double Elimination Playoffs (8 teams).
+- [x] Tournament FMVP Award Selection & Trophy Celebration.
+- [x] Responsive Fullscreen (100dvh) without awkward outer page scrolling across Desktop, Mobile Portrait & Mobile Landscape.
+- [x] GitHub Pages SPA Routing (`404.html`), `.nojekyll`, and automated dual deployment workflow.
 
-- [x] AoV International Scope.
-- [x] Male Players Only.
-- [x] Exclude HOK.
-- [x] Player Draft – 5 Positions.
-- [x] Coach Draft – Head Coach.
-- [x] 3 Rerolls.
-- [x] Strict Hidden Synergy.
-- [x] APL 2026 Main Event Simulation.
-- [x] Wildcard Deferred.
+### Hướng dẫn Kích hoạt GitHub Pages trên Repository
 
-Chưa triển khai code ứng dụng.
+Để đưa website lên online tại `https://chu0n6-iot.github.io/AOVDLE/`, thực hiện các bước sau trên GitHub:
 
-**Next Step:** Repository Audit & Data Foundation Planning.
+1. Mở trang quản trị kho chứa trên trình duyệt: **GitHub Repository -> Settings**.
+2. Tại thanh điều hướng bên trái, chọn tab **Pages** (thuộc mục *Code and automation*).
+3. Tại phần **Build and deployment -> Source**, bạn có thể chọn một trong hai phương thức:
+   - **Phương thức 1 (Khuyên dùng - GitHub Actions):** Chọn `GitHub Actions`. Khi push code mới lên nhánh `main`, quy trình `.github/workflows/deploy.yml` sẽ tự động đóng gói và xuất bản.
+   - **Phương thức 2 (Deploy from a branch):** Chọn `Deploy from a branch`, chọn nhánh `gh-pages` và thư mục `/ (root)`, sau đó nhấn **Save**.
+4. Chờ 1–2 phút cho GitHub xuất bản. Website sẽ chính thức hoạt động tại:  
+   👉 **`https://chu0n6-iot.github.io/AOVDLE/`**
 
 ---
 

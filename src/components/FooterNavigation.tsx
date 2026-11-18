@@ -25,9 +25,9 @@ export const FooterNavigation: React.FC = () => {
   ];
 
   return (
-    <footer className="border-t border-[#354653]/40 py-5 bg-[#071018] text-center shrink-0">
-      <div className="max-w-7xl mx-auto px-4 flex flex-col items-center justify-center gap-2">
-        <nav className="flex flex-wrap items-center justify-center gap-x-2.5 gap-y-1.5 text-xs sm:text-sm">
+    <footer className="border-t border-[#354653]/40 py-2 sm:py-2.5 bg-[#071018] text-center shrink-0 z-30">
+      <div className="max-w-7xl mx-auto px-3 sm:px-4 flex flex-col items-center justify-center gap-1">
+        <nav className="flex flex-wrap items-center justify-center gap-x-2.5 gap-y-1 text-[11px] sm:text-xs">
           {links.map((link, idx) => (
             <React.Fragment key={idx}>
               <a
