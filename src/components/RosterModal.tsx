@@ -1,6 +1,7 @@
 import React from 'react';
 import { TeamSeason, PlayerVersion, Role, ROLE_LABELS } from '../data/types';
 import { ArrowLeft, Shield, Sparkles } from './icons';
+import { getAssetUrl } from '../utils/assets';
 
 interface RosterModalProps {
   team: TeamSeason;
@@ -71,7 +72,7 @@ export const RosterModal: React.FC<RosterModalProps> = ({
                 {/* Portrait */}
                 <div className="w-12 h-12 rounded-lg bg-[#071018] border border-[#354653] p-1 shrink-0 overflow-hidden flex items-center justify-center">
                   <img
-                    src={player.portrait_url || '/assets/placeholders/player-portrait.svg'}
+                    src={getAssetUrl(player.portrait_url || '/assets/placeholders/player-portrait.svg')}
                     alt={player.player_name}
                     className="w-full h-full object-cover"
                   />
@@ -90,7 +91,7 @@ export const RosterModal: React.FC<RosterModalProps> = ({
 
                   <div className="flex items-center gap-2 text-xs text-[#91A0AA] mt-0.5">
                     <span className="flex items-center gap-1 text-[11px] font-medium text-[#C9A45C]">
-                      <img src={roleInfo.icon} alt={player.role} className="w-3.5 h-3.5" />
+                      <img src={getAssetUrl(roleInfo.icon)} alt={player.role} className="w-3.5 h-3.5" />
                       {player.role}
                     </span>
                     <span>•</span>

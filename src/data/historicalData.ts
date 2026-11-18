@@ -294,7 +294,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia",
     "verification_status": "verified",
     "year": 2017,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2017_SMG/logo.svg"
   },
   {
     "team_id": "AIC2017_GTV",
@@ -305,7 +305,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia",
     "verification_status": "verified",
     "year": 2017,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2017_GTV/logo.svg"
   },
   {
     "team_id": "AIC2017_OLY",
@@ -316,7 +316,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia",
     "verification_status": "verified",
     "year": 2017,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2017_OLY/logo.svg"
   },
   {
     "team_id": "AIC2017_MBC",
@@ -327,7 +327,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia",
     "verification_status": "verified",
     "year": 2017,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2017_MBC/logo.svg"
   },
   {
     "team_id": "AIC2017_PA",
@@ -338,7 +338,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia",
     "verification_status": "verified",
     "year": 2017,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2017_PA/logo.svg"
   },
   {
     "team_id": "AIC2017_ST",
@@ -349,7 +349,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia",
     "verification_status": "verified",
     "year": 2017,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2017_ST/logo.svg"
   },
   {
     "team_id": "AIC2017_AR",
@@ -360,7 +360,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia",
     "verification_status": "verified",
     "year": 2017,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2017_AR/logo.svg"
   },
   {
     "team_id": "AIC2017_TCL",
@@ -371,7 +371,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia",
     "verification_status": "verified",
     "year": 2017,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2017_TCL/logo.svg"
   },
   {
     "team_id": "AIC2017_MVP",
@@ -382,7 +382,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia",
     "verification_status": "verified",
     "year": 2017,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2017_MVP/logo.svg"
   },
   {
     "team_id": "AIC2017_DAY5",
@@ -393,7 +393,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia",
     "verification_status": "verified",
     "year": 2017,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2017_DAY5/logo.svg"
   },
   {
     "team_id": "AIC2017_AIN",
@@ -404,7 +404,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia",
     "verification_status": "verified",
     "year": 2017,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2017_AIN/logo.svg"
   },
   {
     "team_id": "AIC2017_EVOS",
@@ -415,7 +415,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2017/Asia",
     "verification_status": "verified",
     "year": 2017,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2017_EVOS/logo.svg"
   },
   {
     "team_id": "AIC2025_FS",
@@ -426,7 +426,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "verified",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_FS/logo.svg"
   },
   {
     "team_id": "AIC2025_FW",
@@ -437,7 +437,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "verified",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_FW/logo.svg"
   },
   {
     "team_id": "AIC2025_BT",
@@ -448,7 +448,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "verified",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_BT/logo.svg"
   },
   {
     "team_id": "AIC2025_PSG",
@@ -459,7 +459,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "verified",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_PSG/logo.svg"
   },
   {
     "team_id": "AIC2025_ONE",
@@ -470,7 +470,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "verified",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_ONE/logo.svg"
   },
   {
     "team_id": "AIC2025_TF",
@@ -481,7 +481,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "verified",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_TF/logo.svg"
   },
   {
     "team_id": "AIC2025_HKA",
@@ -492,7 +492,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "verified",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_HKA/logo.svg"
   },
   {
     "team_id": "AIC2025_OS",
@@ -503,7 +503,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "verified",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_OS/logo.svg"
   },
   {
     "team_id": "AIC2025_BRU",
@@ -514,7 +514,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "verified",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_BRU/logo.svg"
   },
   {
     "team_id": "AIC2025_SGP",
@@ -525,7 +525,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "verified",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_SGP/logo.svg"
   },
   {
     "team_id": "AIC2025_DCG",
@@ -536,7 +536,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "verified",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_DCG/logo.svg"
   },
   {
     "team_id": "AIC2025_SN",
@@ -547,7 +547,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "verified",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_SN/logo.svg"
   },
   {
     "team_id": "APL2026_FPT",
@@ -558,7 +558,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_FPT/logo.svg"
   },
   {
     "team_id": "APL2026_TF",
@@ -569,7 +569,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_TF/logo.svg"
   },
   {
     "team_id": "APL2026_SGP",
@@ -580,7 +580,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_SGP/logo.svg"
   },
   {
     "team_id": "APL2026_GAM",
@@ -591,7 +591,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_GAM/logo.svg"
   },
   {
     "team_id": "APL2026_DCG",
@@ -602,7 +602,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_DCG/logo.svg"
   },
   {
     "team_id": "APL2026_ANK",
@@ -613,7 +613,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_ANK/logo.svg"
   },
   {
     "team_id": "APL2026_FW",
@@ -624,7 +624,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_FW/logo.svg"
   },
   {
     "team_id": "APL2026_BM",
@@ -635,7 +635,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_BM/logo.svg"
   },
   {
     "team_id": "APL2026_BRU",
@@ -646,7 +646,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_BRU/logo.svg"
   },
   {
     "team_id": "APL2026_FS",
@@ -657,7 +657,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_FS/logo.svg"
   },
   {
     "team_id": "APL2026_KGC",
@@ -668,7 +668,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_KGC/logo.svg"
   },
   {
     "team_id": "APL2026_SOL",
@@ -679,7 +679,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_SOL/logo.svg"
   },
   {
     "team_id": "APL2026_BT",
@@ -690,7 +690,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_BT/logo.svg"
   },
   {
     "team_id": "APL2026_ONE",
@@ -701,7 +701,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_ONE/logo.svg"
   },
   {
     "team_id": "APL2026_HKA",
@@ -712,7 +712,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_HKA/logo.svg"
   },
   {
     "team_id": "APL2026_OS",
@@ -723,7 +723,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026",
     "verification_status": "partial",
     "year": 2026,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2026_OS/logo.svg"
   },
   {
     "team_id": "AWC2019_FL",
@@ -734,7 +734,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2019_FL/logo.svg"
   },
   {
     "team_id": "AWC2019_BOX",
@@ -745,7 +745,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2019_BOX/logo.svg"
   },
   {
     "team_id": "AWC2019_MAD",
@@ -756,7 +756,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2019_MAD/logo.svg"
   },
   {
     "team_id": "AWC2019_ONE",
@@ -767,7 +767,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2019_ONE/logo.svg"
   },
   {
     "team_id": "AWC2019_TH",
@@ -778,7 +778,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2019_TH/logo.svg"
   },
   {
     "team_id": "AWC2019_THWC",
@@ -789,7 +789,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2019_THWC/logo.svg"
   },
   {
     "team_id": "AWC2019_KR",
@@ -800,7 +800,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2019_KR/logo.svg"
   },
   {
     "team_id": "AWC2019_ID",
@@ -811,7 +811,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2019_ID/logo.svg"
   },
   {
     "team_id": "AWC2019_MSP",
@@ -822,7 +822,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2019_MSP/logo.svg"
   },
   {
     "team_id": "AWC2019_NA",
@@ -833,7 +833,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2019_NA/logo.svg"
   },
   {
     "team_id": "AWC2019_CN",
@@ -844,7 +844,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2019_CN/logo.svg"
   },
   {
     "team_id": "AWC2019_JP",
@@ -855,7 +855,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2019_JP/logo.svg"
   },
   {
     "team_id": "AIC2019_FL",
@@ -866,7 +866,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2019_FL/logo.svg"
   },
   {
     "team_id": "AIC2019_HTVC",
@@ -877,7 +877,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2019_HTVC/logo.svg"
   },
   {
     "team_id": "AIC2019_BRU",
@@ -888,7 +888,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2019_BRU/logo.svg"
   },
   {
     "team_id": "AIC2019_AHQ",
@@ -899,7 +899,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2019_AHQ/logo.svg"
   },
   {
     "team_id": "AIC2019_HKA",
@@ -910,7 +910,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2019_HKA/logo.svg"
   },
   {
     "team_id": "AIC2019_ONE",
@@ -921,7 +921,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2019_ONE/logo.svg"
   },
   {
     "team_id": "AIC2019_EVOS",
@@ -932,7 +932,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2019_EVOS/logo.svg"
   },
   {
     "team_id": "AIC2019_NOV",
@@ -943,7 +943,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2019_NOV/logo.svg"
   },
   {
     "team_id": "AIC2019_OP",
@@ -954,7 +954,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2019_OP/logo.svg"
   },
   {
     "team_id": "AIC2019_Liyab",
@@ -965,7 +965,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2019_Liyab/logo.svg"
   },
   {
     "team_id": "AIC2019_USG",
@@ -976,7 +976,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2019_USG/logo.svg"
   },
   {
     "team_id": "AIC2019_BMG",
@@ -987,7 +987,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019",
     "verification_status": "partial",
     "year": 2019,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2019_BMG/logo.svg"
   },
   {
     "team_id": "APL2020_FW",
@@ -998,7 +998,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_FW/logo.svg"
   },
   {
     "team_id": "APL2020_MAD",
@@ -1009,7 +1009,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_MAD/logo.svg"
   },
   {
     "team_id": "APL2020_HKA",
@@ -1020,7 +1020,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_HKA/logo.svg"
   },
   {
     "team_id": "APL2020_ONE",
@@ -1031,7 +1031,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_ONE/logo.svg"
   },
   {
     "team_id": "APL2020_BRU",
@@ -1042,7 +1042,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_BRU/logo.svg"
   },
   {
     "team_id": "APL2020_BZ",
@@ -1053,7 +1053,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_BZ/logo.svg"
   },
   {
     "team_id": "APL2020_TLN",
@@ -1064,7 +1064,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_TLN/logo.svg"
   },
   {
     "team_id": "APL2020_POPS",
@@ -1075,7 +1075,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_POPS/logo.svg"
   },
   {
     "team_id": "APL2020_FL",
@@ -1086,7 +1086,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_FL/logo.svg"
   },
   {
     "team_id": "APL2020_SGP",
@@ -1097,7 +1097,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_SGP/logo.svg"
   },
   {
     "team_id": "APL2020_PH",
@@ -1108,7 +1108,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_PH/logo.svg"
   },
   {
     "team_id": "APL2020_FAP",
@@ -1119,7 +1119,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_FAP/logo.svg"
   },
   {
     "team_id": "APL2020_DG",
@@ -1130,7 +1130,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_DG/logo.svg"
   },
   {
     "team_id": "APL2020_ELV",
@@ -1141,7 +1141,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2020_ELV/logo.svg"
   },
   {
     "team_id": "AIC2020_MAD",
@@ -1152,7 +1152,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2020_MAD/logo.svg"
   },
   {
     "team_id": "AIC2020_FW",
@@ -1163,7 +1163,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2020_FW/logo.svg"
   },
   {
     "team_id": "AIC2020_HKA",
@@ -1174,7 +1174,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2020_HKA/logo.svg"
   },
   {
     "team_id": "AIC2020_SGP",
@@ -1185,7 +1185,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2020_SGP/logo.svg"
   },
   {
     "team_id": "AIC2020_FL",
@@ -1196,7 +1196,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2020_FL/logo.svg"
   },
   {
     "team_id": "AIC2020_BOX",
@@ -1207,7 +1207,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2020_BOX/logo.svg"
   },
   {
     "team_id": "AIC2020_TLN",
@@ -1218,7 +1218,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2020_TLN/logo.svg"
   },
   {
     "team_id": "AIC2020_BRU",
@@ -1229,7 +1229,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2020_BRU/logo.svg"
   },
   {
     "team_id": "AIC2020_POPS",
@@ -1240,7 +1240,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2020_POPS/logo.svg"
   },
   {
     "team_id": "AIC2020_DG",
@@ -1251,7 +1251,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2020_DG/logo.svg"
   },
   {
     "team_id": "AIC2020_AC",
@@ -1262,7 +1262,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2020_AC/logo.svg"
   },
   {
     "team_id": "AIC2020_TC",
@@ -1273,7 +1273,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020",
     "verification_status": "partial",
     "year": 2020,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2020_TC/logo.svg"
   },
   {
     "team_id": "AWC2021_DTN",
@@ -1284,7 +1284,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_DTN/logo.svg"
   },
   {
     "team_id": "AWC2021_BAC",
@@ -1295,7 +1295,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_BAC/logo.svg"
   },
   {
     "team_id": "AWC2021_BRU",
@@ -1306,7 +1306,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_BRU/logo.svg"
   },
   {
     "team_id": "AWC2021_MOP",
@@ -1317,7 +1317,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_MOP/logo.svg"
   },
   {
     "team_id": "AWC2021_MAD",
@@ -1328,7 +1328,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_MAD/logo.svg"
   },
   {
     "team_id": "AWC2021_ONE",
@@ -1339,7 +1339,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_ONE/logo.svg"
   },
   {
     "team_id": "AWC2021_SGP",
@@ -1350,7 +1350,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_SGP/logo.svg"
   },
   {
     "team_id": "AWC2021_FL",
@@ -1361,7 +1361,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_FL/logo.svg"
   },
   {
     "team_id": "AWC2021_VGM",
@@ -1372,7 +1372,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_VGM/logo.svg"
   },
   {
     "team_id": "AWC2021_ARC",
@@ -1383,7 +1383,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_ARC/logo.svg"
   },
   {
     "team_id": "AWC2021_DE",
@@ -1394,7 +1394,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_DE/logo.svg"
   },
   {
     "team_id": "AWC2021_UND",
@@ -1405,7 +1405,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_UND/logo.svg"
   },
   {
     "team_id": "AWC2021_Z9",
@@ -1416,7 +1416,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_Z9/logo.svg"
   },
   {
     "team_id": "AWC2021_TC",
@@ -1427,7 +1427,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_TC/logo.svg"
   },
   {
     "team_id": "AWC2021_OVM",
@@ -1438,7 +1438,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_OVM/logo.svg"
   },
   {
     "team_id": "AWC2021_ZNC",
@@ -1449,7 +1449,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AWC2021_ZNC/logo.svg"
   },
   {
     "team_id": "AIC2021_BRU",
@@ -1460,7 +1460,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_BRU/logo.svg"
   },
   {
     "team_id": "AIC2021_VGM",
@@ -1471,7 +1471,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_VGM/logo.svg"
   },
   {
     "team_id": "AIC2021_HKA",
@@ -1482,7 +1482,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_HKA/logo.svg"
   },
   {
     "team_id": "AIC2021_DTN",
@@ -1493,7 +1493,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_DTN/logo.svg"
   },
   {
     "team_id": "AIC2021_SGP",
@@ -1504,7 +1504,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_SGP/logo.svg"
   },
   {
     "team_id": "AIC2021_ONE",
@@ -1515,7 +1515,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_ONE/logo.svg"
   },
   {
     "team_id": "AIC2021_MAD",
@@ -1526,7 +1526,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_MAD/logo.svg"
   },
   {
     "team_id": "AIC2021_VCF",
@@ -1537,7 +1537,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_VCF/logo.svg"
   },
   {
     "team_id": "AIC2021_FL",
@@ -1548,7 +1548,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_FL/logo.svg"
   },
   {
     "team_id": "AIC2021_ARC",
@@ -1559,7 +1559,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_ARC/logo.svg"
   },
   {
     "team_id": "AIC2021_UND",
@@ -1570,7 +1570,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_UND/logo.svg"
   },
   {
     "team_id": "AIC2021_XNY",
@@ -1581,7 +1581,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_XNY/logo.svg"
   },
   {
     "team_id": "AIC2021_TC",
@@ -1592,7 +1592,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_TC/logo.svg"
   },
   {
     "team_id": "AIC2021_XE",
@@ -1603,7 +1603,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021",
     "verification_status": "partial",
     "year": 2021,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2021_XE/logo.svg"
   },
   {
     "team_id": "AIC2022_VGM",
@@ -1614,7 +1614,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_VGM/logo.svg"
   },
   {
     "team_id": "AIC2022_ONE",
@@ -1625,7 +1625,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_ONE/logo.svg"
   },
   {
     "team_id": "AIC2022_BAC",
@@ -1636,7 +1636,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_BAC/logo.svg"
   },
   {
     "team_id": "AIC2022_BTR",
@@ -1647,7 +1647,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_BTR/logo.svg"
   },
   {
     "team_id": "AIC2022_SGP",
@@ -1658,7 +1658,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_SGP/logo.svg"
   },
   {
     "team_id": "AIC2022_KOG",
@@ -1669,7 +1669,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_KOG/logo.svg"
   },
   {
     "team_id": "AIC2022_VCF",
@@ -1680,7 +1680,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_VCF/logo.svg"
   },
   {
     "team_id": "AIC2022_FL",
@@ -1691,7 +1691,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_FL/logo.svg"
   },
   {
     "team_id": "AIC2022_MAD",
@@ -1702,7 +1702,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_MAD/logo.svg"
   },
   {
     "team_id": "AIC2022_DE",
@@ -1713,7 +1713,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_DE/logo.svg"
   },
   {
     "team_id": "AIC2022_AC",
@@ -1724,7 +1724,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_AC/logo.svg"
   },
   {
     "team_id": "AIC2022_NOVA",
@@ -1735,7 +1735,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_NOVA/logo.svg"
   },
   {
     "team_id": "AIC2022_A7",
@@ -1746,7 +1746,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_A7/logo.svg"
   },
   {
     "team_id": "AIC2022_TC",
@@ -1757,7 +1757,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_TC/logo.svg"
   },
   {
     "team_id": "AIC2022_STAR",
@@ -1768,7 +1768,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2022_STAR/logo.svg"
   },
   {
     "team_id": "APL2022_BAC",
@@ -1779,7 +1779,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2022_BAC/logo.svg"
   },
   {
     "team_id": "APL2022_SGP",
@@ -1790,7 +1790,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2022_SGP/logo.svg"
   },
   {
     "team_id": "APL2022_BTR",
@@ -1801,7 +1801,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2022_BTR/logo.svg"
   },
   {
     "team_id": "APL2022_BRU",
@@ -1812,7 +1812,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2022_BRU/logo.svg"
   },
   {
     "team_id": "APL2022_VGM",
@@ -1823,7 +1823,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2022_VGM/logo.svg"
   },
   {
     "team_id": "APL2022_KFC",
@@ -1834,7 +1834,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2022_KFC/logo.svg"
   },
   {
     "team_id": "APL2022_FW",
@@ -1845,7 +1845,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2022_FW/logo.svg"
   },
   {
     "team_id": "APL2022_MAD",
@@ -1856,7 +1856,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2022_MAD/logo.svg"
   },
   {
     "team_id": "APL2022_BOX",
@@ -1867,7 +1867,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2022_BOX/logo.svg"
   },
   {
     "team_id": "APL2022_ARC",
@@ -1878,7 +1878,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2022_ARC/logo.svg"
   },
   {
     "team_id": "APL2022_DE",
@@ -1889,7 +1889,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2022_DE/logo.svg"
   },
   {
     "team_id": "APL2022_DG",
@@ -1900,7 +1900,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022",
     "verification_status": "partial",
     "year": 2022,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2022_DG/logo.svg"
   },
   {
     "team_id": "APL2023_SGP",
@@ -1911,7 +1911,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_SGP/logo.svg"
   },
   {
     "team_id": "APL2023_BAC",
@@ -1922,7 +1922,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_BAC/logo.svg"
   },
   {
     "team_id": "APL2023_BRO",
@@ -1933,7 +1933,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_BRO/logo.svg"
   },
   {
     "team_id": "APL2023_VGM",
@@ -1944,7 +1944,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_VGM/logo.svg"
   },
   {
     "team_id": "APL2023_VCF",
@@ -1955,7 +1955,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_VCF/logo.svg"
   },
   {
     "team_id": "APL2023_BRU",
@@ -1966,7 +1966,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_BRU/logo.svg"
   },
   {
     "team_id": "APL2023_FW",
@@ -1977,7 +1977,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_FW/logo.svg"
   },
   {
     "team_id": "APL2023_ONE",
@@ -1988,7 +1988,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_ONE/logo.svg"
   },
   {
     "team_id": "APL2023_HEV",
@@ -1999,7 +1999,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_HEV/logo.svg"
   },
   {
     "team_id": "APL2023_MOP",
@@ -2010,7 +2010,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_MOP/logo.svg"
   },
   {
     "team_id": "APL2023_EA",
@@ -2021,7 +2021,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_EA/logo.svg"
   },
   {
     "team_id": "APL2023_KAG",
@@ -2032,7 +2032,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_KAG/logo.svg"
   },
   {
     "team_id": "APL2023_A7",
@@ -2043,7 +2043,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_A7/logo.svg"
   },
   {
     "team_id": "APL2023_HQ",
@@ -2054,7 +2054,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2023_HQ/logo.svg"
   },
   {
     "team_id": "AIC2023_TLN",
@@ -2065,7 +2065,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2023_TLN/logo.svg"
   },
   {
     "team_id": "AIC2023_VCF",
@@ -2076,7 +2076,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2023_VCF/logo.svg"
   },
   {
     "team_id": "AIC2023_FW",
@@ -2087,7 +2087,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2023_FW/logo.svg"
   },
   {
     "team_id": "AIC2023_HKA",
@@ -2098,7 +2098,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2023_HKA/logo.svg"
   },
   {
     "team_id": "AIC2023_SGP",
@@ -2109,7 +2109,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2023_SGP/logo.svg"
   },
   {
     "team_id": "AIC2023_VGM",
@@ -2120,7 +2120,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2023_VGM/logo.svg"
   },
   {
     "team_id": "AIC2023_BAC",
@@ -2131,7 +2131,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2023_BAC/logo.svg"
   },
   {
     "team_id": "AIC2023_BRO",
@@ -2142,7 +2142,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2023_BRO/logo.svg"
   },
   {
     "team_id": "AIC2023_GG",
@@ -2153,7 +2153,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2023_GG/logo.svg"
   },
   {
     "team_id": "AIC2023_BHD",
@@ -2164,7 +2164,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2023_BHD/logo.svg"
   },
   {
     "team_id": "AIC2023_DE",
@@ -2175,7 +2175,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2023_DE/logo.svg"
   },
   {
     "team_id": "AIC2023_KAG",
@@ -2186,7 +2186,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023",
     "verification_status": "partial",
     "year": 2023,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2023_KAG/logo.svg"
   },
   {
     "team_id": "APL2024_BMG",
@@ -2197,7 +2197,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_BMG/logo.svg"
   },
   {
     "team_id": "APL2024_BRU",
@@ -2208,7 +2208,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_BRU/logo.svg"
   },
   {
     "team_id": "APL2024_TLN",
@@ -2219,7 +2219,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_TLN/logo.svg"
   },
   {
     "team_id": "APL2024_GG",
@@ -2230,7 +2230,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_GG/logo.svg"
   },
   {
     "team_id": "APL2024_SGP",
@@ -2241,7 +2241,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_SGP/logo.svg"
   },
   {
     "team_id": "APL2024_FW",
@@ -2252,7 +2252,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_FW/logo.svg"
   },
   {
     "team_id": "APL2024_BAC",
@@ -2263,7 +2263,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_BAC/logo.svg"
   },
   {
     "team_id": "APL2024_FPT",
@@ -2274,7 +2274,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_FPT/logo.svg"
   },
   {
     "team_id": "APL2024_ONE",
@@ -2285,7 +2285,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_ONE/logo.svg"
   },
   {
     "team_id": "APL2024_1S",
@@ -2296,7 +2296,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_1S/logo.svg"
   },
   {
     "team_id": "APL2024_EA",
@@ -2307,7 +2307,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_EA/logo.svg"
   },
   {
     "team_id": "APL2024_HKA",
@@ -2318,7 +2318,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_HKA/logo.svg"
   },
   {
     "team_id": "APL2024_TDT",
@@ -2329,7 +2329,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_TDT/logo.svg"
   },
   {
     "team_id": "APL2024_KAG",
@@ -2340,7 +2340,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_KAG/logo.svg"
   },
   {
     "team_id": "APL2024_DE",
@@ -2351,7 +2351,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_DE/logo.svg"
   },
   {
     "team_id": "APL2024_DCG",
@@ -2362,7 +2362,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2024_DCG/logo.svg"
   },
   {
     "team_id": "AIC2024_BAC",
@@ -2373,7 +2373,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_BAC/logo.svg"
   },
   {
     "team_id": "AIC2024_BMG",
@@ -2384,7 +2384,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_BMG/logo.svg"
   },
   {
     "team_id": "AIC2024_FW",
@@ -2395,7 +2395,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_FW/logo.svg"
   },
   {
     "team_id": "AIC2024_EA",
@@ -2406,7 +2406,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_EA/logo.svg"
   },
   {
     "team_id": "AIC2024_SGP",
@@ -2417,7 +2417,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_SGP/logo.svg"
   },
   {
     "team_id": "AIC2024_1S",
@@ -2428,7 +2428,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_1S/logo.svg"
   },
   {
     "team_id": "AIC2024_FS",
@@ -2439,7 +2439,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_FS/logo.svg"
   },
   {
     "team_id": "AIC2024_ANK",
@@ -2450,7 +2450,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_ANK/logo.svg"
   },
   {
     "team_id": "AIC2024_FPT",
@@ -2461,7 +2461,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_FPT/logo.svg"
   },
   {
     "team_id": "AIC2024_TLN",
@@ -2472,7 +2472,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_TLN/logo.svg"
   },
   {
     "team_id": "AIC2024_ONE",
@@ -2483,7 +2483,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_ONE/logo.svg"
   },
   {
     "team_id": "AIC2024_TDT",
@@ -2494,7 +2494,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_TDT/logo.svg"
   },
   {
     "team_id": "AIC2024_BRU",
@@ -2505,7 +2505,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_BRU/logo.svg"
   },
   {
     "team_id": "AIC2024_HKA",
@@ -2516,7 +2516,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_HKA/logo.svg"
   },
   {
     "team_id": "AIC2024_KAG",
@@ -2527,7 +2527,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_KAG/logo.svg"
   },
   {
     "team_id": "AIC2024_TL",
@@ -2538,7 +2538,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024",
     "verification_status": "partial",
     "year": 2024,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2024_TL/logo.svg"
   },
   {
     "team_id": "APL2025_FW",
@@ -2549,7 +2549,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_FW/logo.svg"
   },
   {
     "team_id": "APL2025_EA",
@@ -2560,7 +2560,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_EA/logo.svg"
   },
   {
     "team_id": "APL2025_SGP",
@@ -2571,7 +2571,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_SGP/logo.svg"
   },
   {
     "team_id": "APL2025_BAC",
@@ -2582,7 +2582,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_BAC/logo.svg"
   },
   {
     "team_id": "APL2025_BMG",
@@ -2593,7 +2593,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_BMG/logo.svg"
   },
   {
     "team_id": "APL2025_FPT",
@@ -2604,7 +2604,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_FPT/logo.svg"
   },
   {
     "team_id": "APL2025_TLN",
@@ -2615,7 +2615,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_TLN/logo.svg"
   },
   {
     "team_id": "APL2025_1S",
@@ -2626,7 +2626,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_1S/logo.svg"
   },
   {
     "team_id": "APL2025_BRU",
@@ -2637,7 +2637,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_BRU/logo.svg"
   },
   {
     "team_id": "APL2025_ONE",
@@ -2648,7 +2648,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_ONE/logo.svg"
   },
   {
     "team_id": "APL2025_DCG",
@@ -2659,7 +2659,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_DCG/logo.svg"
   },
   {
     "team_id": "APL2025_BOX",
@@ -2670,7 +2670,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_BOX/logo.svg"
   },
   {
     "team_id": "APL2025_FS",
@@ -2681,7 +2681,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_FS/logo.svg"
   },
   {
     "team_id": "APL2025_ANK",
@@ -2692,7 +2692,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_ANK/logo.svg"
   },
   {
     "team_id": "APL2025_KAG",
@@ -2703,7 +2703,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_KAG/logo.svg"
   },
   {
     "team_id": "APL2025_TL",
@@ -2714,7 +2714,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/APL2025_TL/logo.svg"
   },
   {
     "team_id": "AIC2025_FS",
@@ -2725,7 +2725,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_FS/logo.svg"
   },
   {
     "team_id": "AIC2025_FPT",
@@ -2736,7 +2736,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_FPT/logo.svg"
   },
   {
     "team_id": "AIC2025_BRU",
@@ -2747,7 +2747,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_BRU/logo.svg"
   },
   {
     "team_id": "AIC2025_FW",
@@ -2758,7 +2758,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_FW/logo.svg"
   },
   {
     "team_id": "AIC2025_SGP",
@@ -2769,7 +2769,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_SGP/logo.svg"
   },
   {
     "team_id": "AIC2025_BAC",
@@ -2780,7 +2780,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_BAC/logo.svg"
   },
   {
     "team_id": "AIC2025_BMG",
@@ -2791,7 +2791,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_BMG/logo.svg"
   },
   {
     "team_id": "AIC2025_1S",
@@ -2802,7 +2802,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_1S/logo.svg"
   },
   {
     "team_id": "AIC2025_EA",
@@ -2813,7 +2813,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_EA/logo.svg"
   },
   {
     "team_id": "AIC2025_ONE",
@@ -2824,7 +2824,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_ONE/logo.svg"
   },
   {
     "team_id": "AIC2025_DCG",
@@ -2835,7 +2835,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_DCG/logo.svg"
   },
   {
     "team_id": "AIC2025_TDT",
@@ -2846,7 +2846,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_TDT/logo.svg"
   },
   {
     "team_id": "AIC2025_TLN",
@@ -2857,7 +2857,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_TLN/logo.svg"
   },
   {
     "team_id": "AIC2025_ANK",
@@ -2868,7 +2868,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_ANK/logo.svg"
   },
   {
     "team_id": "AIC2025_KAG",
@@ -2879,7 +2879,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_KAG/logo.svg"
   },
   {
     "team_id": "AIC2025_TL",
@@ -2890,7 +2890,7 @@ export const HISTORICAL_TEAMS: TeamSeason[] = [
     "source_url": "https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025",
     "verification_status": "partial",
     "year": 2025,
-    "logo_url": "/assets/placeholders/team-logo.svg"
+    "logo_url": "/assets/teams/AIC2025_TL/logo.svg"
   }
 ];
 
@@ -2907,7 +2907,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2026,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_FPT/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_TF",
@@ -2921,7 +2921,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2026,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_TF/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_SGP",
@@ -2935,7 +2935,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2026,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_SGP/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_GAM",
@@ -2949,7 +2949,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2026,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_GAM/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_DCG",
@@ -2963,7 +2963,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2026,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_DCG/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_ANK",
@@ -2977,7 +2977,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2026,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_ANK/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_FW",
@@ -2991,7 +2991,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2026,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_FW/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_BM",
@@ -3005,7 +3005,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2026,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_BM/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_BRU",
@@ -3019,7 +3019,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2026,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_BRU/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_FS",
@@ -3033,7 +3033,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2026,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_FS/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_KGC",
@@ -3047,7 +3047,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2026,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_KGC/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_SOL",
@@ -3061,7 +3061,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2026,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_SOL/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_BT",
@@ -3075,7 +3075,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2026,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_BT/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_ONE",
@@ -3089,7 +3089,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2026,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_ONE/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2026_HKA",
@@ -3103,7 +3103,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Hong Kong",
     "year": 2026,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2026_HKA/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2019_FL_7",
@@ -3117,7 +3117,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2019,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2019_FL_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2019_BOX_7",
@@ -3131,7 +3131,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2019_BOX_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2019_MAD_7",
@@ -3145,7 +3145,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Chinese Taipei",
     "year": 2019,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2019_MAD_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2019_ONE_7",
@@ -3159,7 +3159,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Chinese Taipei",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2019_ONE_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2019_TH_7",
@@ -3173,7 +3173,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2019,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2019_TH_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2019_THWC_7",
@@ -3187,7 +3187,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2019_THWC_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2019_KR_6",
@@ -3201,7 +3201,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "South Korea",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2019_KR_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2019_ID_7",
@@ -3215,7 +3215,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2019,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2019_ID_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2019_MSP_6",
@@ -3229,7 +3229,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "MSP",
     "year": 2019,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2019_MSP_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2019_NA_6",
@@ -3243,7 +3243,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "North America",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2019_NA_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2019_CN_6",
@@ -3257,7 +3257,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "China",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2019_CN_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2019_JP_6",
@@ -3271,7 +3271,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Japan",
     "year": 2019,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2019_JP_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2019_FL_7",
@@ -3285,7 +3285,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2019,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2019_FL_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2019_HTVC_7",
@@ -3299,7 +3299,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2019,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2019_HTVC_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2019_BRU_7",
@@ -3313,7 +3313,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2019,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2019_BRU_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2019_AHQ_6",
@@ -3327,7 +3327,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2019,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2019_AHQ_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2019_HKA_7",
@@ -3341,7 +3341,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2019_HKA_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2019_ONE_7",
@@ -3355,7 +3355,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2019_ONE_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2019_EVOS_7",
@@ -3369,7 +3369,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2019,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2019_EVOS_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2019_NOV_6",
@@ -3383,7 +3383,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Europe",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2019_NOV_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2019_OP_6",
@@ -3397,7 +3397,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "South Korea",
     "year": 2019,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2019_OP_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2019_Liyab_6",
@@ -3411,7 +3411,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Philippines",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2019_Liyab_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2019_USG_6",
@@ -3425,7 +3425,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Japan",
     "year": 2019,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2019_USG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2019_BMG_6",
@@ -3439,7 +3439,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "North America",
     "year": 2019,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2019_BMG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_FW_7",
@@ -3453,7 +3453,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2020,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_FW_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_MAD_7",
@@ -3467,7 +3467,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2020,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_MAD_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_HKA_7",
@@ -3481,7 +3481,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_HKA_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_ONE_7",
@@ -3495,7 +3495,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2020,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_ONE_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_BRU_7",
@@ -3509,7 +3509,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2020,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_BRU_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_BZ_7",
@@ -3523,7 +3523,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2020,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_BZ_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_TLN_7",
@@ -3537,7 +3537,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2020,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_TLN_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_POPS_7",
@@ -3551,7 +3551,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_POPS_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_FL_7",
@@ -3565,7 +3565,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2020,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_FL_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_SGP_7",
@@ -3579,7 +3579,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_SGP_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_PH_6",
@@ -3593,7 +3593,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_PH_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_FAP_7",
@@ -3607,7 +3607,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2020,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_FAP_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_DG_6",
@@ -3621,7 +3621,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2020,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_DG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2020_ELV_6",
@@ -3635,7 +3635,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2020,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2020_ELV_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2020_MAD_7",
@@ -3649,7 +3649,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2020,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2020_MAD_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2020_FW_6",
@@ -3663,7 +3663,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2020,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2020_FW_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2020_HKA_6",
@@ -3677,7 +3677,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2020_HKA_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2020_SGP_7",
@@ -3691,7 +3691,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2020_SGP_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2020_FL_7",
@@ -3705,7 +3705,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2020,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2020_FL_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2020_BOX_7",
@@ -3719,7 +3719,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2020_BOX_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2020_TLN_7",
@@ -3733,7 +3733,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2020,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2020_TLN_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2020_BRU_7",
@@ -3747,7 +3747,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2020,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2020_BRU_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2020_POPS_6",
@@ -3761,7 +3761,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2020_POPS_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2020_DG_6",
@@ -3775,7 +3775,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2020,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2020_DG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2020_AC_6",
@@ -3789,7 +3789,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "China",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2020_AC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2020_TC_6",
@@ -3803,7 +3803,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "South Korea",
     "year": 2020,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2020_TC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_DTN_7",
@@ -3817,7 +3817,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2021,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_DTN_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_BAC_7",
@@ -3831,7 +3831,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2021,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_BAC_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_BRU_7",
@@ -3845,7 +3845,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_BRU_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_MOP_7",
@@ -3859,7 +3859,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_MOP_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_MAD_7",
@@ -3873,7 +3873,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_MAD_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_ONE_7",
@@ -3887,7 +3887,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_ONE_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_SGP_7",
@@ -3901,7 +3901,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_SGP_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_FL_7",
@@ -3915,7 +3915,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_FL_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_VGM_7",
@@ -3929,7 +3929,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_VGM_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_ARC_6",
@@ -3943,7 +3943,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_ARC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_DE_6",
@@ -3957,7 +3957,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_DE_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_UND_6",
@@ -3971,7 +3971,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "MSP",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_UND_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_Z9_6",
@@ -3985,7 +3985,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "China",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_Z9_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_TC_6",
@@ -3999,7 +3999,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "South Korea",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_TC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_OVM_6",
@@ -4013,7 +4013,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Brazil",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_OVM_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AWC2021_ZNC_6",
@@ -4027,7 +4027,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Japan",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AWC2021_ZNC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_BRU_7",
@@ -4041,7 +4041,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_BRU_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_VGM_7",
@@ -4055,7 +4055,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_VGM_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_HKA_7",
@@ -4069,7 +4069,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_HKA_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_DTN_7",
@@ -4083,7 +4083,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2021,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_DTN_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_SGP_7",
@@ -4097,7 +4097,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_SGP_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_ONE_7",
@@ -4111,7 +4111,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_ONE_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_MAD_7",
@@ -4125,7 +4125,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_MAD_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_VCF_6",
@@ -4139,7 +4139,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_VCF_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_FL_7",
@@ -4153,7 +4153,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2021,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_FL_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_ARC_6",
@@ -4167,7 +4167,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_ARC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_UND_6",
@@ -4181,7 +4181,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "MSP",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_UND_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_XNY_6",
@@ -4195,7 +4195,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "China",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_XNY_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_TC_6",
@@ -4209,7 +4209,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "South Korea",
     "year": 2021,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_TC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2021_XE_6",
@@ -4223,7 +4223,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Japan",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2021_XE_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_VGM_7",
@@ -4237,7 +4237,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_VGM_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_ONE_7",
@@ -4251,7 +4251,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_ONE_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_BAC_7",
@@ -4265,7 +4265,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2022,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_BAC_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_BTR_7",
@@ -4279,7 +4279,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2022,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_BTR_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_SGP_7",
@@ -4293,7 +4293,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_SGP_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_KOG_6",
@@ -4307,7 +4307,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_KOG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_VCF_6",
@@ -4321,7 +4321,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_VCF_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_FL_7",
@@ -4335,7 +4335,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2022,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_FL_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_MAD_7",
@@ -4349,7 +4349,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2022,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_MAD_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_DE_6",
@@ -4363,7 +4363,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2022,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_DE_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_AC_6",
@@ -4377,7 +4377,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "China",
     "year": 2022,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_AC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_NOVA_6",
@@ -4391,7 +4391,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Europe",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_NOVA_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_A7_6",
@@ -4405,7 +4405,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Brazil",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_A7_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_TC_6",
@@ -4419,7 +4419,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "South Korea",
     "year": 2022,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_TC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2022_STAR_6",
@@ -4433,7 +4433,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Middle East",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2022_STAR_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2022_BAC_7",
@@ -4447,7 +4447,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2022,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2022_BAC_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2022_SGP_7",
@@ -4461,7 +4461,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2022_SGP_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2022_BTR_7",
@@ -4475,7 +4475,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2022,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2022_BTR_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2022_BRU_7",
@@ -4489,7 +4489,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2022,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2022_BRU_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2022_VGM_7",
@@ -4503,7 +4503,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2022_VGM_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2022_KFC_7",
@@ -4517,7 +4517,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2022_KFC_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2022_FW_6",
@@ -4531,7 +4531,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2022,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2022_FW_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2022_MAD_6",
@@ -4545,7 +4545,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2022,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2022_MAD_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2022_BOX_7",
@@ -4559,7 +4559,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2022_BOX_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2022_ARC_6",
@@ -4573,7 +4573,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2022_ARC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2022_DE_6",
@@ -4587,7 +4587,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2022,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2022_DE_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2022_DG_6",
@@ -4601,7 +4601,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2022,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2022_DG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_SGP_7",
@@ -4615,7 +4615,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2023,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_SGP_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_BAC_7",
@@ -4629,7 +4629,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_BAC_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_BRO_6",
@@ -4643,7 +4643,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_BRO_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_VGM_7",
@@ -4657,7 +4657,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_VGM_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_VCF_6",
@@ -4671,7 +4671,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_VCF_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_BRU_6",
@@ -4685,7 +4685,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2023,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_BRU_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_FW_6",
@@ -4699,7 +4699,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_FW_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_ONE_6",
@@ -4713,7 +4713,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_ONE_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_HEV_6",
@@ -4727,7 +4727,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_HEV_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_MOP_6",
@@ -4741,7 +4741,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2023,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_MOP_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_EA_6",
@@ -4755,7 +4755,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2023,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_EA_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_KAG_6",
@@ -4769,7 +4769,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2023,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_KAG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_A7_6",
@@ -4783,7 +4783,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_A7_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2023_HQ_6",
@@ -4797,7 +4797,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2023,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2023_HQ_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2023_TLN_7",
@@ -4811,7 +4811,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2023,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2023_TLN_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2023_VCF_6",
@@ -4825,7 +4825,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2023_VCF_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2023_FW_6",
@@ -4839,7 +4839,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2023_FW_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2023_HKA_6",
@@ -4853,7 +4853,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2023,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2023_HKA_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2023_SGP_7",
@@ -4867,7 +4867,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2023,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2023_SGP_7/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2023_VGM_6",
@@ -4881,7 +4881,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2023_VGM_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2023_BAC_6",
@@ -4895,7 +4895,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2023_BAC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2023_BRO_6",
@@ -4909,7 +4909,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2023_BRO_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2023_GG_6",
@@ -4923,7 +4923,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2023_GG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2023_BHD_6",
@@ -4937,7 +4937,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2023,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2023_BHD_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2023_DE_6",
@@ -4951,7 +4951,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2023_DE_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2023_KAG_6",
@@ -4965,7 +4965,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2023,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2023_KAG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_BMG_7",
@@ -4979,7 +4979,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_BMG_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_BRU_7",
@@ -4993,7 +4993,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_BRU_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_TLN_6",
@@ -5007,7 +5007,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_TLN_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_GG_6",
@@ -5021,7 +5021,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_GG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_SGP_7",
@@ -5035,7 +5035,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_SGP_7/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_FW_6",
@@ -5049,7 +5049,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_FW_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_BAC_6",
@@ -5063,7 +5063,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2024,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_BAC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_FPT_6",
@@ -5077,7 +5077,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2024,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_FPT_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_ONE_6",
@@ -5091,7 +5091,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_ONE_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_1S_6",
@@ -5105,7 +5105,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2024,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_1S_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_EA_6",
@@ -5119,7 +5119,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2024,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_EA_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_HKA_6",
@@ -5133,7 +5133,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_HKA_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_TDT_6",
@@ -5147,7 +5147,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_TDT_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_KAG_6",
@@ -5161,7 +5161,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_KAG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_DE_6",
@@ -5175,7 +5175,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_DE_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2024_DCG_6",
@@ -5189,7 +5189,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2024,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2024_DCG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_BAC_6",
@@ -5203,7 +5203,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2024,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_BAC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_BMG_6",
@@ -5217,7 +5217,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_BMG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_FW_6",
@@ -5231,7 +5231,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_FW_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_EA_6",
@@ -5245,7 +5245,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2024,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_EA_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_SGP_6",
@@ -5259,7 +5259,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_SGP_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_1S_6",
@@ -5273,7 +5273,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2024,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_1S_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_FS_6",
@@ -5287,7 +5287,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_FS_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_ANK_6",
@@ -5301,7 +5301,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_ANK_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_FPT_6",
@@ -5315,7 +5315,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2024,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_FPT_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_TLN_6",
@@ -5329,7 +5329,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_TLN_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_ONE_6",
@@ -5343,7 +5343,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_ONE_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_TDT_6",
@@ -5357,7 +5357,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_TDT_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_BRU_6",
@@ -5371,7 +5371,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_BRU_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_HKA_6",
@@ -5385,7 +5385,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_HKA_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_KAG_6",
@@ -5399,7 +5399,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_KAG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2024_TL_6",
@@ -5413,7 +5413,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2024_TL_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_FW_6",
@@ -5427,7 +5427,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_FW_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_EA_6",
@@ -5441,7 +5441,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2025,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_EA_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_SGP_6",
@@ -5455,7 +5455,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2025,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_SGP_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_BAC_6",
@@ -5469,7 +5469,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_BAC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_BMG_6",
@@ -5483,7 +5483,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_BMG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_FPT_6",
@@ -5497,7 +5497,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_FPT_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_TLN_6",
@@ -5511,7 +5511,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2025,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_TLN_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_1S_6",
@@ -5525,7 +5525,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2025,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_1S_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_BRU_6",
@@ -5539,7 +5539,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2025,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_BRU_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_ONE_6",
@@ -5553,7 +5553,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_ONE_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_DCG_6",
@@ -5567,7 +5567,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2025,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_DCG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_BOX_6",
@@ -5581,7 +5581,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2025,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_BOX_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_FS_6",
@@ -5595,7 +5595,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_FS_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_ANK_6",
@@ -5609,7 +5609,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_ANK_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_KAG_6",
@@ -5623,7 +5623,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2025,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_KAG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_APL2025_TL_6",
@@ -5637,7 +5637,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2025,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_APL2025_TL_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_FS_6",
@@ -5651,7 +5651,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_FS_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_FPT_6",
@@ -5665,7 +5665,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_FPT_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_BRU_6",
@@ -5679,7 +5679,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2025,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_BRU_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_FW_6",
@@ -5693,7 +5693,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_FW_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_SGP_6",
@@ -5707,7 +5707,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2025,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_SGP_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_BAC_6",
@@ -5721,7 +5721,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_BAC_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_BMG_6",
@@ -5735,7 +5735,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_BMG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_1S_6",
@@ -5749,7 +5749,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2025,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_1S_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_EA_6",
@@ -5763,7 +5763,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2025,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_EA_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_ONE_6",
@@ -5777,7 +5777,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_ONE_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_DCG_6",
@@ -5791,7 +5791,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2025,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_DCG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_TDT_6",
@@ -5805,7 +5805,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Vietnam",
     "year": 2025,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_TDT_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_TLN_6",
@@ -5819,7 +5819,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Thailand",
     "year": 2025,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_TLN_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_ANK_6",
@@ -5833,7 +5833,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Taiwan",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_ANK_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_KAG_6",
@@ -5847,7 +5847,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2025,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_KAG_6/portrait.svg"
   },
   {
     "coach_id": "COACH_AIC2025_TL_6",
@@ -5861,7 +5861,7 @@ export const HISTORICAL_COACHES: CoachVersion[] = [
     "country": "Indonesia",
     "year": 2025,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/coach-portrait.svg"
+    "portrait_url": "/assets/coaches/COACH_AIC2025_TL_6/portrait.svg"
   }
 ];
 
@@ -5879,7 +5879,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_SMG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_SMG_2",
@@ -5894,7 +5894,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_SMG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_SMG_3",
@@ -5909,7 +5909,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_SMG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_SMG_4",
@@ -5924,7 +5924,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_SMG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_SMG_5",
@@ -5939,7 +5939,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_SMG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_GTV_1",
@@ -5954,7 +5954,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_GTV_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_GTV_2",
@@ -5969,7 +5969,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_GTV_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_GTV_3",
@@ -5984,7 +5984,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_GTV_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_GTV_4",
@@ -5999,7 +5999,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_GTV_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_GTV_5",
@@ -6014,7 +6014,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_GTV_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_GTV_6",
@@ -6029,7 +6029,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_GTV_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_OLY_1",
@@ -6044,7 +6044,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_OLY_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_OLY_2",
@@ -6059,7 +6059,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_OLY_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_OLY_3",
@@ -6074,7 +6074,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_OLY_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_OLY_4",
@@ -6089,7 +6089,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_OLY_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_OLY_5",
@@ -6104,7 +6104,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_OLY_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_MBC_1",
@@ -6119,7 +6119,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_MBC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_MBC_2",
@@ -6134,7 +6134,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_MBC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_MBC_3",
@@ -6149,7 +6149,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_MBC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_MBC_4",
@@ -6164,7 +6164,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_MBC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_MBC_5",
@@ -6179,7 +6179,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_MBC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_MBC_6",
@@ -6194,7 +6194,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_MBC_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_PA_1",
@@ -6209,7 +6209,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_PA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_PA_2",
@@ -6224,7 +6224,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_PA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_PA_3",
@@ -6239,7 +6239,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_PA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_PA_4",
@@ -6254,7 +6254,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_PA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_PA_5",
@@ -6269,7 +6269,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_PA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2017_PA_6",
@@ -6284,7 +6284,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "verified",
     "year": 2017,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2017_PA_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_DCG_1",
@@ -6299,7 +6299,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_DCG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_DCG_2",
@@ -6314,7 +6314,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_DCG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_DCG_3",
@@ -6329,7 +6329,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_DCG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_DCG_4",
@@ -6344,7 +6344,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_DCG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_DCG_5",
@@ -6359,7 +6359,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_DCG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_ANK_1",
@@ -6374,7 +6374,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_ANK_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_ANK_2",
@@ -6389,7 +6389,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_ANK_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_ANK_3",
@@ -6404,7 +6404,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_ANK_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_ANK_4",
@@ -6419,7 +6419,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_ANK_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_ANK_5",
@@ -6434,7 +6434,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_ANK_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_FPT_1",
@@ -6449,7 +6449,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_FPT_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_FPT_2",
@@ -6464,7 +6464,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_FPT_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_FPT_3",
@@ -6479,7 +6479,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_FPT_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_FPT_4",
@@ -6494,7 +6494,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_FPT_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_FPT_5",
@@ -6509,7 +6509,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_FPT_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_TF_1",
@@ -6524,7 +6524,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_TF_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_TF_2",
@@ -6539,7 +6539,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_TF_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_TF_3",
@@ -6554,7 +6554,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_TF_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_TF_4",
@@ -6569,7 +6569,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_TF_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_TF_5",
@@ -6584,7 +6584,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_TF_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_SGP_1",
@@ -6599,7 +6599,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_SGP_2",
@@ -6614,7 +6614,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_SGP_3",
@@ -6629,7 +6629,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_SGP_4",
@@ -6644,7 +6644,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_SGP_5",
@@ -6659,7 +6659,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_GAM_1",
@@ -6674,7 +6674,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_GAM_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_GAM_2",
@@ -6689,7 +6689,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_GAM_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_GAM_3",
@@ -6704,7 +6704,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_GAM_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_GAM_4",
@@ -6719,7 +6719,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_GAM_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_GAM_5",
@@ -6734,7 +6734,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_GAM_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_BRU_1",
@@ -6749,7 +6749,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_BRU_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_BRU_2",
@@ -6764,7 +6764,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_BRU_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_BRU_3",
@@ -6779,7 +6779,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_BRU_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_BRU_4",
@@ -6794,7 +6794,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_BRU_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_BRU_5",
@@ -6809,7 +6809,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_BRU_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_FS_1",
@@ -6824,7 +6824,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_FS_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_FS_2",
@@ -6839,7 +6839,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_FS_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_FS_3",
@@ -6854,7 +6854,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_FS_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_FS_4",
@@ -6869,7 +6869,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_FS_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_FS_5",
@@ -6884,7 +6884,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_FS_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_KGC_1",
@@ -6899,7 +6899,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_KGC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_KGC_2",
@@ -6914,7 +6914,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_KGC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_KGC_3",
@@ -6929,7 +6929,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_KGC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_KGC_4",
@@ -6944,7 +6944,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_KGC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_KGC_5",
@@ -6959,7 +6959,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_KGC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_SOL_1",
@@ -6974,7 +6974,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_SOL_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_SOL_2",
@@ -6989,7 +6989,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_SOL_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_SOL_3",
@@ -7004,7 +7004,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_SOL_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_SOL_4",
@@ -7019,7 +7019,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_SOL_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_SOL_5",
@@ -7034,7 +7034,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_SOL_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_BT_1",
@@ -7049,7 +7049,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_BT_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_BT_2",
@@ -7064,7 +7064,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_BT_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_BT_3",
@@ -7079,7 +7079,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_BT_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_BT_4",
@@ -7094,7 +7094,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_BT_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2026_BT_5",
@@ -7109,7 +7109,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "partial",
     "year": 2026,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2026_BT_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_FL_1",
@@ -7124,7 +7124,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_FL_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_FL_2",
@@ -7139,7 +7139,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_FL_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_FL_3",
@@ -7154,7 +7154,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_FL_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_FL_4",
@@ -7169,7 +7169,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_FL_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_FL_5",
@@ -7184,7 +7184,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_FL_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_FL_6",
@@ -7199,7 +7199,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_FL_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_BOX_1",
@@ -7214,7 +7214,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_BOX_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_BOX_2",
@@ -7229,7 +7229,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_BOX_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_BOX_3",
@@ -7244,7 +7244,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_BOX_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_BOX_4",
@@ -7259,7 +7259,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_BOX_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_BOX_5",
@@ -7274,7 +7274,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_BOX_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_BOX_6",
@@ -7289,7 +7289,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_BOX_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_MAD_1",
@@ -7304,7 +7304,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_MAD_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_MAD_2",
@@ -7319,7 +7319,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_MAD_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_MAD_3",
@@ -7334,7 +7334,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_MAD_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_MAD_4",
@@ -7349,7 +7349,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_MAD_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_MAD_5",
@@ -7364,7 +7364,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_MAD_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_MAD_6",
@@ -7379,7 +7379,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_MAD_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_ONE_1",
@@ -7394,7 +7394,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_ONE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_ONE_2",
@@ -7409,7 +7409,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_ONE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_ONE_3",
@@ -7424,7 +7424,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_ONE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_ONE_4",
@@ -7439,7 +7439,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_ONE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_ONE_5",
@@ -7454,7 +7454,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_ONE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_ONE_6",
@@ -7469,7 +7469,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_ONE_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_TH_1",
@@ -7484,7 +7484,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_TH_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_TH_2",
@@ -7499,7 +7499,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_TH_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_TH_3",
@@ -7514,7 +7514,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_TH_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_TH_4",
@@ -7529,7 +7529,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_TH_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_TH_5",
@@ -7544,7 +7544,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_TH_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_TH_6",
@@ -7559,7 +7559,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_TH_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_THWC_1",
@@ -7574,7 +7574,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_THWC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_THWC_2",
@@ -7589,7 +7589,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_THWC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_THWC_3",
@@ -7604,7 +7604,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_THWC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_THWC_4",
@@ -7619,7 +7619,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_THWC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_THWC_5",
@@ -7634,7 +7634,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_THWC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_THWC_6",
@@ -7649,7 +7649,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_THWC_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_KR_1",
@@ -7664,7 +7664,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_KR_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_KR_2",
@@ -7679,7 +7679,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_KR_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_KR_3",
@@ -7694,7 +7694,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_KR_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_KR_4",
@@ -7709,7 +7709,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_KR_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_KR_5",
@@ -7724,7 +7724,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_KR_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_ID_1",
@@ -7739,7 +7739,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_ID_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_ID_2",
@@ -7754,7 +7754,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_ID_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_ID_3",
@@ -7769,7 +7769,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_ID_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_ID_4",
@@ -7784,7 +7784,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_ID_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_ID_5",
@@ -7799,7 +7799,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_ID_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_ID_6",
@@ -7814,7 +7814,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_ID_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_MSP_1",
@@ -7829,7 +7829,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_MSP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_MSP_2",
@@ -7844,7 +7844,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_MSP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_MSP_3",
@@ -7859,7 +7859,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_MSP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_MSP_4",
@@ -7874,7 +7874,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_MSP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_MSP_5",
@@ -7889,7 +7889,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_MSP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_NA_1",
@@ -7904,7 +7904,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_NA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_NA_2",
@@ -7919,7 +7919,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_NA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_NA_3",
@@ -7934,7 +7934,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_NA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_NA_4",
@@ -7949,7 +7949,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_NA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_NA_5",
@@ -7964,7 +7964,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_NA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_CN_1",
@@ -7979,7 +7979,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_CN_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_CN_2",
@@ -7994,7 +7994,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_CN_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_CN_3",
@@ -8009,7 +8009,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_CN_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_CN_4",
@@ -8024,7 +8024,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_CN_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_CN_5",
@@ -8039,7 +8039,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_CN_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_JP_1",
@@ -8054,7 +8054,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_JP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_JP_2",
@@ -8069,7 +8069,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_JP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_JP_3",
@@ -8084,7 +8084,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_JP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_JP_4",
@@ -8099,7 +8099,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_JP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2019_JP_5",
@@ -8114,7 +8114,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2019_JP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_FL_1",
@@ -8129,7 +8129,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_FL_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_FL_2",
@@ -8144,7 +8144,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_FL_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_FL_3",
@@ -8159,7 +8159,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_FL_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_FL_4",
@@ -8174,7 +8174,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_FL_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_FL_5",
@@ -8189,7 +8189,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_FL_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_FL_6",
@@ -8204,7 +8204,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_FL_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_HTVC_1",
@@ -8219,7 +8219,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_HTVC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_HTVC_2",
@@ -8234,7 +8234,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_HTVC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_HTVC_3",
@@ -8249,7 +8249,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_HTVC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_HTVC_4",
@@ -8264,7 +8264,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_HTVC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_HTVC_5",
@@ -8279,7 +8279,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_HTVC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_HTVC_6",
@@ -8294,7 +8294,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_HTVC_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_BRU_1",
@@ -8309,7 +8309,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_BRU_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_BRU_2",
@@ -8324,7 +8324,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_BRU_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_BRU_3",
@@ -8339,7 +8339,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_BRU_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_BRU_4",
@@ -8354,7 +8354,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_BRU_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_BRU_5",
@@ -8369,7 +8369,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_BRU_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_BRU_6",
@@ -8384,7 +8384,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_BRU_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_AHQ_1",
@@ -8399,7 +8399,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_AHQ_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_AHQ_2",
@@ -8414,7 +8414,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_AHQ_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_AHQ_3",
@@ -8429,7 +8429,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_AHQ_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_AHQ_4",
@@ -8444,7 +8444,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_AHQ_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_AHQ_5",
@@ -8459,7 +8459,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_AHQ_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_HKA_1",
@@ -8474,7 +8474,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_HKA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_HKA_2",
@@ -8489,7 +8489,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_HKA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_HKA_3",
@@ -8504,7 +8504,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_HKA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_HKA_4",
@@ -8519,7 +8519,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_HKA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_HKA_5",
@@ -8534,7 +8534,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_HKA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_HKA_6",
@@ -8549,7 +8549,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_HKA_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_ONE_1",
@@ -8564,7 +8564,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_ONE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_ONE_2",
@@ -8579,7 +8579,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_ONE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_ONE_3",
@@ -8594,7 +8594,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_ONE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_ONE_4",
@@ -8609,7 +8609,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_ONE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_ONE_5",
@@ -8624,7 +8624,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_ONE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_ONE_6",
@@ -8639,7 +8639,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_ONE_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_EVOS_1",
@@ -8654,7 +8654,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_EVOS_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_EVOS_2",
@@ -8669,7 +8669,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_EVOS_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_EVOS_3",
@@ -8684,7 +8684,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_EVOS_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_EVOS_4",
@@ -8699,7 +8699,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_EVOS_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_EVOS_5",
@@ -8714,7 +8714,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_EVOS_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_EVOS_6",
@@ -8729,7 +8729,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_EVOS_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_NOV_1",
@@ -8744,7 +8744,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_NOV_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_NOV_2",
@@ -8759,7 +8759,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_NOV_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_NOV_3",
@@ -8774,7 +8774,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_NOV_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_NOV_4",
@@ -8789,7 +8789,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_NOV_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_NOV_5",
@@ -8804,7 +8804,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_NOV_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_OP_1",
@@ -8819,7 +8819,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_OP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_OP_2",
@@ -8834,7 +8834,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_OP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_OP_3",
@@ -8849,7 +8849,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_OP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_OP_4",
@@ -8864,7 +8864,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_OP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_OP_5",
@@ -8879,7 +8879,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_OP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_Liyab_1",
@@ -8894,7 +8894,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_Liyab_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_Liyab_2",
@@ -8909,7 +8909,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_Liyab_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_Liyab_3",
@@ -8924,7 +8924,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_Liyab_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_Liyab_4",
@@ -8939,7 +8939,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_Liyab_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_Liyab_5",
@@ -8954,7 +8954,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_Liyab_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_USG_1",
@@ -8969,7 +8969,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_USG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_USG_2",
@@ -8984,7 +8984,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_USG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_USG_3",
@@ -8999,7 +8999,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_USG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_USG_4",
@@ -9014,7 +9014,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_USG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_USG_5",
@@ -9029,7 +9029,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_USG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_BMG_1",
@@ -9044,7 +9044,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_BMG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_BMG_2",
@@ -9059,7 +9059,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_BMG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_BMG_3",
@@ -9074,7 +9074,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_BMG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_BMG_4",
@@ -9089,7 +9089,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_BMG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2019_BMG_5",
@@ -9104,7 +9104,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2019,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2019_BMG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FW_1",
@@ -9119,7 +9119,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FW_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FW_2",
@@ -9134,7 +9134,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FW_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FW_3",
@@ -9149,7 +9149,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FW_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FW_4",
@@ -9164,7 +9164,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FW_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FW_5",
@@ -9179,7 +9179,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FW_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FW_6",
@@ -9194,7 +9194,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FW_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_MAD_1",
@@ -9209,7 +9209,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_MAD_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_MAD_2",
@@ -9224,7 +9224,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_MAD_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_MAD_3",
@@ -9239,7 +9239,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_MAD_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_MAD_4",
@@ -9254,7 +9254,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_MAD_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_MAD_5",
@@ -9269,7 +9269,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_MAD_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_MAD_6",
@@ -9284,7 +9284,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_MAD_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_HKA_1",
@@ -9299,7 +9299,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_HKA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_HKA_2",
@@ -9314,7 +9314,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_HKA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_HKA_3",
@@ -9329,7 +9329,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_HKA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_HKA_4",
@@ -9344,7 +9344,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_HKA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_HKA_5",
@@ -9359,7 +9359,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_HKA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_HKA_6",
@@ -9374,7 +9374,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_HKA_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_ONE_1",
@@ -9389,7 +9389,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_ONE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_ONE_2",
@@ -9404,7 +9404,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_ONE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_ONE_3",
@@ -9419,7 +9419,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_ONE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_ONE_4",
@@ -9434,7 +9434,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_ONE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_ONE_5",
@@ -9449,7 +9449,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_ONE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_ONE_6",
@@ -9464,7 +9464,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_ONE_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_BRU_1",
@@ -9479,7 +9479,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_BRU_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_BRU_2",
@@ -9494,7 +9494,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_BRU_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_BRU_3",
@@ -9509,7 +9509,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_BRU_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_BRU_4",
@@ -9524,7 +9524,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_BRU_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_BRU_5",
@@ -9539,7 +9539,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_BRU_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_BRU_6",
@@ -9554,7 +9554,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_BRU_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_BZ_1",
@@ -9569,7 +9569,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_BZ_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_BZ_2",
@@ -9584,7 +9584,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_BZ_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_BZ_3",
@@ -9599,7 +9599,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_BZ_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_BZ_4",
@@ -9614,7 +9614,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_BZ_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_BZ_5",
@@ -9629,7 +9629,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_BZ_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_BZ_6",
@@ -9644,7 +9644,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_BZ_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_TLN_1",
@@ -9659,7 +9659,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_TLN_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_TLN_2",
@@ -9674,7 +9674,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_TLN_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_TLN_3",
@@ -9689,7 +9689,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_TLN_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_TLN_4",
@@ -9704,7 +9704,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_TLN_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_TLN_5",
@@ -9719,7 +9719,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_TLN_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_TLN_6",
@@ -9734,7 +9734,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_TLN_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_POPS_1",
@@ -9749,7 +9749,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_POPS_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_POPS_2",
@@ -9764,7 +9764,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_POPS_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_POPS_3",
@@ -9779,7 +9779,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_POPS_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_POPS_4",
@@ -9794,7 +9794,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_POPS_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_POPS_5",
@@ -9809,7 +9809,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_POPS_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_POPS_6",
@@ -9824,7 +9824,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_POPS_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FL_1",
@@ -9839,7 +9839,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FL_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FL_2",
@@ -9854,7 +9854,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FL_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FL_3",
@@ -9869,7 +9869,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FL_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FL_4",
@@ -9884,7 +9884,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FL_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FL_5",
@@ -9899,7 +9899,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FL_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FL_6",
@@ -9914,7 +9914,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FL_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_SGP_1",
@@ -9929,7 +9929,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_SGP_2",
@@ -9944,7 +9944,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_SGP_3",
@@ -9959,7 +9959,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_SGP_4",
@@ -9974,7 +9974,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_SGP_5",
@@ -9989,7 +9989,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_SGP_6",
@@ -10004,7 +10004,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_SGP_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_PH_1",
@@ -10019,7 +10019,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_PH_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_PH_2",
@@ -10034,7 +10034,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_PH_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_PH_3",
@@ -10049,7 +10049,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_PH_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_PH_4",
@@ -10064,7 +10064,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_PH_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_PH_5",
@@ -10079,7 +10079,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_PH_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FAP_1",
@@ -10094,7 +10094,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FAP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FAP_2",
@@ -10109,7 +10109,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FAP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FAP_3",
@@ -10124,7 +10124,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FAP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FAP_4",
@@ -10139,7 +10139,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FAP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FAP_5",
@@ -10154,7 +10154,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FAP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_FAP_6",
@@ -10169,7 +10169,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_FAP_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_DG_1",
@@ -10184,7 +10184,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_DG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_DG_2",
@@ -10199,7 +10199,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_DG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_DG_3",
@@ -10214,7 +10214,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_DG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_DG_4",
@@ -10229,7 +10229,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_DG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_DG_5",
@@ -10244,7 +10244,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_DG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_ELV_1",
@@ -10259,7 +10259,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_ELV_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_ELV_2",
@@ -10274,7 +10274,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_ELV_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_ELV_3",
@@ -10289,7 +10289,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_ELV_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_ELV_4",
@@ -10304,7 +10304,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_ELV_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2020_ELV_5",
@@ -10319,7 +10319,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2020_ELV_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_MAD_1",
@@ -10334,7 +10334,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_MAD_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_MAD_2",
@@ -10349,7 +10349,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_MAD_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_MAD_3",
@@ -10364,7 +10364,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_MAD_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_MAD_4",
@@ -10379,7 +10379,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_MAD_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_MAD_5",
@@ -10394,7 +10394,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_MAD_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_MAD_6",
@@ -10409,7 +10409,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_MAD_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_FW_1",
@@ -10424,7 +10424,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_FW_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_FW_2",
@@ -10439,7 +10439,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_FW_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_FW_3",
@@ -10454,7 +10454,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_FW_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_FW_4",
@@ -10469,7 +10469,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_FW_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_FW_5",
@@ -10484,7 +10484,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_FW_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_HKA_1",
@@ -10499,7 +10499,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_HKA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_HKA_2",
@@ -10514,7 +10514,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_HKA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_HKA_3",
@@ -10529,7 +10529,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_HKA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_HKA_4",
@@ -10544,7 +10544,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_HKA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_HKA_5",
@@ -10559,7 +10559,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_HKA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_SGP_1",
@@ -10574,7 +10574,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_SGP_2",
@@ -10589,7 +10589,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_SGP_3",
@@ -10604,7 +10604,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_SGP_4",
@@ -10619,7 +10619,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_SGP_5",
@@ -10634,7 +10634,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_SGP_6",
@@ -10649,7 +10649,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_SGP_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_FL_1",
@@ -10664,7 +10664,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_FL_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_FL_2",
@@ -10679,7 +10679,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_FL_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_FL_3",
@@ -10694,7 +10694,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_FL_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_FL_4",
@@ -10709,7 +10709,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_FL_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_FL_5",
@@ -10724,7 +10724,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_FL_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_FL_6",
@@ -10739,7 +10739,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_FL_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_BOX_1",
@@ -10754,7 +10754,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_BOX_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_BOX_2",
@@ -10769,7 +10769,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_BOX_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_BOX_3",
@@ -10784,7 +10784,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_BOX_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_BOX_4",
@@ -10799,7 +10799,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_BOX_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_BOX_5",
@@ -10814,7 +10814,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_BOX_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_BOX_6",
@@ -10829,7 +10829,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_BOX_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_TLN_1",
@@ -10844,7 +10844,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_TLN_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_TLN_2",
@@ -10859,7 +10859,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_TLN_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_TLN_3",
@@ -10874,7 +10874,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_TLN_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_TLN_4",
@@ -10889,7 +10889,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_TLN_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_TLN_5",
@@ -10904,7 +10904,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_TLN_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_TLN_6",
@@ -10919,7 +10919,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_TLN_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_BRU_1",
@@ -10934,7 +10934,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_BRU_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_BRU_2",
@@ -10949,7 +10949,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_BRU_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_BRU_3",
@@ -10964,7 +10964,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_BRU_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_BRU_4",
@@ -10979,7 +10979,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_BRU_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_BRU_5",
@@ -10994,7 +10994,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_BRU_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_BRU_6",
@@ -11009,7 +11009,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_BRU_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_POPS_1",
@@ -11024,7 +11024,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_POPS_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_POPS_2",
@@ -11039,7 +11039,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_POPS_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_POPS_3",
@@ -11054,7 +11054,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_POPS_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_POPS_4",
@@ -11069,7 +11069,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_POPS_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_POPS_5",
@@ -11084,7 +11084,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_POPS_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_DG_1",
@@ -11099,7 +11099,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_DG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_DG_2",
@@ -11114,7 +11114,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_DG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_DG_3",
@@ -11129,7 +11129,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_DG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_DG_4",
@@ -11144,7 +11144,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_DG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_DG_5",
@@ -11159,7 +11159,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_DG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_AC_1",
@@ -11174,7 +11174,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_AC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_AC_2",
@@ -11189,7 +11189,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_AC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_AC_3",
@@ -11204,7 +11204,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_AC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_AC_4",
@@ -11219,7 +11219,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_AC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_AC_5",
@@ -11234,7 +11234,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_AC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_TC_1",
@@ -11249,7 +11249,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_TC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_TC_2",
@@ -11264,7 +11264,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_TC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_TC_3",
@@ -11279,7 +11279,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_TC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_TC_4",
@@ -11294,7 +11294,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_TC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2020_TC_5",
@@ -11309,7 +11309,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2020,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2020_TC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_DTN_1",
@@ -11324,7 +11324,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_DTN_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_DTN_2",
@@ -11339,7 +11339,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_DTN_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_DTN_3",
@@ -11354,7 +11354,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_DTN_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_DTN_4",
@@ -11369,7 +11369,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_DTN_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_DTN_5",
@@ -11384,7 +11384,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_DTN_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_DTN_6",
@@ -11399,7 +11399,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_DTN_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_BAC_1",
@@ -11414,7 +11414,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_BAC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_BAC_2",
@@ -11429,7 +11429,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_BAC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_BAC_3",
@@ -11444,7 +11444,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_BAC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_BAC_4",
@@ -11459,7 +11459,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_BAC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_BAC_5",
@@ -11474,7 +11474,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_BAC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_BAC_6",
@@ -11489,7 +11489,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_BAC_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_BRU_1",
@@ -11504,7 +11504,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_BRU_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_BRU_2",
@@ -11519,7 +11519,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_BRU_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_BRU_3",
@@ -11534,7 +11534,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_BRU_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_BRU_4",
@@ -11549,7 +11549,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_BRU_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_BRU_5",
@@ -11564,7 +11564,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_BRU_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_BRU_6",
@@ -11579,7 +11579,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_BRU_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_MOP_1",
@@ -11594,7 +11594,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_MOP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_MOP_2",
@@ -11609,7 +11609,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_MOP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_MOP_3",
@@ -11624,7 +11624,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_MOP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_MOP_4",
@@ -11639,7 +11639,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_MOP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_MOP_5",
@@ -11654,7 +11654,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_MOP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_MOP_6",
@@ -11669,7 +11669,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_MOP_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_MAD_1",
@@ -11684,7 +11684,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_MAD_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_MAD_2",
@@ -11699,7 +11699,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_MAD_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_MAD_3",
@@ -11714,7 +11714,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_MAD_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_MAD_4",
@@ -11729,7 +11729,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_MAD_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_MAD_5",
@@ -11744,7 +11744,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_MAD_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_MAD_6",
@@ -11759,7 +11759,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_MAD_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ONE_1",
@@ -11774,7 +11774,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ONE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ONE_2",
@@ -11789,7 +11789,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ONE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ONE_3",
@@ -11804,7 +11804,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ONE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ONE_4",
@@ -11819,7 +11819,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ONE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ONE_5",
@@ -11834,7 +11834,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ONE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ONE_6",
@@ -11849,7 +11849,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ONE_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_SGP_1",
@@ -11864,7 +11864,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_SGP_2",
@@ -11879,7 +11879,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_SGP_3",
@@ -11894,7 +11894,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_SGP_4",
@@ -11909,7 +11909,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_SGP_5",
@@ -11924,7 +11924,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_SGP_6",
@@ -11939,7 +11939,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_SGP_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_FL_1",
@@ -11954,7 +11954,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_FL_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_FL_2",
@@ -11969,7 +11969,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_FL_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_FL_3",
@@ -11984,7 +11984,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_FL_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_FL_4",
@@ -11999,7 +11999,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_FL_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_FL_5",
@@ -12014,7 +12014,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_FL_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_FL_6",
@@ -12029,7 +12029,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_FL_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_VGM_1",
@@ -12044,7 +12044,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_VGM_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_VGM_2",
@@ -12059,7 +12059,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_VGM_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_VGM_3",
@@ -12074,7 +12074,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_VGM_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_VGM_4",
@@ -12089,7 +12089,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_VGM_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_VGM_5",
@@ -12104,7 +12104,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_VGM_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_VGM_6",
@@ -12119,7 +12119,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_VGM_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ARC_1",
@@ -12134,7 +12134,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ARC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ARC_2",
@@ -12149,7 +12149,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ARC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ARC_3",
@@ -12164,7 +12164,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ARC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ARC_4",
@@ -12179,7 +12179,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ARC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ARC_5",
@@ -12194,7 +12194,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ARC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_DE_1",
@@ -12209,7 +12209,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_DE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_DE_2",
@@ -12224,7 +12224,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_DE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_DE_3",
@@ -12239,7 +12239,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_DE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_DE_4",
@@ -12254,7 +12254,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_DE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_DE_5",
@@ -12269,7 +12269,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_DE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_UND_1",
@@ -12284,7 +12284,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_UND_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_UND_2",
@@ -12299,7 +12299,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_UND_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_UND_3",
@@ -12314,7 +12314,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_UND_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_UND_4",
@@ -12329,7 +12329,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_UND_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_UND_5",
@@ -12344,7 +12344,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_UND_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_Z9_1",
@@ -12359,7 +12359,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_Z9_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_Z9_2",
@@ -12374,7 +12374,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_Z9_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_Z9_3",
@@ -12389,7 +12389,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_Z9_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_Z9_4",
@@ -12404,7 +12404,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_Z9_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_Z9_5",
@@ -12419,7 +12419,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_Z9_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_TC_1",
@@ -12434,7 +12434,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_TC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_TC_2",
@@ -12449,7 +12449,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_TC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_TC_3",
@@ -12464,7 +12464,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_TC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_TC_4",
@@ -12479,7 +12479,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_TC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_TC_5",
@@ -12494,7 +12494,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_TC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_OVM_1",
@@ -12509,7 +12509,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_OVM_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_OVM_2",
@@ -12524,7 +12524,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_OVM_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_OVM_3",
@@ -12539,7 +12539,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_OVM_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_OVM_4",
@@ -12554,7 +12554,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_OVM_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_OVM_5",
@@ -12569,7 +12569,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_OVM_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ZNC_1",
@@ -12584,7 +12584,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ZNC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ZNC_2",
@@ -12599,7 +12599,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ZNC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ZNC_3",
@@ -12614,7 +12614,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ZNC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ZNC_4",
@@ -12629,7 +12629,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ZNC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AWC2021_ZNC_5",
@@ -12644,7 +12644,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AWC2021_ZNC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_BRU_1",
@@ -12659,7 +12659,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_BRU_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_BRU_2",
@@ -12674,7 +12674,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_BRU_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_BRU_3",
@@ -12689,7 +12689,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_BRU_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_BRU_4",
@@ -12704,7 +12704,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_BRU_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_BRU_5",
@@ -12719,7 +12719,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_BRU_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_BRU_6",
@@ -12734,7 +12734,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_BRU_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_VGM_1",
@@ -12749,7 +12749,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_VGM_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_VGM_2",
@@ -12764,7 +12764,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_VGM_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_VGM_3",
@@ -12779,7 +12779,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_VGM_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_VGM_4",
@@ -12794,7 +12794,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_VGM_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_VGM_5",
@@ -12809,7 +12809,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_VGM_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_VGM_6",
@@ -12824,7 +12824,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_VGM_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_HKA_1",
@@ -12839,7 +12839,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_HKA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_HKA_2",
@@ -12854,7 +12854,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_HKA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_HKA_3",
@@ -12869,7 +12869,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_HKA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_HKA_4",
@@ -12884,7 +12884,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_HKA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_HKA_5",
@@ -12899,7 +12899,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_HKA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_HKA_6",
@@ -12914,7 +12914,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_HKA_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_DTN_1",
@@ -12929,7 +12929,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_DTN_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_DTN_2",
@@ -12944,7 +12944,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_DTN_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_DTN_3",
@@ -12959,7 +12959,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_DTN_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_DTN_4",
@@ -12974,7 +12974,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_DTN_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_DTN_5",
@@ -12989,7 +12989,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_DTN_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_DTN_6",
@@ -13004,7 +13004,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_DTN_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_SGP_1",
@@ -13019,7 +13019,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_SGP_2",
@@ -13034,7 +13034,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_SGP_3",
@@ -13049,7 +13049,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_SGP_4",
@@ -13064,7 +13064,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_SGP_5",
@@ -13079,7 +13079,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_SGP_6",
@@ -13094,7 +13094,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_SGP_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_ONE_1",
@@ -13109,7 +13109,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_ONE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_ONE_2",
@@ -13124,7 +13124,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_ONE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_ONE_3",
@@ -13139,7 +13139,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_ONE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_ONE_4",
@@ -13154,7 +13154,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_ONE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_ONE_5",
@@ -13169,7 +13169,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_ONE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_ONE_6",
@@ -13184,7 +13184,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_ONE_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_MAD_1",
@@ -13199,7 +13199,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_MAD_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_MAD_2",
@@ -13214,7 +13214,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_MAD_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_MAD_3",
@@ -13229,7 +13229,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_MAD_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_MAD_4",
@@ -13244,7 +13244,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_MAD_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_MAD_5",
@@ -13259,7 +13259,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_MAD_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_MAD_6",
@@ -13274,7 +13274,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_MAD_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_VCF_1",
@@ -13289,7 +13289,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_VCF_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_VCF_2",
@@ -13304,7 +13304,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_VCF_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_VCF_3",
@@ -13319,7 +13319,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_VCF_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_VCF_4",
@@ -13334,7 +13334,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_VCF_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_VCF_5",
@@ -13349,7 +13349,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_VCF_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_FL_1",
@@ -13364,7 +13364,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_FL_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_FL_2",
@@ -13379,7 +13379,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_FL_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_FL_3",
@@ -13394,7 +13394,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_FL_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_FL_4",
@@ -13409,7 +13409,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_FL_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_FL_5",
@@ -13424,7 +13424,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_FL_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_FL_6",
@@ -13439,7 +13439,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_FL_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_ARC_1",
@@ -13454,7 +13454,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_ARC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_ARC_2",
@@ -13469,7 +13469,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_ARC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_ARC_3",
@@ -13484,7 +13484,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_ARC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_ARC_4",
@@ -13499,7 +13499,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_ARC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_ARC_5",
@@ -13514,7 +13514,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_ARC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_UND_1",
@@ -13529,7 +13529,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_UND_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_UND_2",
@@ -13544,7 +13544,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_UND_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_UND_3",
@@ -13559,7 +13559,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_UND_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_UND_4",
@@ -13574,7 +13574,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_UND_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_UND_5",
@@ -13589,7 +13589,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_UND_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_XNY_1",
@@ -13604,7 +13604,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_XNY_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_XNY_2",
@@ -13619,7 +13619,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_XNY_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_XNY_3",
@@ -13634,7 +13634,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_XNY_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_XNY_4",
@@ -13649,7 +13649,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_XNY_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_XNY_5",
@@ -13664,7 +13664,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_XNY_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_TC_1",
@@ -13679,7 +13679,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_TC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_TC_2",
@@ -13694,7 +13694,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_TC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_TC_3",
@@ -13709,7 +13709,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_TC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_TC_4",
@@ -13724,7 +13724,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_TC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_TC_5",
@@ -13739,7 +13739,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_TC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_XE_1",
@@ -13754,7 +13754,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_XE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_XE_2",
@@ -13769,7 +13769,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_XE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_XE_3",
@@ -13784,7 +13784,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_XE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_XE_4",
@@ -13799,7 +13799,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_XE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2021_XE_5",
@@ -13814,7 +13814,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2021,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2021_XE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_VGM_1",
@@ -13829,7 +13829,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_VGM_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_VGM_2",
@@ -13844,7 +13844,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_VGM_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_VGM_3",
@@ -13859,7 +13859,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_VGM_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_VGM_4",
@@ -13874,7 +13874,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_VGM_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_VGM_5",
@@ -13889,7 +13889,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_VGM_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_VGM_6",
@@ -13904,7 +13904,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_VGM_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_ONE_1",
@@ -13919,7 +13919,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_ONE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_ONE_2",
@@ -13934,7 +13934,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_ONE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_ONE_3",
@@ -13949,7 +13949,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_ONE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_ONE_4",
@@ -13964,7 +13964,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_ONE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_ONE_5",
@@ -13979,7 +13979,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_ONE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_ONE_6",
@@ -13994,7 +13994,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_ONE_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_BAC_1",
@@ -14009,7 +14009,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_BAC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_BAC_2",
@@ -14024,7 +14024,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_BAC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_BAC_3",
@@ -14039,7 +14039,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_BAC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_BAC_4",
@@ -14054,7 +14054,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_BAC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_BAC_5",
@@ -14069,7 +14069,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_BAC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_BAC_6",
@@ -14084,7 +14084,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_BAC_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_BTR_1",
@@ -14099,7 +14099,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_BTR_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_BTR_2",
@@ -14114,7 +14114,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_BTR_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_BTR_3",
@@ -14129,7 +14129,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_BTR_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_BTR_4",
@@ -14144,7 +14144,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_BTR_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_BTR_5",
@@ -14159,7 +14159,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_BTR_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_BTR_6",
@@ -14174,7 +14174,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_BTR_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_SGP_1",
@@ -14189,7 +14189,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_SGP_2",
@@ -14204,7 +14204,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_SGP_3",
@@ -14219,7 +14219,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_SGP_4",
@@ -14234,7 +14234,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_SGP_5",
@@ -14249,7 +14249,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_SGP_6",
@@ -14264,7 +14264,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_SGP_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_KOG_1",
@@ -14279,7 +14279,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_KOG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_KOG_2",
@@ -14294,7 +14294,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_KOG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_KOG_3",
@@ -14309,7 +14309,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_KOG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_KOG_4",
@@ -14324,7 +14324,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_KOG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_KOG_5",
@@ -14339,7 +14339,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_KOG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_VCF_1",
@@ -14354,7 +14354,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_VCF_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_VCF_2",
@@ -14369,7 +14369,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_VCF_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_VCF_3",
@@ -14384,7 +14384,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_VCF_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_VCF_4",
@@ -14399,7 +14399,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_VCF_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_VCF_5",
@@ -14414,7 +14414,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_VCF_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_FL_1",
@@ -14429,7 +14429,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_FL_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_FL_2",
@@ -14444,7 +14444,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_FL_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_FL_3",
@@ -14459,7 +14459,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_FL_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_FL_4",
@@ -14474,7 +14474,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_FL_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_FL_5",
@@ -14489,7 +14489,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_FL_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_FL_6",
@@ -14504,7 +14504,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_FL_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_MAD_1",
@@ -14519,7 +14519,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_MAD_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_MAD_2",
@@ -14534,7 +14534,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_MAD_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_MAD_3",
@@ -14549,7 +14549,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_MAD_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_MAD_4",
@@ -14564,7 +14564,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_MAD_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_MAD_5",
@@ -14579,7 +14579,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_MAD_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_MAD_6",
@@ -14594,7 +14594,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_MAD_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_DE_1",
@@ -14609,7 +14609,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_DE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_DE_2",
@@ -14624,7 +14624,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_DE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_DE_3",
@@ -14639,7 +14639,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_DE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_DE_4",
@@ -14654,7 +14654,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_DE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_DE_5",
@@ -14669,7 +14669,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_DE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_AC_1",
@@ -14684,7 +14684,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_AC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_AC_2",
@@ -14699,7 +14699,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_AC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_AC_3",
@@ -14714,7 +14714,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_AC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_AC_4",
@@ -14729,7 +14729,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_AC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_AC_5",
@@ -14744,7 +14744,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_AC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_NOVA_1",
@@ -14759,7 +14759,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_NOVA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_NOVA_2",
@@ -14774,7 +14774,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_NOVA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_NOVA_3",
@@ -14789,7 +14789,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_NOVA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_NOVA_4",
@@ -14804,7 +14804,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_NOVA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_NOVA_5",
@@ -14819,7 +14819,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_NOVA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_A7_1",
@@ -14834,7 +14834,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_A7_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_A7_2",
@@ -14849,7 +14849,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_A7_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_A7_3",
@@ -14864,7 +14864,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_A7_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_A7_4",
@@ -14879,7 +14879,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_A7_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_A7_5",
@@ -14894,7 +14894,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_A7_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_TC_1",
@@ -14909,7 +14909,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_TC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_TC_2",
@@ -14924,7 +14924,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_TC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_TC_3",
@@ -14939,7 +14939,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_TC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_TC_4",
@@ -14954,7 +14954,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_TC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_TC_5",
@@ -14969,7 +14969,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_TC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_STAR_1",
@@ -14984,7 +14984,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_STAR_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_STAR_2",
@@ -14999,7 +14999,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_STAR_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_STAR_3",
@@ -15014,7 +15014,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_STAR_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_STAR_4",
@@ -15029,7 +15029,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_STAR_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2022_STAR_5",
@@ -15044,7 +15044,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2022_STAR_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BAC_1",
@@ -15059,7 +15059,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BAC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BAC_2",
@@ -15074,7 +15074,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BAC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BAC_3",
@@ -15089,7 +15089,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BAC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BAC_4",
@@ -15104,7 +15104,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BAC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BAC_5",
@@ -15119,7 +15119,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BAC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BAC_6",
@@ -15134,7 +15134,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BAC_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_SGP_1",
@@ -15149,7 +15149,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_SGP_2",
@@ -15164,7 +15164,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_SGP_3",
@@ -15179,7 +15179,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_SGP_4",
@@ -15194,7 +15194,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_SGP_5",
@@ -15209,7 +15209,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_SGP_6",
@@ -15224,7 +15224,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_SGP_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BTR_1",
@@ -15239,7 +15239,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BTR_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BTR_2",
@@ -15254,7 +15254,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BTR_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BTR_3",
@@ -15269,7 +15269,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BTR_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BTR_4",
@@ -15284,7 +15284,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BTR_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BTR_5",
@@ -15299,7 +15299,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BTR_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BTR_6",
@@ -15314,7 +15314,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BTR_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BRU_1",
@@ -15329,7 +15329,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BRU_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BRU_2",
@@ -15344,7 +15344,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BRU_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BRU_3",
@@ -15359,7 +15359,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BRU_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BRU_4",
@@ -15374,7 +15374,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BRU_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BRU_5",
@@ -15389,7 +15389,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BRU_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BRU_6",
@@ -15404,7 +15404,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BRU_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_VGM_1",
@@ -15419,7 +15419,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_VGM_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_VGM_2",
@@ -15434,7 +15434,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_VGM_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_VGM_3",
@@ -15449,7 +15449,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_VGM_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_VGM_4",
@@ -15464,7 +15464,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_VGM_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_VGM_5",
@@ -15479,7 +15479,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_VGM_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_VGM_6",
@@ -15494,7 +15494,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_VGM_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_KFC_1",
@@ -15509,7 +15509,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_KFC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_KFC_2",
@@ -15524,7 +15524,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_KFC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_KFC_3",
@@ -15539,7 +15539,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_KFC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_KFC_4",
@@ -15554,7 +15554,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_KFC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_KFC_5",
@@ -15569,7 +15569,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_KFC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_KFC_6",
@@ -15584,7 +15584,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_KFC_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_FW_1",
@@ -15599,7 +15599,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_FW_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_FW_2",
@@ -15614,7 +15614,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_FW_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_FW_3",
@@ -15629,7 +15629,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_FW_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_FW_4",
@@ -15644,7 +15644,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_FW_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_FW_5",
@@ -15659,7 +15659,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_FW_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_MAD_1",
@@ -15674,7 +15674,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_MAD_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_MAD_2",
@@ -15689,7 +15689,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_MAD_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_MAD_3",
@@ -15704,7 +15704,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_MAD_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_MAD_4",
@@ -15719,7 +15719,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_MAD_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_MAD_5",
@@ -15734,7 +15734,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_MAD_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BOX_1",
@@ -15749,7 +15749,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BOX_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BOX_2",
@@ -15764,7 +15764,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BOX_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BOX_3",
@@ -15779,7 +15779,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BOX_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BOX_4",
@@ -15794,7 +15794,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BOX_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BOX_5",
@@ -15809,7 +15809,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BOX_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_BOX_6",
@@ -15824,7 +15824,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_BOX_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_ARC_1",
@@ -15839,7 +15839,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_ARC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_ARC_2",
@@ -15854,7 +15854,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_ARC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_ARC_3",
@@ -15869,7 +15869,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_ARC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_ARC_4",
@@ -15884,7 +15884,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_ARC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_ARC_5",
@@ -15899,7 +15899,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_ARC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_DE_1",
@@ -15914,7 +15914,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_DE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_DE_2",
@@ -15929,7 +15929,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_DE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_DE_3",
@@ -15944,7 +15944,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_DE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_DE_4",
@@ -15959,7 +15959,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_DE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_DE_5",
@@ -15974,7 +15974,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_DE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_DG_1",
@@ -15989,7 +15989,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_DG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_DG_2",
@@ -16004,7 +16004,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_DG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_DG_3",
@@ -16019,7 +16019,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_DG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_DG_4",
@@ -16034,7 +16034,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_DG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2022_DG_5",
@@ -16049,7 +16049,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2022,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2022_DG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_SGP_1",
@@ -16064,7 +16064,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_SGP_2",
@@ -16079,7 +16079,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_SGP_3",
@@ -16094,7 +16094,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_SGP_4",
@@ -16109,7 +16109,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_SGP_5",
@@ -16124,7 +16124,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_SGP_6",
@@ -16139,7 +16139,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_SGP_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BAC_1",
@@ -16154,7 +16154,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BAC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BAC_2",
@@ -16169,7 +16169,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BAC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BAC_3",
@@ -16184,7 +16184,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BAC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BAC_4",
@@ -16199,7 +16199,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BAC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BAC_5",
@@ -16214,7 +16214,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BAC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BAC_6",
@@ -16229,7 +16229,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BAC_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BRO_1",
@@ -16244,7 +16244,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BRO_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BRO_2",
@@ -16259,7 +16259,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BRO_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BRO_3",
@@ -16274,7 +16274,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BRO_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BRO_4",
@@ -16289,7 +16289,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BRO_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BRO_5",
@@ -16304,7 +16304,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BRO_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_VGM_1",
@@ -16319,7 +16319,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_VGM_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_VGM_2",
@@ -16334,7 +16334,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_VGM_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_VGM_3",
@@ -16349,7 +16349,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_VGM_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_VGM_4",
@@ -16364,7 +16364,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_VGM_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_VGM_5",
@@ -16379,7 +16379,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_VGM_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_VGM_6",
@@ -16394,7 +16394,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_VGM_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_VCF_1",
@@ -16409,7 +16409,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_VCF_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_VCF_2",
@@ -16424,7 +16424,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_VCF_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_VCF_3",
@@ -16439,7 +16439,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_VCF_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_VCF_4",
@@ -16454,7 +16454,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_VCF_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_VCF_5",
@@ -16469,7 +16469,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_VCF_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BRU_1",
@@ -16484,7 +16484,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BRU_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BRU_2",
@@ -16499,7 +16499,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BRU_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BRU_3",
@@ -16514,7 +16514,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BRU_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BRU_4",
@@ -16529,7 +16529,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BRU_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_BRU_5",
@@ -16544,7 +16544,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_BRU_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_FW_1",
@@ -16559,7 +16559,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_FW_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_FW_2",
@@ -16574,7 +16574,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_FW_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_FW_3",
@@ -16589,7 +16589,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_FW_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_FW_4",
@@ -16604,7 +16604,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_FW_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_FW_5",
@@ -16619,7 +16619,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_FW_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_ONE_1",
@@ -16634,7 +16634,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_ONE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_ONE_2",
@@ -16649,7 +16649,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_ONE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_ONE_3",
@@ -16664,7 +16664,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_ONE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_ONE_4",
@@ -16679,7 +16679,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_ONE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_ONE_5",
@@ -16694,7 +16694,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_ONE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_HEV_1",
@@ -16709,7 +16709,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_HEV_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_HEV_2",
@@ -16724,7 +16724,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_HEV_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_HEV_3",
@@ -16739,7 +16739,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_HEV_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_HEV_4",
@@ -16754,7 +16754,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_HEV_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_HEV_5",
@@ -16769,7 +16769,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_HEV_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_MOP_1",
@@ -16784,7 +16784,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_MOP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_MOP_2",
@@ -16799,7 +16799,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_MOP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_MOP_3",
@@ -16814,7 +16814,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_MOP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_MOP_4",
@@ -16829,7 +16829,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_MOP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_MOP_5",
@@ -16844,7 +16844,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_MOP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_EA_1",
@@ -16859,7 +16859,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_EA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_EA_2",
@@ -16874,7 +16874,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_EA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_EA_3",
@@ -16889,7 +16889,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_EA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_EA_4",
@@ -16904,7 +16904,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_EA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_EA_5",
@@ -16919,7 +16919,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_EA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_KAG_1",
@@ -16934,7 +16934,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_KAG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_KAG_2",
@@ -16949,7 +16949,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_KAG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_KAG_3",
@@ -16964,7 +16964,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_KAG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_KAG_4",
@@ -16979,7 +16979,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_KAG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_KAG_5",
@@ -16994,7 +16994,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_KAG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_A7_1",
@@ -17009,7 +17009,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_A7_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_A7_2",
@@ -17024,7 +17024,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_A7_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_A7_3",
@@ -17039,7 +17039,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_A7_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_A7_4",
@@ -17054,7 +17054,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_A7_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_A7_5",
@@ -17069,7 +17069,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_A7_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_HQ_1",
@@ -17084,7 +17084,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_HQ_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_HQ_2",
@@ -17099,7 +17099,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_HQ_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_HQ_3",
@@ -17114,7 +17114,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_HQ_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_HQ_4",
@@ -17129,7 +17129,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_HQ_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2023_HQ_5",
@@ -17144,7 +17144,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2023_HQ_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_TLN_1",
@@ -17159,7 +17159,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_TLN_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_TLN_2",
@@ -17174,7 +17174,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_TLN_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_TLN_3",
@@ -17189,7 +17189,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_TLN_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_TLN_4",
@@ -17204,7 +17204,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_TLN_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_TLN_5",
@@ -17219,7 +17219,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_TLN_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_TLN_6",
@@ -17234,7 +17234,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_TLN_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_VCF_1",
@@ -17249,7 +17249,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_VCF_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_VCF_2",
@@ -17264,7 +17264,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_VCF_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_VCF_3",
@@ -17279,7 +17279,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_VCF_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_VCF_4",
@@ -17294,7 +17294,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_VCF_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_VCF_5",
@@ -17309,7 +17309,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_VCF_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_FW_1",
@@ -17324,7 +17324,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_FW_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_FW_2",
@@ -17339,7 +17339,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_FW_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_FW_3",
@@ -17354,7 +17354,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_FW_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_FW_4",
@@ -17369,7 +17369,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_FW_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_FW_5",
@@ -17384,7 +17384,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_FW_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_HKA_1",
@@ -17399,7 +17399,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_HKA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_HKA_2",
@@ -17414,7 +17414,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_HKA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_HKA_3",
@@ -17429,7 +17429,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_HKA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_HKA_4",
@@ -17444,7 +17444,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_HKA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_HKA_5",
@@ -17459,7 +17459,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_HKA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_SGP_1",
@@ -17474,7 +17474,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_SGP_2",
@@ -17489,7 +17489,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_SGP_3",
@@ -17504,7 +17504,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_SGP_4",
@@ -17519,7 +17519,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_SGP_5",
@@ -17534,7 +17534,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_SGP_6",
@@ -17549,7 +17549,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_SGP_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_VGM_1",
@@ -17564,7 +17564,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_VGM_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_VGM_2",
@@ -17579,7 +17579,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_VGM_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_VGM_3",
@@ -17594,7 +17594,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_VGM_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_VGM_4",
@@ -17609,7 +17609,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_VGM_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_VGM_5",
@@ -17624,7 +17624,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_VGM_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BAC_1",
@@ -17639,7 +17639,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BAC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BAC_2",
@@ -17654,7 +17654,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BAC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BAC_3",
@@ -17669,7 +17669,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BAC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BAC_4",
@@ -17684,7 +17684,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BAC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BAC_5",
@@ -17699,7 +17699,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BAC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BRO_1",
@@ -17714,7 +17714,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BRO_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BRO_2",
@@ -17729,7 +17729,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BRO_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BRO_3",
@@ -17744,7 +17744,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BRO_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BRO_4",
@@ -17759,7 +17759,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BRO_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BRO_5",
@@ -17774,7 +17774,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BRO_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_GG_1",
@@ -17789,7 +17789,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_GG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_GG_2",
@@ -17804,7 +17804,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_GG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_GG_3",
@@ -17819,7 +17819,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_GG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_GG_4",
@@ -17834,7 +17834,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_GG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_GG_5",
@@ -17849,7 +17849,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_GG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BHD_1",
@@ -17864,7 +17864,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BHD_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BHD_2",
@@ -17879,7 +17879,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BHD_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BHD_3",
@@ -17894,7 +17894,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BHD_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BHD_4",
@@ -17909,7 +17909,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BHD_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_BHD_5",
@@ -17924,7 +17924,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_BHD_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_DE_1",
@@ -17939,7 +17939,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_DE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_DE_2",
@@ -17954,7 +17954,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_DE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_DE_3",
@@ -17969,7 +17969,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_DE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_DE_4",
@@ -17984,7 +17984,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_DE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_DE_5",
@@ -17999,7 +17999,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_DE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_KAG_1",
@@ -18014,7 +18014,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_KAG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_KAG_2",
@@ -18029,7 +18029,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_KAG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_KAG_3",
@@ -18044,7 +18044,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_KAG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_KAG_4",
@@ -18059,7 +18059,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_KAG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2023_KAG_5",
@@ -18074,7 +18074,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2023,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2023_KAG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BMG_1",
@@ -18089,7 +18089,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BMG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BMG_2",
@@ -18104,7 +18104,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BMG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BMG_3",
@@ -18119,7 +18119,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BMG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BMG_4",
@@ -18134,7 +18134,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BMG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BMG_5",
@@ -18149,7 +18149,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BMG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BMG_6",
@@ -18164,7 +18164,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BMG_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BRU_1",
@@ -18179,7 +18179,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BRU_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BRU_2",
@@ -18194,7 +18194,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BRU_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BRU_3",
@@ -18209,7 +18209,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BRU_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BRU_4",
@@ -18224,7 +18224,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BRU_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BRU_5",
@@ -18239,7 +18239,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BRU_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BRU_6",
@@ -18254,7 +18254,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BRU_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_TLN_1",
@@ -18269,7 +18269,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_TLN_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_TLN_2",
@@ -18284,7 +18284,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_TLN_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_TLN_3",
@@ -18299,7 +18299,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_TLN_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_TLN_4",
@@ -18314,7 +18314,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_TLN_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_TLN_5",
@@ -18329,7 +18329,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_TLN_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_GG_1",
@@ -18344,7 +18344,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_GG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_GG_2",
@@ -18359,7 +18359,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_GG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_GG_3",
@@ -18374,7 +18374,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_GG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_GG_4",
@@ -18389,7 +18389,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_GG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_GG_5",
@@ -18404,7 +18404,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_GG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_SGP_1",
@@ -18419,7 +18419,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_SGP_2",
@@ -18434,7 +18434,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_SGP_3",
@@ -18449,7 +18449,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_SGP_4",
@@ -18464,7 +18464,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_SGP_5",
@@ -18479,7 +18479,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_SGP_6",
@@ -18494,7 +18494,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_SGP_6/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_FW_1",
@@ -18509,7 +18509,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_FW_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_FW_2",
@@ -18524,7 +18524,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_FW_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_FW_3",
@@ -18539,7 +18539,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_FW_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_FW_4",
@@ -18554,7 +18554,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_FW_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_FW_5",
@@ -18569,7 +18569,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_FW_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BAC_1",
@@ -18584,7 +18584,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BAC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BAC_2",
@@ -18599,7 +18599,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BAC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BAC_3",
@@ -18614,7 +18614,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BAC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BAC_4",
@@ -18629,7 +18629,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BAC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_BAC_5",
@@ -18644,7 +18644,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_BAC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_FPT_1",
@@ -18659,7 +18659,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_FPT_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_FPT_2",
@@ -18674,7 +18674,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_FPT_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_FPT_3",
@@ -18689,7 +18689,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_FPT_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_FPT_4",
@@ -18704,7 +18704,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_FPT_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_FPT_5",
@@ -18719,7 +18719,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_FPT_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_ONE_1",
@@ -18734,7 +18734,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_ONE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_ONE_2",
@@ -18749,7 +18749,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_ONE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_ONE_3",
@@ -18764,7 +18764,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_ONE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_ONE_4",
@@ -18779,7 +18779,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_ONE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_ONE_5",
@@ -18794,7 +18794,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_ONE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_1S_1",
@@ -18809,7 +18809,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_1S_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_1S_2",
@@ -18824,7 +18824,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_1S_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_1S_3",
@@ -18839,7 +18839,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_1S_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_1S_4",
@@ -18854,7 +18854,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_1S_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_1S_5",
@@ -18869,7 +18869,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_1S_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_EA_1",
@@ -18884,7 +18884,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_EA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_EA_2",
@@ -18899,7 +18899,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_EA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_EA_3",
@@ -18914,7 +18914,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_EA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_EA_4",
@@ -18929,7 +18929,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_EA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_EA_5",
@@ -18944,7 +18944,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_EA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_HKA_1",
@@ -18959,7 +18959,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_HKA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_HKA_2",
@@ -18974,7 +18974,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_HKA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_HKA_3",
@@ -18989,7 +18989,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_HKA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_HKA_4",
@@ -19004,7 +19004,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_HKA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_HKA_5",
@@ -19019,7 +19019,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_HKA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_TDT_1",
@@ -19034,7 +19034,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_TDT_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_TDT_2",
@@ -19049,7 +19049,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_TDT_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_TDT_3",
@@ -19064,7 +19064,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_TDT_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_TDT_4",
@@ -19079,7 +19079,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_TDT_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_TDT_5",
@@ -19094,7 +19094,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_TDT_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_KAG_1",
@@ -19109,7 +19109,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_KAG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_KAG_2",
@@ -19124,7 +19124,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_KAG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_KAG_3",
@@ -19139,7 +19139,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_KAG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_KAG_4",
@@ -19154,7 +19154,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_KAG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_KAG_5",
@@ -19169,7 +19169,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_KAG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_DE_1",
@@ -19184,7 +19184,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_DE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_DE_2",
@@ -19199,7 +19199,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_DE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_DE_3",
@@ -19214,7 +19214,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_DE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_DE_4",
@@ -19229,7 +19229,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_DE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_DE_5",
@@ -19244,7 +19244,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_DE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_DCG_1",
@@ -19259,7 +19259,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_DCG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_DCG_2",
@@ -19274,7 +19274,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_DCG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_DCG_3",
@@ -19289,7 +19289,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_DCG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_DCG_4",
@@ -19304,7 +19304,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_DCG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2024_DCG_5",
@@ -19319,7 +19319,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2024_DCG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BAC_1",
@@ -19334,7 +19334,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BAC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BAC_2",
@@ -19349,7 +19349,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BAC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BAC_3",
@@ -19364,7 +19364,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BAC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BAC_4",
@@ -19379,7 +19379,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BAC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BAC_5",
@@ -19394,7 +19394,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BAC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BMG_1",
@@ -19409,7 +19409,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BMG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BMG_2",
@@ -19424,7 +19424,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BMG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BMG_3",
@@ -19439,7 +19439,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BMG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BMG_4",
@@ -19454,7 +19454,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BMG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BMG_5",
@@ -19469,7 +19469,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BMG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FW_1",
@@ -19484,7 +19484,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FW_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FW_2",
@@ -19499,7 +19499,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FW_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FW_3",
@@ -19514,7 +19514,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FW_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FW_4",
@@ -19529,7 +19529,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FW_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FW_5",
@@ -19544,7 +19544,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FW_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_EA_1",
@@ -19559,7 +19559,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_EA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_EA_2",
@@ -19574,7 +19574,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_EA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_EA_3",
@@ -19589,7 +19589,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_EA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_EA_4",
@@ -19604,7 +19604,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_EA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_EA_5",
@@ -19619,7 +19619,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_EA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_SGP_1",
@@ -19634,7 +19634,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_SGP_2",
@@ -19649,7 +19649,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_SGP_3",
@@ -19664,7 +19664,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_SGP_4",
@@ -19679,7 +19679,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_SGP_5",
@@ -19694,7 +19694,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_1S_1",
@@ -19709,7 +19709,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_1S_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_1S_2",
@@ -19724,7 +19724,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_1S_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_1S_3",
@@ -19739,7 +19739,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_1S_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_1S_4",
@@ -19754,7 +19754,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_1S_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_1S_5",
@@ -19769,7 +19769,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_1S_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FS_1",
@@ -19784,7 +19784,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FS_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FS_2",
@@ -19799,7 +19799,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FS_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FS_3",
@@ -19814,7 +19814,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FS_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FS_4",
@@ -19829,7 +19829,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FS_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FS_5",
@@ -19844,7 +19844,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FS_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_ANK_1",
@@ -19859,7 +19859,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_ANK_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_ANK_2",
@@ -19874,7 +19874,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_ANK_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_ANK_3",
@@ -19889,7 +19889,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_ANK_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_ANK_4",
@@ -19904,7 +19904,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_ANK_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_ANK_5",
@@ -19919,7 +19919,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_ANK_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FPT_1",
@@ -19934,7 +19934,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FPT_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FPT_2",
@@ -19949,7 +19949,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FPT_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FPT_3",
@@ -19964,7 +19964,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FPT_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FPT_4",
@@ -19979,7 +19979,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FPT_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_FPT_5",
@@ -19994,7 +19994,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_FPT_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TLN_1",
@@ -20009,7 +20009,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TLN_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TLN_2",
@@ -20024,7 +20024,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TLN_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TLN_3",
@@ -20039,7 +20039,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TLN_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TLN_4",
@@ -20054,7 +20054,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TLN_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TLN_5",
@@ -20069,7 +20069,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TLN_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_ONE_1",
@@ -20084,7 +20084,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_ONE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_ONE_2",
@@ -20099,7 +20099,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_ONE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_ONE_3",
@@ -20114,7 +20114,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_ONE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_ONE_4",
@@ -20129,7 +20129,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_ONE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_ONE_5",
@@ -20144,7 +20144,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_ONE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TDT_1",
@@ -20159,7 +20159,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TDT_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TDT_2",
@@ -20174,7 +20174,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TDT_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TDT_3",
@@ -20189,7 +20189,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TDT_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TDT_4",
@@ -20204,7 +20204,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TDT_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TDT_5",
@@ -20219,7 +20219,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TDT_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BRU_1",
@@ -20234,7 +20234,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BRU_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BRU_2",
@@ -20249,7 +20249,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BRU_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BRU_3",
@@ -20264,7 +20264,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BRU_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BRU_4",
@@ -20279,7 +20279,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BRU_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_BRU_5",
@@ -20294,7 +20294,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_BRU_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_HKA_1",
@@ -20309,7 +20309,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_HKA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_HKA_2",
@@ -20324,7 +20324,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_HKA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_HKA_3",
@@ -20339,7 +20339,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_HKA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_HKA_4",
@@ -20354,7 +20354,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_HKA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_HKA_5",
@@ -20369,7 +20369,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_HKA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_KAG_1",
@@ -20384,7 +20384,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_KAG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_KAG_2",
@@ -20399,7 +20399,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_KAG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_KAG_3",
@@ -20414,7 +20414,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_KAG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_KAG_4",
@@ -20429,7 +20429,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_KAG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_KAG_5",
@@ -20444,7 +20444,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_KAG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TL_1",
@@ -20459,7 +20459,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TL_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TL_2",
@@ -20474,7 +20474,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TL_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TL_3",
@@ -20489,7 +20489,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TL_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TL_4",
@@ -20504,7 +20504,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TL_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2024_TL_5",
@@ -20519,7 +20519,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2024,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2024_TL_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FW_1",
@@ -20534,7 +20534,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FW_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FW_2",
@@ -20549,7 +20549,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FW_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FW_3",
@@ -20564,7 +20564,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FW_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FW_4",
@@ -20579,7 +20579,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FW_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FW_5",
@@ -20594,7 +20594,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FW_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_EA_1",
@@ -20609,7 +20609,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_EA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_EA_2",
@@ -20624,7 +20624,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_EA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_EA_3",
@@ -20639,7 +20639,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_EA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_EA_4",
@@ -20654,7 +20654,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_EA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_EA_5",
@@ -20669,7 +20669,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_EA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_SGP_1",
@@ -20684,7 +20684,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_SGP_2",
@@ -20699,7 +20699,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_SGP_3",
@@ -20714,7 +20714,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_SGP_4",
@@ -20729,7 +20729,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_SGP_5",
@@ -20744,7 +20744,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BAC_1",
@@ -20759,7 +20759,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BAC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BAC_2",
@@ -20774,7 +20774,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BAC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BAC_3",
@@ -20789,7 +20789,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BAC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BAC_4",
@@ -20804,7 +20804,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BAC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BAC_5",
@@ -20819,7 +20819,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BAC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BMG_1",
@@ -20834,7 +20834,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BMG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BMG_2",
@@ -20849,7 +20849,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BMG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BMG_3",
@@ -20864,7 +20864,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BMG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BMG_4",
@@ -20879,7 +20879,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BMG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BMG_5",
@@ -20894,7 +20894,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BMG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FPT_1",
@@ -20909,7 +20909,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FPT_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FPT_2",
@@ -20924,7 +20924,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FPT_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FPT_3",
@@ -20939,7 +20939,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FPT_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FPT_4",
@@ -20954,7 +20954,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FPT_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FPT_5",
@@ -20969,7 +20969,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 97,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FPT_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_TLN_1",
@@ -20984,7 +20984,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_TLN_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_TLN_2",
@@ -20999,7 +20999,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_TLN_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_TLN_3",
@@ -21014,7 +21014,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_TLN_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_TLN_4",
@@ -21029,7 +21029,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_TLN_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_TLN_5",
@@ -21044,7 +21044,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_TLN_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_1S_1",
@@ -21059,7 +21059,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_1S_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_1S_2",
@@ -21074,7 +21074,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_1S_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_1S_3",
@@ -21089,7 +21089,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_1S_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_1S_4",
@@ -21104,7 +21104,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_1S_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_1S_5",
@@ -21119,7 +21119,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_1S_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BRU_1",
@@ -21134,7 +21134,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BRU_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BRU_2",
@@ -21149,7 +21149,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BRU_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BRU_3",
@@ -21164,7 +21164,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BRU_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BRU_4",
@@ -21179,7 +21179,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BRU_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BRU_5",
@@ -21194,7 +21194,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BRU_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_ONE_1",
@@ -21209,7 +21209,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_ONE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_ONE_2",
@@ -21224,7 +21224,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_ONE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_ONE_3",
@@ -21239,7 +21239,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_ONE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_ONE_4",
@@ -21254,7 +21254,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_ONE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_ONE_5",
@@ -21269,7 +21269,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_ONE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_DCG_1",
@@ -21284,7 +21284,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_DCG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_DCG_2",
@@ -21299,7 +21299,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_DCG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_DCG_3",
@@ -21314,7 +21314,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_DCG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_DCG_4",
@@ -21329,7 +21329,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_DCG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_DCG_5",
@@ -21344,7 +21344,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_DCG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BOX_1",
@@ -21359,7 +21359,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BOX_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BOX_2",
@@ -21374,7 +21374,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BOX_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BOX_3",
@@ -21389,7 +21389,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BOX_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BOX_4",
@@ -21404,7 +21404,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BOX_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_BOX_5",
@@ -21419,7 +21419,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_BOX_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FS_1",
@@ -21434,7 +21434,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FS_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FS_2",
@@ -21449,7 +21449,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FS_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FS_3",
@@ -21464,7 +21464,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FS_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FS_4",
@@ -21479,7 +21479,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FS_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_FS_5",
@@ -21494,7 +21494,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_FS_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_ANK_1",
@@ -21509,7 +21509,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_ANK_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_ANK_2",
@@ -21524,7 +21524,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_ANK_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_ANK_3",
@@ -21539,7 +21539,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_ANK_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_ANK_4",
@@ -21554,7 +21554,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_ANK_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_ANK_5",
@@ -21569,7 +21569,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_ANK_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_KAG_1",
@@ -21584,7 +21584,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_KAG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_KAG_2",
@@ -21599,7 +21599,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_KAG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_KAG_3",
@@ -21614,7 +21614,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_KAG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_KAG_4",
@@ -21629,7 +21629,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_KAG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_KAG_5",
@@ -21644,7 +21644,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_KAG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_TL_1",
@@ -21659,7 +21659,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_TL_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_TL_2",
@@ -21674,7 +21674,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_TL_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_TL_3",
@@ -21689,7 +21689,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_TL_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_TL_4",
@@ -21704,7 +21704,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_TL_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_APL2025_TL_5",
@@ -21719,7 +21719,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_APL2025_TL_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FS_1",
@@ -21734,7 +21734,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FS_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FS_2",
@@ -21749,7 +21749,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FS_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FS_3",
@@ -21764,7 +21764,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FS_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FS_4",
@@ -21779,7 +21779,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FS_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FS_5",
@@ -21794,7 +21794,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FS_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FPT_1",
@@ -21809,7 +21809,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FPT_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FPT_2",
@@ -21824,7 +21824,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FPT_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FPT_3",
@@ -21839,7 +21839,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FPT_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FPT_4",
@@ -21854,7 +21854,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FPT_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FPT_5",
@@ -21869,7 +21869,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FPT_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BRU_1",
@@ -21884,7 +21884,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BRU_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BRU_2",
@@ -21899,7 +21899,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BRU_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BRU_3",
@@ -21914,7 +21914,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BRU_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BRU_4",
@@ -21929,7 +21929,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BRU_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BRU_5",
@@ -21944,7 +21944,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BRU_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FW_1",
@@ -21959,7 +21959,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FW_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FW_2",
@@ -21974,7 +21974,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FW_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FW_3",
@@ -21989,7 +21989,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FW_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FW_4",
@@ -22004,7 +22004,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FW_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_FW_5",
@@ -22019,7 +22019,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_FW_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_SGP_1",
@@ -22034,7 +22034,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_SGP_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_SGP_2",
@@ -22049,7 +22049,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 94,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_SGP_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_SGP_3",
@@ -22064,7 +22064,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_SGP_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_SGP_4",
@@ -22079,7 +22079,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_SGP_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_SGP_5",
@@ -22094,7 +22094,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_SGP_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BAC_1",
@@ -22109,7 +22109,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BAC_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BAC_2",
@@ -22124,7 +22124,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BAC_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BAC_3",
@@ -22139,7 +22139,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BAC_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BAC_4",
@@ -22154,7 +22154,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BAC_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BAC_5",
@@ -22169,7 +22169,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BAC_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BMG_1",
@@ -22184,7 +22184,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BMG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BMG_2",
@@ -22199,7 +22199,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BMG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BMG_3",
@@ -22214,7 +22214,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 86,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BMG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BMG_4",
@@ -22229,7 +22229,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BMG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_BMG_5",
@@ -22244,7 +22244,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_BMG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_1S_1",
@@ -22259,7 +22259,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_1S_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_1S_2",
@@ -22274,7 +22274,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_1S_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_1S_3",
@@ -22289,7 +22289,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_1S_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_1S_4",
@@ -22304,7 +22304,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_1S_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_1S_5",
@@ -22319,7 +22319,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 79,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_1S_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_EA_1",
@@ -22334,7 +22334,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_EA_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_EA_2",
@@ -22349,7 +22349,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_EA_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_EA_3",
@@ -22364,7 +22364,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_EA_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_EA_4",
@@ -22379,7 +22379,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_EA_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_EA_5",
@@ -22394,7 +22394,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_EA_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_ONE_1",
@@ -22409,7 +22409,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_ONE_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_ONE_2",
@@ -22424,7 +22424,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_ONE_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_ONE_3",
@@ -22439,7 +22439,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_ONE_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_ONE_4",
@@ -22454,7 +22454,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 84,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_ONE_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_ONE_5",
@@ -22469,7 +22469,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_ONE_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_DCG_1",
@@ -22484,7 +22484,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 92,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_DCG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_DCG_2",
@@ -22499,7 +22499,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 93,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_DCG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_DCG_3",
@@ -22514,7 +22514,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_DCG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_DCG_4",
@@ -22529,7 +22529,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_DCG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_DCG_5",
@@ -22544,7 +22544,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_DCG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TDT_1",
@@ -22559,7 +22559,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 91,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TDT_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TDT_2",
@@ -22574,7 +22574,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TDT_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TDT_3",
@@ -22589,7 +22589,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TDT_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TDT_4",
@@ -22604,7 +22604,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TDT_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TDT_5",
@@ -22619,7 +22619,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TDT_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TLN_1",
@@ -22634,7 +22634,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TLN_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TLN_2",
@@ -22649,7 +22649,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 87,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TLN_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TLN_3",
@@ -22664,7 +22664,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 96,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TLN_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TLN_4",
@@ -22679,7 +22679,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TLN_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TLN_5",
@@ -22694,7 +22694,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 95,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TLN_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_ANK_1",
@@ -22709,7 +22709,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_ANK_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_ANK_2",
@@ -22724,7 +22724,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_ANK_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_ANK_3",
@@ -22739,7 +22739,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_ANK_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_ANK_4",
@@ -22754,7 +22754,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_ANK_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_ANK_5",
@@ -22769,7 +22769,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_ANK_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_KAG_1",
@@ -22784,7 +22784,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 82,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_KAG_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_KAG_2",
@@ -22799,7 +22799,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_KAG_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_KAG_3",
@@ -22814,7 +22814,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_KAG_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_KAG_4",
@@ -22829,7 +22829,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 85,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_KAG_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_KAG_5",
@@ -22844,7 +22844,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 83,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_KAG_5/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TL_1",
@@ -22859,7 +22859,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 89,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TL_1/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TL_2",
@@ -22874,7 +22874,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 90,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TL_2/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TL_3",
@@ -22889,7 +22889,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 80,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TL_3/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TL_4",
@@ -22904,7 +22904,7 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 81,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TL_4/portrait.svg"
   },
   {
     "player_id": "PLAYER_AIC2025_TL_5",
@@ -22919,6 +22919,6 @@ export const HISTORICAL_PLAYERS: PlayerVersion[] = [
     "verification_status": "unverified",
     "year": 2025,
     "rating": 88,
-    "portrait_url": "/assets/placeholders/player-portrait.svg"
+    "portrait_url": "/assets/players/PLAYER_AIC2025_TL_5/portrait.svg"
   }
 ];

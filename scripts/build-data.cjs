@@ -111,7 +111,7 @@ const teams = teamRows.map(r => {
     source_url: r.source_url,
     verification_status: r.verification_status,
     year,
-    logo_url: '/assets/placeholders/team-logo.svg'
+    logo_url: `/assets/teams/${r.team_id}/logo.svg`
   };
 });
 
@@ -133,7 +133,7 @@ const coaches = coachRows.map(r => {
     country: r.country || 'International',
     year,
     rating: generateCoachRating(r.coach_name, r.team_name),
-    portrait_url: '/assets/placeholders/coach-portrait.svg'
+    portrait_url: `/assets/coaches/${r.coach_id}/portrait.svg`
   };
 });
 
@@ -179,7 +179,7 @@ const players = playerRows.map(r => {
     verification_status: r.verification_status,
     year,
     rating: generateRating(r.player_name, r.team_name, r.tournament_id, role),
-    portrait_url: '/assets/placeholders/player-portrait.svg'
+    portrait_url: `/assets/players/${r.player_id}/portrait.svg`
   };
 });
 

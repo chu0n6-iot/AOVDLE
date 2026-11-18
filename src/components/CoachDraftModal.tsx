@@ -1,6 +1,7 @@
 import React from 'react';
 import { CoachVersion, PlayerVersion, Role } from '../data/types';
 import { Shield, Sparkles, Trophy } from './icons';
+import { getAssetUrl } from '../utils/assets';
 
 interface CoachDraftModalProps {
   coaches: CoachVersion[];
@@ -63,7 +64,7 @@ export const CoachDraftModal: React.FC<CoachDraftModalProps> = ({
                 {/* Coach Portrait */}
                 <div className="w-24 h-24 rounded-2xl bg-[#071018] border-2 border-[#354653] group-hover:border-[#C9A45C] p-2 overflow-hidden mb-4 relative shadow-inner">
                   <img
-                    src={coach.portrait_url || '/assets/placeholders/coach-portrait.svg'}
+                    src={getAssetUrl(coach.portrait_url || '/assets/placeholders/coach-portrait.svg')}
                     alt={coach.coach_name}
                     className="w-full h-full object-cover filter group-hover:brightness-110"
                   />

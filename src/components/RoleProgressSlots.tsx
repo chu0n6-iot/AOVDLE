@@ -1,6 +1,7 @@
 import React from 'react';
 import { Role, ROLES, ROLE_LABELS, PlayerVersion, CoachVersion } from '../data/types';
 import { RotateCcw, Shield, CheckCircle2, Sparkles } from './icons';
+import { getAssetUrl } from '../utils/assets';
 
 interface RoleProgressSlotsProps {
   picks: Record<Role, PlayerVersion | null>;
@@ -83,13 +84,13 @@ export const RoleProgressSlots: React.FC<RoleProgressSlotsProps> = ({
               <div className="w-12 h-12 rounded-lg bg-[#071018] border border-[#354653] overflow-hidden flex items-center justify-center mb-1.5 p-1 relative">
                 {player ? (
                   <img
-                    src={player.portrait_url || '/assets/placeholders/player-portrait.svg'}
+                    src={getAssetUrl(player.portrait_url || '/assets/placeholders/player-portrait.svg')}
                     alt={player.player_name}
                     className="w-full h-full object-cover"
                   />
                 ) : (
                   <img
-                    src={label.icon}
+                    src={getAssetUrl(label.icon)}
                     alt={role}
                     className="w-6 h-6 opacity-40"
                   />
@@ -130,7 +131,7 @@ export const RoleProgressSlots: React.FC<RoleProgressSlotsProps> = ({
           <div className="w-12 h-12 rounded-lg bg-[#071018] border border-[#354653] overflow-hidden flex items-center justify-center mb-1.5 p-1 relative">
             {coach ? (
               <img
-                src={coach.portrait_url || '/assets/placeholders/coach-portrait.svg'}
+                src={getAssetUrl(coach.portrait_url || '/assets/placeholders/coach-portrait.svg')}
                 alt={coach.coach_name}
                 className="w-full h-full object-cover"
               />

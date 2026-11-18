@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { TournamentTeam, ROLES, ROLE_LABELS, Role } from '../data/types';
 import { Trophy, RotateCcw, Shield, Sparkles } from './icons';
+import { getAssetUrl } from '../utils/assets';
 import confetti from 'canvas-confetti';
 
 interface ChampionScreenProps {
@@ -98,7 +99,7 @@ export const ChampionScreen: React.FC<ChampionScreenProps> = ({ champion, onPlay
                 className="bg-[#142330] p-4 rounded-xl border border-[#354653]/60 flex items-center gap-3"
               >
                 <div className="w-10 h-10 rounded-lg bg-[#071018] border border-[#354653] p-1.5 shrink-0 flex items-center justify-center">
-                  <img src={label.icon} alt={role} className="w-full h-full" />
+                  <img src={getAssetUrl(label.icon)} alt={role} className="w-full h-full" />
                 </div>
                 <div className="min-w-0 flex-1">
                   <p className="font-['Barlow_Condensed'] font-bold text-base text-[#F2F0E9] truncate">

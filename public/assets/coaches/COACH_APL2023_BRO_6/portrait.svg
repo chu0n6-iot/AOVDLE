@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 180" fill="none">
+  <defs>
+    <linearGradient id="cGrad_BIK" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#142330"/>
+      <stop offset="100%" stop-color="#071018"/>
+    </linearGradient>
+  </defs>
+  <rect width="140" height="180" rx="14" fill="url(#cGrad_BIK)" stroke="#C9A45C" stroke-width="2"/>
+  
+  <!-- Header Bar -->
+  <rect x="0" y="0" width="140" height="26" rx="12" fill="#071018" fill-opacity="0.75"/>
+  <text x="12" y="17" font-family="'Barlow Condensed', sans-serif" font-size="10" font-weight="bold" fill="#C9A45C">HEAD COACH</text>
+  <text x="130" y="17" font-family="'Barlow Condensed', sans-serif" font-size="12" font-weight="900" fill="#C9A45C" text-anchor="end">86</text>
+
+  <!-- Head & Glasses -->
+  <circle cx="70" cy="60" r="25" fill="#1C3042" stroke="#C9A45C" stroke-width="1.5"/>
+  <rect x="52" y="55" width="14" height="10" rx="2" stroke="#C9A45C" stroke-width="2" fill="none"/>
+  <rect x="74" y="55" width="14" height="10" rx="2" stroke="#C9A45C" stroke-width="2" fill="none"/>
+  <line x1="66" y1="60" x2="74" y2="60" stroke="#C9A45C" stroke-width="2"/>
+
+  <!-- Suit & Tie -->
+  <path d="M22 152C22 108 40 96 70 96C100 96 118 108 118 152V160H22V152Z" fill="#1A242F" stroke="#354653" stroke-width="1.5"/>
+  <path d="M54 96L70 125L86 96" stroke="#C9A45C" stroke-width="2.5" fill="none"/>
+  <polygon points="67,125 73,125 75,148 70,154 65,148" fill="#C9A45C"/>
+
+  <!-- Tag Bar -->
+  <rect x="0" y="148" width="140" height="32" rx="10" fill="#071018" fill-opacity="0.95" stroke="#354653" stroke-width="1"/>
+  <text x="70" y="165" font-family="'Barlow Condensed', sans-serif" font-size="13" font-weight="900" fill="#F2F0E9" text-anchor="middle">BENNY</text>
+  <text x="70" y="176" font-family="'Inter', sans-serif" font-size="8" font-weight="600" fill="#C9A45C" text-anchor="middle">Bikertopia Espo • 2023</text>
+</svg>

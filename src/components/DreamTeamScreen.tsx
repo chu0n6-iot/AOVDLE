@@ -3,6 +3,7 @@ import { DreamTeam, ROLES, ROLE_LABELS, Role } from '../data/types';
 import { calculateDreamTeamStrength } from '../engine/rating';
 import { calculateSynergies } from '../engine/synergy';
 import { Shield, Sparkles, Trophy, ArrowRight, Zap, CheckCircle2 } from './icons';
+import { getAssetUrl } from '../utils/assets';
 import confetti from 'canvas-confetti';
 
 interface DreamTeamScreenProps {
@@ -120,7 +121,7 @@ export const DreamTeamScreen: React.FC<DreamTeamScreenProps> = ({
               {/* Role Icon & Label */}
               <div className="flex items-center gap-3 w-32 sm:w-44 shrink-0">
                 <div className="w-10 h-10 rounded-xl bg-[#071018] border border-[#354653] p-2 flex items-center justify-center shrink-0">
-                  <img src={label.icon} alt={role} className="w-full h-full" />
+                  <img src={getAssetUrl(label.icon)} alt={role} className="w-full h-full" />
                 </div>
                 <div>
                   <span className="font-['Barlow_Condensed'] font-black text-sm lg:text-base text-[#C9A45C] tracking-wide block">
@@ -136,7 +137,7 @@ export const DreamTeamScreen: React.FC<DreamTeamScreenProps> = ({
               <div className="flex items-center gap-4 flex-1 min-w-0">
                 <div className="w-14 h-14 rounded-xl bg-[#071018] border-2 border-[#354653] group-hover:border-[#C9A45C] overflow-hidden shrink-0 shadow-inner">
                   <img
-                    src={player.portrait_url || '/assets/placeholders/player-portrait.svg'}
+                    src={getAssetUrl(player.portrait_url || '/assets/placeholders/player-portrait.svg')}
                     alt={player.player_name}
                     className="w-full h-full object-cover"
                   />
@@ -190,7 +191,7 @@ export const DreamTeamScreen: React.FC<DreamTeamScreenProps> = ({
             <div className="flex items-center gap-4 flex-1 min-w-0">
               <div className="w-14 h-14 rounded-xl bg-[#071018] border-2 border-[#C9A45C] overflow-hidden shrink-0 shadow-inner">
                 <img
-                  src={dreamTeam.coach.portrait_url || '/assets/placeholders/coach-portrait.svg'}
+                  src={getAssetUrl(dreamTeam.coach.portrait_url || '/assets/placeholders/coach-portrait.svg')}
                   alt={dreamTeam.coach.coach_name}
                   className="w-full h-full object-cover"
                 />

@@ -1,6 +1,7 @@
 import React from 'react';
 import { Role, ROLES, ROLE_LABELS, PlayerVersion } from '../data/types';
 import { Shield, Sparkles } from './icons';
+import { getAssetUrl } from '../utils/assets';
 
 interface MapDraftViewProps {
   picks: Record<Role, PlayerVersion | null>;
@@ -26,7 +27,7 @@ export const MapDraftView: React.FC<MapDraftViewProps> = ({
     <div className="relative w-full aspect-square max-w-[620px] mx-auto rounded-2xl overflow-hidden border-2 border-[#C9A45C]/40 bg-[#071018] shadow-2xl shadow-[#C9A45C]/15 group">
       {/* Background Overhead Map */}
       <img
-        src="/assets/maps/aov_antaris_map.png"
+        src={getAssetUrl('/assets/maps/aov_antaris_map.png')}
         alt="Arena of Valor Antaris Battlefield"
         className="w-full h-full object-cover filter brightness-90 contrast-110 select-none pointer-events-none transition-transform duration-700 group-hover:scale-105"
       />
@@ -71,7 +72,7 @@ export const MapDraftView: React.FC<MapDraftViewProps> = ({
                 <div className="relative">
                   <div className="w-14 h-14 sm:w-16 sm:h-16 rounded-full overflow-hidden border-2 border-[#C9A45C] bg-[#142330] shadow-xl shadow-black/80 ring-2 ring-[#C9A45C]/50 flex items-center justify-center">
                     <img
-                      src={player.portrait_url || '/assets/placeholders/player-portrait.svg'}
+                      src={getAssetUrl(player.portrait_url || '/assets/placeholders/player-portrait.svg')}
                       alt={player.player_name}
                       className="w-full h-full object-cover"
                     />
@@ -80,7 +81,7 @@ export const MapDraftView: React.FC<MapDraftViewProps> = ({
                   {/* Mini Role / Team Badge on Top Right */}
                   <div className="absolute -top-1 -right-1 w-6 h-6 rounded-full bg-[#071018] border border-[#C9A45C] flex items-center justify-center shadow-md">
                     <img
-                      src={label.icon}
+                      src={getAssetUrl(label.icon)}
                       alt={role}
                       className="w-3.5 h-3.5"
                     />
@@ -113,7 +114,7 @@ export const MapDraftView: React.FC<MapDraftViewProps> = ({
                   }`}
                 >
                   <img
-                    src={label.icon}
+                    src={getAssetUrl(label.icon)}
                     alt={role}
                     className={`w-6 h-6 sm:w-7 sm:h-7 opacity-75 ${
                       isTarget ? 'filter drop-shadow-[0_0_8px_rgba(201,164,92,0.8)]' : ''

@@ -2,6 +2,7 @@ import React from 'react';
 import { TeamSeason, PlayerVersion } from '../data/types';
 import { Shield, ChevronRight, Trophy } from './icons';
 import { HISTORICAL_PLAYERS } from '../data/historicalData';
+import { getAssetUrl } from '../utils/assets';
 
 interface TeamCardProps {
   team: TeamSeason;
@@ -37,7 +38,7 @@ export const TeamCard: React.FC<TeamCardProps> = ({ team, onSelect, index }) => 
         {/* Team Logo / Crest */}
         <div className="w-14 h-14 rounded-xl bg-[#071018] border border-[#354653] group-hover:border-[#C9A45C] p-2 flex items-center justify-center shrink-0 shadow-inner transition-colors">
           <img
-            src={team.logo_url || '/assets/placeholders/team-logo.svg'}
+            src={getAssetUrl(team.logo_url || '/assets/placeholders/team-logo.svg')}
             alt={team.team_name}
             className="w-full h-full object-contain filter group-hover:brightness-110"
           />
