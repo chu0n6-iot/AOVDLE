@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@theme {
+  --color-aov-bg: #071018;
+  --color-aov-surface: #0D1923;
+  --color-aov-raised: #142330;
+  --color-aov-border: #354653;
+  --color-aov-gold: #C9A45C;
+  --color-aov-gold-muted: #80683D;
+  --color-aov-text-primary: #F2F0E9;
+  --color-aov-text-secondary: #91A0AA;
+  --color-aov-success: #3EAD83;
+  --color-aov-danger: #D45B58;
+  --font-heading: 'Barlow Condensed', sans-serif;
+  --font-sans: 'Inter', sans-serif;
+}
+
+@layer base {
+  body {
+    background-color: #071018;
+    color: #F2F0E9;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Barlow Condensed', sans-serif;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+}
+
+/* Custom Esports Glow & Card Accents */
+.gold-glow {
+  box-shadow: 0 0 20px rgba(201, 164, 92, 0.35);
+}
+
+.gold-glow-sm {
+  box-shadow: 0 0 10px rgba(201, 164, 92, 0.25);
+}
+
+.gold-border-gradient {
+  border-image: linear-gradient(135deg, #C9A45C, #354653, #80683D) 1;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #071018;
+}
+::-webkit-scrollbar-thumb {
+  background: #354653;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C9A45C;
+}

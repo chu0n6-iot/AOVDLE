@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="20" fill="#0D1923" stroke="#354653" stroke-width="2"/>
+  <!-- Guardian Shield for Support Lane -->
+  <path d="M50 18L76 28V52C76 68 64 78 50 84C36 78 24 68 24 52V28L50 18Z" stroke="#C9A45C" stroke-width="3" fill="#C9A45C" fill-opacity="0.15"/>
+  <path d="M50 28L68 35V52C68 63 59 71 50 75C41 71 32 63 32 52V35L50 28Z" stroke="#C9A45C" stroke-width="2"/>
+  <!-- Cross in shield -->
+  <path d="M50 38V64M37 51H63" stroke="#C9A45C" stroke-width="3" stroke-linecap="round"/>
+</svg>

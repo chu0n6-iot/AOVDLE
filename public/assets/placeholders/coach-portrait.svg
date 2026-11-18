@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 150" fill="none">
+  <rect width="120" height="150" rx="10" fill="#0D1923" stroke="#80683D" stroke-width="2"/>
+  <defs>
+    <linearGradient id="gradC" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#142330"/>
+      <stop offset="100%" stop-color="#071018"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="112" height="142" rx="8" fill="url(#gradC)"/>
+  <!-- Head Silhouette with Glasses / Suit -->
+  <circle cx="60" cy="46" r="24" fill="#1C3042" stroke="#C9A45C" stroke-width="1.5"/>
+  <!-- Glasses -->
+  <rect x="44" y="42" width="12" height="8" rx="2" stroke="#C9A45C" stroke-width="2" fill="none"/>
+  <rect x="64" y="42" width="12" height="8" rx="2" stroke="#C9A45C" stroke-width="2" fill="none"/>
+  <line x1="56" y1="46" x2="64" y2="46" stroke="#C9A45C" stroke-width="2"/>
+  <!-- Suit / Coat Shoulders -->
+  <path d="M18 135C18 95 36 84 60 84C84 84 102 95 102 135V145H18V135Z" fill="#1C3042" stroke="#354653" stroke-width="2"/>
+  <!-- Tie and Lapel -->
+  <path d="M44 84L60 114L76 84" stroke="#80683D" stroke-width="2" fill="none"/>
+  <polygon points="57,114 63,114 65,138 60,144 55,138" fill="#C9A45C"/>
+  <rect x="58" y="110" width="4" height="4" fill="#C9A45C"/>
+</svg>

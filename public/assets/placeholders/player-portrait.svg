@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 150" fill="none">
+  <rect width="120" height="150" rx="10" fill="#0D1923" stroke="#354653" stroke-width="2"/>
+  <defs>
+    <linearGradient id="gradP" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#142330"/>
+      <stop offset="100%" stop-color="#071018"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="112" height="142" rx="8" fill="url(#gradP)"/>
+  <!-- Head & Hair Silhouette -->
+  <circle cx="60" cy="50" r="26" fill="#1C3042" stroke="#80683D" stroke-width="1.5"/>
+  <!-- Headset -->
+  <path d="M30 48C30 32 43 20 60 20C77 20 90 32 90 48" stroke="#C9A45C" stroke-width="4" stroke-linecap="round"/>
+  <rect x="26" y="44" width="9" height="18" rx="4" fill="#C9A45C"/>
+  <rect x="85" y="44" width="9" height="18" rx="4" fill="#C9A45C"/>
+  <path d="M34 58C36 68 45 74 52 74" stroke="#C9A45C" stroke-width="2" stroke-linecap="round"/>
+  <!-- Shoulders & Jersey -->
+  <path d="M20 135C20 100 36 90 60 90C84 90 100 100 100 135V145H20V135Z" fill="#1C3042" stroke="#354653" stroke-width="2"/>
+  <!-- Jersey Collar / Esports Trim -->
+  <path d="M48 90L60 106L72 90" stroke="#C9A45C" stroke-width="2.5" fill="none"/>
+  <circle cx="60" cy="116" r="4" fill="#C9A45C"/>
+</svg>

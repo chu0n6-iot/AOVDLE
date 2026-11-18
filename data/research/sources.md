@@ -65,3 +65,36 @@ The existing material is not a complete or consistent playable roster database:
 - Only `verified` facts with supporting evidence can enter a strict Draft pool or generate synergy.
 - No images were downloaded, embedded, or reused.
 
+
+## Imported roster CSV – 2019–2025 (pending independent verification)
+
+Input: `aov_international_rosters_2019_2025.csv` (user-provided).
+- Source rows: 1251
+- Player rows: 1054
+- Head Coach rows: 197
+- Tournament editions represented: 14
+- Event-specific team records represented: 197
+- Liquipedia URLs retained from source CSV.
+
+Integration status:
+- Tournament IDs are formed as `<Series><Year>` and matched to existing tournament IDs.
+- Team IDs retain the source `EventTeamID` as event-specific team IDs.
+- Coach IDs retain source `UID`.
+- Imported records are marked `partial`; source CSV's `Status=complete` is not treated as independent verification.
+- Existing verified rows are not overwritten.
+- This import does not populate `players.csv` or `rosters.csv`; those files have not yet been supplied for merge.
+
+Caveats:
+- The source CSV covers 2019–2025 only.
+- Game-title, event eligibility, team entry, coach role and roster facts still require field-level verification.
+- `Region` is retained as provided; it is not independently asserted as player nationality.
+- Do not enable strict Draft eligibility or Hidden Synergy from this import until verified.
+
+
+## Import audit — player and roster candidate batch (2019–2025)
+- Imported player/roster candidates from `aov_international_rosters_2019_2025.csv` into the existing `players.csv` and `rosters.csv` schemas.
+- Added 1054 player candidates and 1054 roster candidate rows; existing rows were preserved.
+- All imported rows are marked `unverified`; roster rows use `registration_status=source_candidate` and `played_status=unknown`.
+- The source file's `Status=complete` was not treated as independent verification. Liquipedia URLs under `/honorofkings/` were not taken as proof of Arena of Valor game identity. `Region` was not copied into `country`.
+- Coverage `canonical_roster_rows` and `eligible_verified_role_rows` were not increased. Candidate-only editions are marked `quarantined` until source-by-source validation.
+- This is a research-candidate import, not a verified competitive roster dataset; do not use these rows in strict Draft or Hidden Synergy yet.

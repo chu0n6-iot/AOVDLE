@@ -1,4 +1,4 @@
-coach_id,coach_name,team_id,team_name,tournament_id,role,source_url,verification_status,country
+﻿coach_id,coach_name,team_id,team_name,tournament_id,role,source_url,verification_status,country
 COACH_APL2026_FPT,Han,APL2026_FPT,FPT Polytechnic,APL2026,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial,Vietnam
 COACH_APL2026_TF,Tony,APL2026_TF,Team Flash,APL2026,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial,Vietnam
 COACH_APL2026_SGP,Turtle,APL2026_SGP,Saigon Phantom,APL2026,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial,Vietnam
@@ -14,3 +14,200 @@ COACH_APL2026_SOL,Goru,APL2026_SOL,Solyx Esports,APL2026,Head Coach,https://liqu
 COACH_APL2026_BT,ThisKen,APL2026_BT,Bacon Time,APL2026,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial,Thailand
 COACH_APL2026_ONE,nT,APL2026_ONE,ONE Team,APL2026,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial,Taiwan
 COACH_APL2026_HKA,XianYo,APL2026_HKA,Hong Kong Attitude,APL2026,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2026,partial,Hong Kong
+COACH_AWC2019_FL_7,Harvin,AWC2019_FL,Team Flash,AWC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019,partial,Vietnam
+COACH_AWC2019_BOX_7,Ueki,AWC2019_BOX,BOX Gaming,AWC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019,partial,Vietnam
+COACH_AWC2019_MAD_7,Rainer,AWC2019_MAD,MAD Team,AWC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019,partial,Chinese Taipei
+COACH_AWC2019_ONE_7,Ting,AWC2019_ONE,ONE Team,AWC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019,partial,Chinese Taipei
+COACH_AWC2019_TH_7,Misty,AWC2019_TH,Thailand (ahq e-Sports Club),AWC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019,partial,Thailand
+COACH_AWC2019_THWC_7,Kittisak,AWC2019_THWC,Thailand Wildcard (Toyota Diamond Cobra),AWC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019,partial,Thailand
+COACH_AWC2019_KR_6,Jisu,AWC2019_KR,Korea (NewB),AWC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019,partial,South Korea
+COACH_AWC2019_ID_7,Princess,AWC2019_ID,Indonesia (EVOS Esports),AWC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019,partial,Indonesia
+COACH_AWC2019_MSP_6,Kira,AWC2019_MSP,MSP (M8HEXA),AWC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019,partial,MSP
+COACH_AWC2019_NA_6,Kz,AWC2019_NA,North America (BM Gaming),AWC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019,partial,North America
+COACH_AWC2019_CN_6,Chen,AWC2019_CN,China (X-Quest),AWC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019,partial,China
+COACH_AWC2019_JP_6,Kenshin,AWC2019_JP,Japan (Unsold Stuff Gaming),AWC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2019,partial,Japan
+COACH_AIC2019_FL_7,Harvin,AIC2019_FL,Team Flash,AIC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial,Vietnam
+COACH_AIC2019_HTVC_7,Polo,AIC2019_HTVC,HTVC IGP Gaming,AIC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial,Vietnam
+COACH_AIC2019_BRU_7,Mistgunz,AIC2019_BRU,Buriram United Esports,AIC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial,Thailand
+COACH_AIC2019_AHQ_6,Taz,AIC2019_AHQ,ahq e-Sports Club,AIC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial,Thailand
+COACH_AIC2019_HKA_7,Ting,AIC2019_HKA,Hong Kong Attitude,AIC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial,Taiwan
+COACH_AIC2019_ONE_7,PoPo,AIC2019_ONE,ONE Team,AIC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial,Taiwan
+COACH_AIC2019_EVOS_7,Hydra,AIC2019_EVOS,EVOS Esports,AIC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial,Indonesia
+COACH_AIC2019_NOV_6,Red,AIC2019_NOV,Nova Esports,AIC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial,Europe
+COACH_AIC2019_OP_6,Jisu,AIC2019_OP,Olympus,AIC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial,South Korea
+COACH_AIC2019_Liyab_6,Don,AIC2019_Liyab,Liyab Esports,AIC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial,Philippines
+COACH_AIC2019_USG_6,Kenshin,AIC2019_USG,Unsold Stuff Gaming,AIC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial,Japan
+COACH_AIC2019_BMG_6,Kz,AIC2019_BMG,BM Gaming,AIC2019,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2019,partial,North America
+COACH_APL2020_FW_7,Lantyr,APL2020_FW,Flash Wolves,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Taiwan
+COACH_APL2020_MAD_7,Rainer,APL2020_MAD,MAD Team,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Taiwan
+COACH_APL2020_HKA_7,Ting,APL2020_HKA,Hong Kong Attitude,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Taiwan
+COACH_APL2020_ONE_7,Yu,APL2020_ONE,ONE Team,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Taiwan
+COACH_APL2020_BRU_7,Mistgunz,APL2020_BRU,Buriram United Esports,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Thailand
+COACH_APL2020_BZ_7,Linkou,APL2020_BZ,Bazaar Gaming,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Thailand
+COACH_APL2020_TLN_7,Cabbage,APL2020_TLN,Talon Esports,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Thailand
+COACH_APL2020_POPS_7,Miffy,APL2020_POPS,POPS Bacon Time,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Thailand
+COACH_APL2020_FL_7,Harvin,APL2020_FL,Team Flash,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Vietnam
+COACH_APL2020_SGP_7,Polo,APL2020_SGP,Saigon Phantom,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Vietnam
+COACH_APL2020_PH_6,Vigoss,APL2020_PH,Project H,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Vietnam
+COACH_APL2020_FAP_7,Riku,APL2020_FAP,FAPtv,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Vietnam
+COACH_APL2020_DG_6,Glen,APL2020_DG,DG Esports,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Indonesia
+COACH_APL2020_ELV_6,Clover,APL2020_ELV,Team Elvo,APL2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2020,partial,Indonesia
+COACH_AIC2020_MAD_7,Rainer,AIC2020_MAD,MAD Team,AIC2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020,partial,Taiwan
+COACH_AIC2020_FW_6,Lantyr,AIC2020_FW,Flash Wolves,AIC2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020,partial,Taiwan
+COACH_AIC2020_HKA_6,Ting,AIC2020_HKA,Hong Kong Attitude,AIC2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020,partial,Taiwan
+COACH_AIC2020_SGP_7,Polo,AIC2020_SGP,Saigon Phantom,AIC2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020,partial,Vietnam
+COACH_AIC2020_FL_7,Harvin,AIC2020_FL,Team Flash,AIC2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020,partial,Vietnam
+COACH_AIC2020_BOX_7,Ueki,AIC2020_BOX,BOX Gaming,AIC2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020,partial,Vietnam
+COACH_AIC2020_TLN_7,Linkou,AIC2020_TLN,Talon Esports,AIC2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020,partial,Thailand
+COACH_AIC2020_BRU_7,Mistgunz,AIC2020_BRU,Buriram United Esports,AIC2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020,partial,Thailand
+COACH_AIC2020_POPS_6,Miffy,AIC2020_POPS,POPS Bacon Time,AIC2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020,partial,Thailand
+COACH_AIC2020_DG_6,Glen,AIC2020_DG,DG Esports,AIC2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020,partial,Indonesia
+COACH_AIC2020_AC_6,Chen,AIC2020_AC,All Combo,AIC2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020,partial,China
+COACH_AIC2020_TC_6,Jisu,AIC2020_TC,Team Timing,AIC2020,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2020,partial,South Korea
+COACH_AWC2021_DTN_7,Linkou,AWC2021_DTN,dtac Talon Esports,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Thailand
+COACH_AWC2021_BAC_7,Moss,AWC2021_BAC,Bacon Time,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Thailand
+COACH_AWC2021_BRU_7,Misty,AWC2021_BRU,Buriram United Esports,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Thailand
+COACH_AWC2021_MOP_7,Vincent,AWC2021_MOP,Most Outstanding Player,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Taiwan
+COACH_AWC2021_MAD_7,Rainer,AWC2021_MAD,MAD Team,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Taiwan
+COACH_AWC2021_ONE_7,Yu,AWC2021_ONE,ONE Team,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Taiwan
+COACH_AWC2021_SGP_7,Polo,AWC2021_SGP,Saigon Phantom,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Vietnam
+COACH_AWC2021_FL_7,Đạt Kòi,AWC2021_FL,Team Flash,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Vietnam
+COACH_AWC2021_VGM_7,NoFear,AWC2021_VGM,V Gaming,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Vietnam
+COACH_AWC2021_ARC_6,Clover,AWC2021_ARC,Archangel,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Indonesia
+COACH_AWC2021_DE_6,Glen,AWC2021_DE,Dewa United Esports,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Indonesia
+COACH_AWC2021_UND_6,Kira,AWC2021_UND,UndeRank,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,MSP
+COACH_AWC2021_Z9_6,Chen,AWC2021_Z9,Team 39,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,China
+COACH_AWC2021_TC_6,Jisu,AWC2021_TC,Team Timing,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,South Korea
+COACH_AWC2021_OVM_6,Luan,AWC2021_OVM,Overclock,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Brazil
+COACH_AWC2021_ZNC_6,Kenshin,AWC2021_ZNC,Z9 Gaming,AWC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_World_Cup/2021,partial,Japan
+COACH_AIC2021_BRU_7,Misty,AIC2021_BRU,Buriram United Esports,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,Thailand
+COACH_AIC2021_VGM_7,NoFear,AIC2021_VGM,V Gaming,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,Vietnam
+COACH_AIC2021_HKA_7,Ting,AIC2021_HKA,Hong Kong Attitude,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,Taiwan
+COACH_AIC2021_DTN_7,Linkou,AIC2021_DTN,dtac Talon Esports,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,Thailand
+COACH_AIC2021_SGP_7,Titan,AIC2021_SGP,Saigon Phantom,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,Vietnam
+COACH_AIC2021_ONE_7,Yu,AIC2021_ONE,ONE Team,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,Taiwan
+COACH_AIC2021_MAD_7,Rainer,AIC2021_MAD,MAD Team,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,Taiwan
+COACH_AIC2021_VCF_6,TNK,AIC2021_VCF,Valencia CF Esports,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,Thailand
+COACH_AIC2021_FL_7,Rainer,AIC2021_FL,Team Flash,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,Vietnam
+COACH_AIC2021_ARC_6,Clover,AIC2021_ARC,Archangel,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,Indonesia
+COACH_AIC2021_UND_6,Kira,AIC2021_UND,UndeRank,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,MSP
+COACH_AIC2021_XNY_6,Chen,AIC2021_XNY,All Gamers,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,China
+COACH_AIC2021_TC_6,Jisu,AIC2021_TC,Team Olympus,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,South Korea
+COACH_AIC2021_XE_6,Kenshin,AIC2021_XE,XeNo,AIC2021,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2021,partial,Japan
+COACH_AIC2022_VGM_7,NoFear,AIC2022_VGM,V Gaming,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Vietnam
+COACH_AIC2022_ONE_7,Yu,AIC2022_ONE,ONE Team,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Taiwan
+COACH_AIC2022_BAC_7,Moss,AIC2022_BAC,Bacon Time,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Thailand
+COACH_AIC2022_BTR_7,Benny,AIC2022_BTR,Bikertopia Esports,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Taiwan
+COACH_AIC2022_SGP_7,Titan,AIC2022_SGP,Saigon Phantom,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Vietnam
+COACH_AIC2022_KOG_6,Jommy,AIC2022_KOG,King of Gamers Club,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Thailand
+COACH_AIC2022_VCF_6,TNK,AIC2022_VCF,Valencia CF Esports,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Thailand
+COACH_AIC2022_FL_7,Rainer,AIC2022_FL,Team Flash,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Vietnam
+COACH_AIC2022_MAD_7,Vincent,AIC2022_MAD,MAD Team,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Taiwan
+COACH_AIC2022_DE_6,Glen,AIC2022_DE,Dewa United Esports,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Indonesia
+COACH_AIC2022_AC_6,Chen,AIC2022_AC,All Combo,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,China
+COACH_AIC2022_NOVA_6,Red,AIC2022_NOVA,Nova Esports,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Europe
+COACH_AIC2022_A7_6,Luan,AIC2022_A7,Alpha7 Esports,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Brazil
+COACH_AIC2022_TC_6,Jisu,AIC2022_TC,Team Olympus,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,South Korea
+COACH_AIC2022_STAR_6,Ali,AIC2022_STAR,Starry Hope,AIC2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2022,partial,Middle East
+COACH_APL2022_BAC_7,Moss,APL2022_BAC,Bacon Time,APL2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022,partial,Thailand
+COACH_APL2022_SGP_7,Titan,APL2022_SGP,Saigon Phantom,APL2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022,partial,Vietnam
+COACH_APL2022_BTR_7,Benny,APL2022_BTR,Bikertopia Esports,APL2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022,partial,Taiwan
+COACH_APL2022_BRU_7,Misty,APL2022_BRU,Buriram United Esports,APL2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022,partial,Thailand
+COACH_APL2022_VGM_7,NoFear,APL2022_VGM,V Gaming,APL2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022,partial,Vietnam
+COACH_APL2022_KFC_7,Linkou,APL2022_KFC,KFC x Talon,APL2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022,partial,Thailand
+COACH_APL2022_FW_6,Lantyr,APL2022_FW,Flash Wolves,APL2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022,partial,Taiwan
+COACH_APL2022_MAD_6,Vincent,APL2022_MAD,MAD Team,APL2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022,partial,Taiwan
+COACH_APL2022_BOX_7,Ueki,APL2022_BOX,BOX Gaming,APL2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022,partial,Vietnam
+COACH_APL2022_ARC_6,Clover,APL2022_ARC,Archangel,APL2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022,partial,Indonesia
+COACH_APL2022_DE_6,Glen,APL2022_DE,Dewa United Esports,APL2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022,partial,Indonesia
+COACH_APL2022_DG_6,Glen,APL2022_DG,DG Esports,APL2022,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2022,partial,Indonesia
+COACH_APL2023_SGP_7,Titan,APL2023_SGP,Saigon Phantom,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Vietnam
+COACH_APL2023_BAC_7,Moss,APL2023_BAC,Bacon Time,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Thailand
+COACH_APL2023_BRO_6,Benny,APL2023_BRO,Bikertopia Esports,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Taiwan
+COACH_APL2023_VGM_7,NoFear,APL2023_VGM,V Gaming,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Vietnam
+COACH_APL2023_VCF_6,TNK,APL2023_VCF,Valencia CF Esports,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Thailand
+COACH_APL2023_BRU_6,Misty,APL2023_BRU,Buriram United Esports,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Thailand
+COACH_APL2023_FW_6,Lantyr,APL2023_FW,Flash Wolves,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Taiwan
+COACH_APL2023_ONE_6,Yu,APL2023_ONE,ONE Team,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Taiwan
+COACH_APL2023_HEV_6,Rainer,APL2023_HEV,HEAVY,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Vietnam
+COACH_APL2023_MOP_6,Vincent,APL2023_MOP,Most Outstanding Player,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Taiwan
+COACH_APL2023_EA_6,Glen,APL2023_EA,eArena,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Indonesia
+COACH_APL2023_KAG_6,Clover,APL2023_KAG,Kagendra,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Indonesia
+COACH_APL2023_A7_6,Hydra,APL2023_A7,A7 Esports,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Indonesia
+COACH_APL2023_HQ_6,ProE,APL2023_HQ,HQ Esports,APL2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2023,partial,Vietnam
+COACH_AIC2023_TLN_7,Linkou,AIC2023_TLN,Talon Esports,AIC2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023,partial,Thailand
+COACH_AIC2023_VCF_6,TNK,AIC2023_VCF,Valencia CF Esports,AIC2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023,partial,Thailand
+COACH_AIC2023_FW_6,Lantyr,AIC2023_FW,Flash Wolves,AIC2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023,partial,Taiwan
+COACH_AIC2023_HKA_6,Ting,AIC2023_HKA,Hong Kong Attitude,AIC2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023,partial,Taiwan
+COACH_AIC2023_SGP_7,Titan,AIC2023_SGP,Saigon Phantom,AIC2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023,partial,Vietnam
+COACH_AIC2023_VGM_6,NoFear,AIC2023_VGM,V Gaming,AIC2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023,partial,Vietnam
+COACH_AIC2023_BAC_6,Moss,AIC2023_BAC,Bacon Time,AIC2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023,partial,Thailand
+COACH_AIC2023_BRO_6,Benny,AIC2023_BRO,Bikertopia Esports,AIC2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023,partial,Taiwan
+COACH_AIC2023_GG_6,Oppa,AIC2023_GG,GG Live,AIC2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023,partial,Vietnam
+COACH_AIC2023_BHD_6,FirstOne,AIC2023_BHD,B Esports x Hydra,AIC2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023,partial,Thailand
+COACH_AIC2023_DE_6,Glen,AIC2023_DE,Dewa United Esports,AIC2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023,partial,Indonesia
+COACH_AIC2023_KAG_6,Clover,AIC2023_KAG,Kagendra,AIC2023,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2023,partial,Indonesia
+COACH_APL2024_BMG_7,NT,APL2024_BMG,BanMei Gaming,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Taiwan
+COACH_APL2024_BRU_7,Misty,APL2024_BRU,Buriram United Esports,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Thailand
+COACH_APL2024_TLN_6,Linkou,APL2024_TLN,Talon Esports,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Thailand
+COACH_APL2024_GG_6,Oppa,APL2024_GG,GG Live,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Vietnam
+COACH_APL2024_SGP_7,Titan,APL2024_SGP,Saigon Phantom,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Vietnam
+COACH_APL2024_FW_6,Lantyr,APL2024_FW,Flash Wolves,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Taiwan
+COACH_APL2024_BAC_6,Moss,APL2024_BAC,Bacon Time,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Thailand
+COACH_APL2024_FPT_6,Đạt Kòi,APL2024_FPT,FPT x Flash,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Vietnam
+COACH_APL2024_ONE_6,Yu,APL2024_ONE,ONE Team,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Taiwan
+COACH_APL2024_1S_6,NoFear,APL2024_1S,One Star Esports,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Vietnam
+COACH_APL2024_EA_6,TNK,APL2024_EA,eArena,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Thailand
+COACH_APL2024_HKA_6,Ting,APL2024_HKA,Hong Kong Attitude,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Taiwan
+COACH_APL2024_TDT_6,PS Man,APL2024_TDT,TDT Esports,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Vietnam
+COACH_APL2024_KAG_6,Clover,APL2024_KAG,Kagendra,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Indonesia
+COACH_APL2024_DE_6,Glen,APL2024_DE,Dewa United Esports,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Indonesia
+COACH_APL2024_DCG_6,Rainer,APL2024_DCG,Deep Cross Gaming,APL2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2024,partial,Taiwan
+COACH_AIC2024_BAC_6,Moss,AIC2024_BAC,Bacon Time,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Thailand
+COACH_AIC2024_BMG_6,NT,AIC2024_BMG,BanMei Gaming,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Taiwan
+COACH_AIC2024_FW_6,Lantyr,AIC2024_FW,Flash Wolves,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Taiwan
+COACH_AIC2024_EA_6,TNK,AIC2024_EA,eArena,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Thailand
+COACH_AIC2024_SGP_6,Titan,AIC2024_SGP,Saigon Phantom,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Vietnam
+COACH_AIC2024_1S_6,NoFear,AIC2024_1S,One Star Esports,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Vietnam
+COACH_AIC2024_FS_6,FirstOne,AIC2024_FS,FULL SENSE,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Thailand
+COACH_AIC2024_ANK_6,Benny,AIC2024_ANK,ANK Gaming,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Taiwan
+COACH_AIC2024_FPT_6,Đạt Kòi,AIC2024_FPT,FPT x Flash,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Vietnam
+COACH_AIC2024_TLN_6,Linkou,AIC2024_TLN,Talon Esports,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Thailand
+COACH_AIC2024_ONE_6,Yu,AIC2024_ONE,ONE Team,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Taiwan
+COACH_AIC2024_TDT_6,PS Man,AIC2024_TDT,TDT Esports,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Vietnam
+COACH_AIC2024_BRU_6,Misty,AIC2024_BRU,Buriram United Esports,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Thailand
+COACH_AIC2024_HKA_6,Ting,AIC2024_HKA,Hong Kong Attitude,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Taiwan
+COACH_AIC2024_KAG_6,Clover,AIC2024_KAG,Kagendra,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Indonesia
+COACH_AIC2024_TL_6,Glen,AIC2024_TL,Team Liquid ID,AIC2024,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2024,partial,Indonesia
+COACH_APL2025_FW_6,Lantyr,APL2025_FW,Flash Wolves,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Taiwan
+COACH_APL2025_EA_6,TNK,APL2025_EA,eArena,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Thailand
+COACH_APL2025_SGP_6,Titan,APL2025_SGP,Saigon Phantom,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Vietnam
+COACH_APL2025_BAC_6,Moss,APL2025_BAC,Bacon Time,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Thailand
+COACH_APL2025_BMG_6,NT,APL2025_BMG,BanMei Gaming,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Taiwan
+COACH_APL2025_FPT_6,Đạt Kòi,APL2025_FPT,FPT x Flash,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Vietnam
+COACH_APL2025_TLN_6,Linkou,APL2025_TLN,Talon Esports,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Thailand
+COACH_APL2025_1S_6,NoFear,APL2025_1S,One Star Esports,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Vietnam
+COACH_APL2025_BRU_6,Misty,APL2025_BRU,Buriram United Esports,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Thailand
+COACH_APL2025_ONE_6,Yu,APL2025_ONE,ONE Team,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Taiwan
+COACH_APL2025_DCG_6,Rainer,APL2025_DCG,Deep Cross Gaming,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Taiwan
+COACH_APL2025_BOX_6,Ueki,APL2025_BOX,BOX Gaming,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Vietnam
+COACH_APL2025_FS_6,FirstOne,APL2025_FS,FULL SENSE,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Thailand
+COACH_APL2025_ANK_6,Benny,APL2025_ANK,ANK Gaming,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Taiwan
+COACH_APL2025_KAG_6,Clover,APL2025_KAG,Kagendra,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Indonesia
+COACH_APL2025_TL_6,Glen,APL2025_TL,Team Liquid ID,APL2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_Premier_League/2025,partial,Indonesia
+COACH_AIC2025_FS_6,FirstOne,AIC2025_FS,FULL SENSE,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Thailand
+COACH_AIC2025_FPT_6,Đạt Kòi,AIC2025_FPT,FPT x Flash,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Vietnam
+COACH_AIC2025_BRU_6,Misty,AIC2025_BRU,Buriram United Esports,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Thailand
+COACH_AIC2025_FW_6,Lantyr,AIC2025_FW,Flash Wolves,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Taiwan
+COACH_AIC2025_SGP_6,Titan,AIC2025_SGP,Saigon Phantom,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Vietnam
+COACH_AIC2025_BAC_6,Moss,AIC2025_BAC,Bacon Time,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Thailand
+COACH_AIC2025_BMG_6,NT,AIC2025_BMG,BanMei Gaming,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Taiwan
+COACH_AIC2025_1S_6,NoFear,AIC2025_1S,One Star Esports,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Vietnam
+COACH_AIC2025_EA_6,TNK,AIC2025_EA,eArena,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Thailand
+COACH_AIC2025_ONE_6,Yu,AIC2025_ONE,ONE Team,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Taiwan
+COACH_AIC2025_DCG_6,Rainer,AIC2025_DCG,Deep Cross Gaming,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Taiwan
+COACH_AIC2025_TDT_6,PS Man,AIC2025_TDT,TDT Esports,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Vietnam
+COACH_AIC2025_TLN_6,Linkou,AIC2025_TLN,Talon Esports,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Thailand
+COACH_AIC2025_ANK_6,Benny,AIC2025_ANK,ANK Gaming,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Taiwan
+COACH_AIC2025_KAG_6,Clover,AIC2025_KAG,Kagendra,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Indonesia
+COACH_AIC2025_TL_6,Glen,AIC2025_TL,Team Liquid ID,AIC2025,Head Coach,https://liquipedia.net/honorofkings/Arena_of_Valor_International_Championship/2025,partial,Indonesia
