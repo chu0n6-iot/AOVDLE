@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   initializeDraft,
   selectTeam,
@@ -32,10 +32,15 @@ import { CoachDraftModal } from './components/CoachDraftModal';
 import { DreamTeamScreen } from './components/DreamTeamScreen';
 import { TournamentScreen } from './components/TournamentScreen';
 import { ChampionScreen } from './components/ChampionScreen';
+import { FooterNavigation } from './components/FooterNavigation';
+
+const STORAGE_KEY = 'aovdle_game_state_v2';
 
 export const App: React.FC = () => {
   // Navigation
-  const [currentTab, setCurrentTab] = useState<'draft' | 'dreamteam' | 'tournament' | 'champion'>('draft');
+  const [currentTab, setCurrentTab] = useState<'draft' | 'dreamteam' | 'tournament' | 'champion'>(
+    'draft'
+  );
 
   // Draft State
   const [draftState, setDraftState] = useState(() => initializeDraft());
@@ -47,6 +52,41 @@ export const App: React.FC = () => {
   const [swissState, setSwissState] = useState<SwissStageState | null>(null);
   const [playoffBracket, setPlayoffBracket] = useState<PlayoffBracket | null>(null);
   const [champion, setChampion] = useState<TournamentTeam | null>(null);
+
+  // Load saved session on mount
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem(STORAGE_KEY);
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        if (parsed.currentTab) setCurrentTab(parsed.currentTab);
+        if (parsed.draftState) setDraftState(parsed.draftState);
+        if (parsed.dreamTeam) setDreamTeam(parsed.dreamTeam);
+        if (parsed.swissState) setSwissState(parsed.swissState);
+        if (parsed.playoffBracket) setPlayoffBracket(parsed.playoffBracket);
+        if (parsed.champion) setChampion(parsed.champion);
+      }
+    } catch (e) {
+      // safe fallback
+    }
+  }, []);
+
+  // Persist session to localStorage
+  useEffect(() => {
+    try {
+      const payload = {
+        currentTab,
+        draftState,
+        dreamTeam,
+        swissState,
+        playoffBracket,
+        champion,
+      };
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
+    } catch (e) {
+      // safe fallback
+    }
+  }, [currentTab, draftState, dreamTeam, swissState, playoffBracket, champion]);
 
   // Count picks
   const picksCount = ROLES.filter(r => draftState.picks[r] !== null).length;
@@ -114,6 +154,9 @@ export const App: React.FC = () => {
   // Handle Reset Game
   const handleResetGame = () => {
     if (window.confirm('Bạn có chắc muốn bắt đầu lại phiên Draft mới?')) {
+      try {
+        localStorage.removeItem(STORAGE_KEY);
+      } catch (e) {}
       const freshDraft = initializeDraft();
       setDraftState(freshDraft);
       setDreamTeam(null);
@@ -152,7 +195,7 @@ export const App: React.FC = () => {
               canReroll={draftState.phase === 'team_draft'}
             />
 
-            {/* Two-Column Layout (Reference 3 & PRD Style) */}
+            {/* Two-Column Layout */}
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
               {/* LEFT COLUMN: 3 Team Cards or Roster Selection (6 cols) */}
               <div className="lg:col-span-6 space-y-4">
@@ -240,18 +283,14 @@ export const App: React.FC = () => {
         {currentTab === 'champion' && champion && (
           <ChampionScreen
             champion={champion}
+            fmvp={playoffBracket?.fmvp}
             onPlayAgain={handleResetGame}
           />
         )}
       </main>
 
-      {/* Footer */}
-      <footer className="border-t border-[#354653]/40 py-6 text-center text-xs text-[#91A0AA] bg-[#071018]">
-        <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
-          <span>AOVDLE — Arena of Valor Draft & Tournament Simulation 2019–2026</span>
-          <span className="text-[#C9A45C]">Tất cả dữ liệu lịch sử quốc tế AWC, AIC, APL</span>
-        </div>
-      </footer>
+      {/* Footer Navigation */}
+      <FooterNavigation />
     </div>
   );
 };

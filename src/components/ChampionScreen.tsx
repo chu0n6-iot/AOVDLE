@@ -1,30 +1,35 @@
 import React, { useEffect } from 'react';
-import { TournamentTeam, ROLES, ROLE_LABELS, Role } from '../data/types';
-import { Trophy, RotateCcw, Shield, Sparkles } from './icons';
+import { TournamentTeam, FMVPAward, ROLES, ROLE_LABELS, Role } from '../data/types';
+import { Trophy, RotateCcw, Shield, Sparkles, Flame, Zap } from './icons';
 import { getAssetUrl } from '../utils/assets';
 import confetti from 'canvas-confetti';
 
 interface ChampionScreenProps {
   champion: TournamentTeam;
+  fmvp?: FMVPAward | null;
   onPlayAgain: () => void;
 }
 
-export const ChampionScreen: React.FC<ChampionScreenProps> = ({ champion, onPlayAgain }) => {
+export const ChampionScreen: React.FC<ChampionScreenProps> = ({
+  champion,
+  fmvp,
+  onPlayAgain,
+}) => {
   useEffect(() => {
     try {
       const end = Date.now() + 3 * 1000;
       const frame = () => {
         confetti({
-          particleCount: 4,
+          particleCount: 5,
           angle: 60,
-          spread: 55,
+          spread: 60,
           origin: { x: 0 },
           colors: ['#C9A45C', '#F2F0E9', '#3EAD83'],
         });
         confetti({
-          particleCount: 4,
+          particleCount: 5,
           angle: 120,
-          spread: 55,
+          spread: 60,
           origin: { x: 1 },
           colors: ['#C9A45C', '#F2F0E9', '#3EAD83'],
         });
@@ -74,6 +79,72 @@ export const ChampionScreen: React.FC<ChampionScreenProps> = ({ champion, onPlay
           : `${champion.name} đã chứng tỏ đẳng cấp vượt trội và giành chiếc cúp vô địch thế giới.`}
       </p>
 
+      {/* FMVP SPOTLIGHT CARD */}
+      {fmvp && (
+        <div className="bg-gradient-to-r from-[#142330] via-[#1C3042] to-[#142330] rounded-3xl p-6 lg:p-8 border-2 border-[#C9A45C] shadow-2xl shadow-[#C9A45C]/30 mb-8 text-left relative overflow-hidden">
+          <div className="absolute top-0 right-0 bg-[#C9A45C] text-[#071018] font-black text-xs px-4 py-1.5 rounded-bl-2xl uppercase tracking-widest flex items-center gap-1.5 shadow-md">
+            <Trophy className="w-4 h-4 fill-current" />
+            <span>FMVP TOURNAMENT</span>
+          </div>
+
+          <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6 pt-2">
+            {/* FMVP Avatar / Icon */}
+            <div className="relative">
+              <div className="w-24 h-24 sm:w-28 sm:h-28 rounded-2xl bg-[#071018] border-2 border-[#C9A45C] p-2 flex items-center justify-center shadow-xl">
+                {fmvp.portrait_url ? (
+                  <img
+                    src={getAssetUrl(fmvp.portrait_url)}
+                    alt={fmvp.playerName}
+                    className="w-full h-full object-cover rounded-xl"
+                  />
+                ) : (
+                  <Trophy className="w-12 h-12 text-[#C9A45C]" />
+                )}
+              </div>
+              <span className="absolute -bottom-2 left-1/2 -translate-x-1/2 bg-[#C9A45C] text-[#071018] font-black text-[10px] px-2 py-0.5 rounded-full uppercase">
+                {fmvp.role}
+              </span>
+            </div>
+
+            {/* FMVP Details */}
+            <div className="flex-1 text-center sm:text-left space-y-2">
+              <span className="text-xs font-bold text-[#C9A45C] uppercase tracking-wider block">
+                TUYỂN THỦ XUẤT SẮC NHẤT GIẢI ĐẤU
+              </span>
+              <h3 className="font-['Barlow_Condensed'] font-black text-3xl text-[#F2F0E9] tracking-wide">
+                {fmvp.playerName}
+              </h3>
+              <p className="text-xs text-[#91A0AA] italic leading-relaxed">
+                "{fmvp.citation}"
+              </p>
+
+              {/* Stats badges */}
+              <div className="flex flex-wrap items-center justify-center sm:justify-start gap-3 pt-2">
+                <div className="px-3 py-1.5 rounded-xl bg-[#071018] border border-[#354653]/60 text-xs">
+                  <span className="text-[#91A0AA]">Số lần MVP: </span>
+                  <strong className="text-[#C9A45C] font-mono text-sm">{fmvp.mvpCount}</strong>
+                </div>
+
+                <div className="px-3 py-1.5 rounded-xl bg-[#071018] border border-[#354653]/60 text-xs">
+                  <span className="text-[#91A0AA]">KDA Toàn Giải: </span>
+                  <strong className="text-[#3EAD83] font-mono">{fmvp.tournamentKDA}</strong>
+                </div>
+
+                <div className="px-3 py-1.5 rounded-xl bg-[#071018] border border-[#354653]/60 text-xs">
+                  <span className="text-[#91A0AA]">Tham gia HG: </span>
+                  <strong className="text-[#61DAFB] font-mono">{fmvp.kpPercent}%</strong>
+                </div>
+
+                <div className="px-3 py-1.5 rounded-xl bg-[#071018] border border-[#354653]/60 text-xs">
+                  <span className="text-[#91A0AA]">Điểm Đánh Giá: </span>
+                  <strong className="text-[#C9A45C] font-mono">{fmvp.avgPerformanceScore}</strong>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Champion Roster Card */}
       <div className="bg-[#0D1923] rounded-3xl p-6 lg:p-8 border-2 border-[#C9A45C] shadow-2xl shadow-[#C9A45C]/20 mb-8 text-left">
         <div className="flex items-center justify-between pb-4 border-b border-[#354653]/60 mb-6">
@@ -84,7 +155,7 @@ export const ChampionScreen: React.FC<ChampionScreenProps> = ({ champion, onPlay
             </h3>
           </div>
           <span className="font-['Barlow_Condensed'] font-black text-xl text-[#C9A45C]">
-            Rating: {champion.powerRating}
+            Rating: {champion.effectiveStrength || champion.powerRating}
           </span>
         </div>
 
@@ -92,12 +163,22 @@ export const ChampionScreen: React.FC<ChampionScreenProps> = ({ champion, onPlay
           {ROLES.map(role => {
             const player = champion.players[role];
             const label = ROLE_LABELS[role];
+            const isFmvp = fmvp?.role === role;
 
             return (
               <div
                 key={role}
-                className="bg-[#142330] p-4 rounded-xl border border-[#354653]/60 flex items-center gap-3"
+                className={`p-4 rounded-xl border flex items-center gap-3 relative ${
+                  isFmvp
+                    ? 'bg-[#1C3042] border-[#C9A45C] ring-2 ring-[#C9A45C]/40'
+                    : 'bg-[#142330] border-[#354653]/60'
+                }`}
               >
+                {isFmvp && (
+                  <span className="absolute -top-2 right-3 bg-[#C9A45C] text-[#071018] font-black text-[9px] px-1.5 py-0.2 rounded uppercase">
+                    FMVP
+                  </span>
+                )}
                 <div className="w-10 h-10 rounded-lg bg-[#071018] border border-[#354653] p-1.5 shrink-0 flex items-center justify-center">
                   <img src={getAssetUrl(label.icon)} alt={role} className="w-full h-full" />
                 </div>

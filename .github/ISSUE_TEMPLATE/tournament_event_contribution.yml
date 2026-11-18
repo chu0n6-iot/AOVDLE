@@ -1,0 +1,60 @@
+name: Đóng góp dữ liệu sự kiện & giải đấu
+description: Gửi thông tin bổ sung hoặc chỉnh sửa về đội tuyển, tuyển thủ, HLV hoặc kết quả giải đấu.
+title: "[CONTRIBUTE]: "
+labels: ["data-contribution", "needs-verification"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cảm ơn bạn đã đóng góp xây dựng kho dữ liệu lịch sử AOVDLE!
+        Vui lòng cung cấp link nguồn xác minh chính thức từ Liquipedia hoặc ban tổ chức.
+  - type: input
+    id: tournament_year
+    attributes:
+      label: Năm và Giải đấu
+      placeholder: Ví dụ: APL 2024, AIC 2022
+    validations:
+      required: true
+  - type: input
+    id: team_name
+    attributes:
+      label: Tên đội tuyển
+      placeholder: Ví dụ: Saigon Phantom, Bacon Time, Talon Esports
+    validations:
+      required: true
+  - type: input
+    id: player_coach_name
+    attributes:
+      label: Tuyển thủ / Huấn luyện viên và Vị trí
+      placeholder: Ví dụ: Bang (Jungle) hoặc Coach Polo (Head Coach)
+    validations:
+      required: true
+  - type: input
+    id: source_url
+    attributes:
+      label: URL Nguồn xác minh
+      placeholder: https://liquipedia.net/...
+    validations:
+      required: true
+  - type: input
+    id: image_url
+    attributes:
+      label: URL Ảnh tư liệu (nếu có)
+      placeholder: https://...
+    validations:
+      required: false
+  - type: dropdown
+    id: verification_status
+    attributes:
+      label: Trạng thái xác minh
+      options:
+        - verified (Đã có dẫn chứng chính thức)
+        - partial (Có tin tức báo chí nhưng chưa công bố chính thức)
+        - unverified (Cần kiểm tra thêm)
+    validations:
+      required: true
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: Ghi chú bổ sung
+      placeholder: Chi tiết thành tích, thông số nổi bật hoặc ngữ cảnh thi đấu...

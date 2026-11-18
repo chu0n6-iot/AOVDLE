@@ -7,6 +7,8 @@ import {
   Role,
   ROLES,
   ROLE_LABELS,
+  FORM_CONFIG,
+  TACTICAL_CONFIG,
 } from '../data/types';
 import {
   advanceSwissRound,
@@ -22,7 +24,11 @@ import {
   Users,
   CheckCircle2,
   XCircle,
+  Eye,
+  Flame,
+  Zap,
 } from './icons';
+import { MatchCenterModal } from './MatchCenterModal';
 
 interface TournamentScreenProps {
   swissState: SwissStageState;
@@ -41,6 +47,7 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
 }) => {
   const [activeTab, setActiveTab] = useState<'swiss' | 'playoffs'>('swiss');
   const [selectedMatch, setSelectedMatch] = useState<TournamentMatch | null>(null);
+  const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
 
   // User team
   const userTeam = swissState.teams.find(t => t.isPlayer);
@@ -48,7 +55,41 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
     m => m.team1.isPlayer || m.team2.isPlayer
   );
 
-  // Handle advancing Swiss round
+  // Open match modal
+  const handleOpenMatch = (match: TournamentMatch) => {
+    setSelectedMatch(match);
+    setIsModalOpen(true);
+  };
+
+  // Callback when a match finishes in the modal
+  const handleCompleteMatch = (updatedMatch: TournamentMatch) => {
+    // If in Swiss stage
+    const matchIdx = swissState.currentMatches.findIndex(m => m.id === updatedMatch.id);
+    if (matchIdx !== -1) {
+      const updatedMatches = [...swissState.currentMatches];
+      updatedMatches[matchIdx] = updatedMatch;
+      onUpdateSwissState({
+        ...swissState,
+        currentMatches: updatedMatches,
+      });
+    }
+
+    // If in Playoffs
+    if (playoffBracket) {
+      // Check upper round 1
+      const ubIdx = playoffBracket.upperRound1.findIndex(m => m.id === updatedMatch.id);
+      if (ubIdx !== -1) {
+        const newUB = [...playoffBracket.upperRound1];
+        newUB[ubIdx] = updatedMatch;
+        onUpdatePlayoffBracket({
+          ...playoffBracket,
+          upperRound1: newUB,
+        });
+      }
+    }
+  };
+
+  // Handle advancing Swiss round (simulates remaining and moves to next round)
   const handleAdvanceSwiss = () => {
     const nextState = advanceSwissRound(swissState);
     onUpdateSwissState(nextState);
@@ -64,12 +105,18 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
   // Handle advancing Playoff
   const handleAdvancePlayoff = () => {
     if (!playoffBracket) return;
-    const completed = advancePlayoffBracket(playoffBracket);
+    const completed = advancePlayoffBracket(playoffBracket, swissState);
     onUpdatePlayoffBracket(completed);
     if (completed.champion) {
       onViewChampion(completed.champion);
     }
   };
+
+  // Check how many matches completed in current swiss round
+  const currentCompletedCount = swissState.currentMatches.filter(m => m.isComplete).length;
+  const isAllCurrentMatchesComplete =
+    currentCompletedCount === swissState.currentMatches.length &&
+    swissState.currentMatches.length > 0;
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8 animate-fade-in">
@@ -93,7 +140,7 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
         <div className="flex items-center gap-2 bg-[#071018] p-1.5 rounded-2xl border border-[#354653]/60">
           <button
             onClick={() => setActiveTab('swiss')}
-            className={`px-4 py-2 rounded-xl font-['Barlow_Condensed'] font-bold text-sm tracking-wider transition-all ${
+            className={`px-4 py-2 rounded-xl font-['Barlow_Condensed'] font-bold text-sm tracking-wider transition-all cursor-pointer ${
               activeTab === 'swiss'
                 ? 'bg-[#C9A45C] text-[#071018] shadow-md'
                 : 'text-[#91A0AA] hover:text-[#F2F0E9]'
@@ -107,10 +154,10 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
             disabled={!swissState.isComplete && !playoffBracket}
             className={`px-4 py-2 rounded-xl font-['Barlow_Condensed'] font-bold text-sm tracking-wider transition-all ${
               activeTab === 'playoffs'
-                ? 'bg-[#C9A45C] text-[#071018] shadow-md'
+                ? 'bg-[#C9A45C] text-[#071018] shadow-md cursor-pointer'
                 : !swissState.isComplete && !playoffBracket
                 ? 'text-[#91A0AA]/30 cursor-not-allowed'
-                : 'text-[#91A0AA] hover:text-[#F2F0E9]'
+                : 'text-[#91A0AA] hover:text-[#F2F0E9] cursor-pointer'
             }`}
           >
             PLAYOFFS (DOUBLE ELIM)
@@ -238,35 +285,59 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
 
           {/* Right: Current Round Matches & Simulation Controls (5 cols) */}
           <div className="lg:col-span-5 flex flex-col gap-6">
-            {/* Match Center (Reference 4 Style) */}
+            {/* Match Center */}
             <div className="bg-[#0D1923] rounded-3xl p-6 border border-[#C9A45C]/40 shadow-xl">
               <div className="flex items-center justify-between pb-3 border-b border-[#354653]/40 mb-4">
-                <span className="font-['Barlow_Condensed'] font-black text-lg text-[#F2F0E9] tracking-wider">
-                  LỊCH THI ĐẤU VÒNG {swissState.round}
-                </span>
-                <span className="text-xs text-[#C9A45C] font-bold px-2 py-0.5 rounded bg-[#C9A45C]/20">
-                  {swissState.currentMatches.length} TRẬN
+                <div>
+                  <span className="font-['Barlow_Condensed'] font-black text-lg text-[#F2F0E9] tracking-wider block">
+                    LỊCH THI ĐẤU VÒNG {swissState.round}
+                  </span>
+                  <span className="text-[11px] text-[#91A0AA]">
+                    Click vào trận để xem trực tiếp hoặc theo dõi từng ván
+                  </span>
+                </div>
+                <span className="text-xs text-[#C9A45C] font-bold px-2 py-0.5 rounded bg-[#C9A45C]/20 shrink-0">
+                  {currentCompletedCount}/{swissState.currentMatches.length} XONG
                 </span>
               </div>
 
               {/* Match List */}
-              <div className="space-y-3 max-h-[360px] overflow-y-auto pr-1">
+              <div className="space-y-3 max-h-[380px] overflow-y-auto pr-1">
                 {swissState.currentMatches.map(match => {
                   const isUserMatch = match.team1.isPlayer || match.team2.isPlayer;
 
                   return (
                     <div
                       key={match.id}
-                      onClick={() => setSelectedMatch(match)}
-                      className={`p-3.5 rounded-xl border transition-all cursor-pointer ${
+                      onClick={() => handleOpenMatch(match)}
+                      className={`p-3.5 rounded-xl border transition-all cursor-pointer relative group ${
                         isUserMatch
-                          ? 'bg-[#142330] border-[#C9A45C] ring-1 ring-[#C9A45C]/50'
-                          : 'bg-[#142330]/60 border-[#354653]/60 hover:border-[#354653]'
+                          ? 'bg-[#142330] border-[#C9A45C] ring-2 ring-[#C9A45C]/40 hover:scale-[1.01]'
+                          : 'bg-[#142330]/60 border-[#354653]/60 hover:border-[#C9A45C]/60 hover:bg-[#142330]'
                       }`}
                     >
+                      {/* User match flag */}
+                      {isUserMatch && (
+                        <div className="absolute -top-2.5 left-4 bg-gradient-to-r from-[#C9A45C] to-[#80683D] text-[#071018] text-[9px] font-black uppercase px-2 py-0.5 rounded-full shadow-md">
+                          ★ TRẬN ĐẤU CỦA BẠN ★
+                        </div>
+                      )}
+
                       <div className="flex items-center justify-between text-xs text-[#91A0AA] mb-2">
                         <span>{match.roundName}</span>
-                        <span className="font-mono font-bold text-[#C9A45C]">{match.format}</span>
+                        <div className="flex items-center gap-2">
+                          <span className="font-mono font-bold text-[#C9A45C]">{match.format}</span>
+                          {match.isComplete ? (
+                            <span className="text-[10px] text-[#3EAD83] bg-[#3EAD83]/15 px-1.5 py-0.2 rounded font-bold">
+                              Đã xong
+                            </span>
+                          ) : (
+                            <span className="text-[10px] text-[#61DAFB] bg-[#61DAFB]/15 px-1.5 py-0.2 rounded font-bold flex items-center gap-1">
+                              <Eye className="w-2.5 h-2.5" />
+                              Xem đấu
+                            </span>
+                          )}
+                        </div>
                       </div>
 
                       <div className="flex items-center justify-between gap-3">
@@ -326,7 +397,9 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
                             Thắng:{' '}
                             <strong className="text-[#3EAD83]">{match.winner.name}</strong>
                           </span>
-                          <span>{match.games.length} Ván đấu</span>
+                          <span className="text-[#C9A45C] font-semibold">
+                            {match.games.length} Ván đấu ➔
+                          </span>
                         </div>
                       )}
                     </div>
@@ -339,10 +412,14 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
                 {!swissState.isComplete ? (
                   <button
                     onClick={handleAdvanceSwiss}
-                    className="w-full py-4 rounded-2xl bg-gradient-to-r from-[#C9A45C] to-[#80683D] text-[#071018] font-['Barlow_Condensed'] font-black text-lg tracking-wider uppercase shadow-xl hover:shadow-[#C9A45C]/30 hover:scale-[1.02] active:scale-95 transition-all flex items-center justify-center gap-2 cursor-pointer"
+                    className="w-full py-4 rounded-2xl bg-gradient-to-r from-[#C9A45C] to-[#80683D] text-[#071018] font-['Barlow_Condensed'] font-black text-lg tracking-wider uppercase shadow-xl hover:shadow-[#C9A45C]/30 hover:scale-[1.01] active:scale-95 transition-all flex items-center justify-center gap-2 cursor-pointer"
                   >
                     <Play className="w-5 h-5 fill-current" />
-                    <span>MÔ PHỎNG VÒNG {swissState.round}</span>
+                    <span>
+                      {isAllCurrentMatchesComplete
+                        ? `BƯỚC SANG VÒNG THỤY SĨ ${swissState.round + 1}`
+                        : `MÔ PHỎNG CÁC TRẬN CÒN LẠI (VÒNG ${swissState.round})`}
+                    </span>
                   </button>
                 ) : (
                   <button
@@ -374,14 +451,14 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
                 NHÁNH ĐẤU DOUBLE ELIMINATION (APL 2026)
               </h2>
               <p className="text-xs text-[#91A0AA]">
-                8 đội mạnh nhất cạnh tranh chiếc cúp vô địch thế giới danh giá.
+                8 đội mạnh nhất cạnh tranh chiếc cúp vô địch thế giới. Click vào trận để xem chi tiết!
               </p>
             </div>
 
             {!playoffBracket.isComplete ? (
               <button
                 onClick={handleAdvancePlayoff}
-                className="px-6 py-3 rounded-xl bg-gradient-to-r from-[#C9A45C] to-[#80683D] text-[#071018] font-['Barlow_Condensed'] font-black text-base tracking-wider uppercase shadow-lg hover:scale-105 transition-all flex items-center gap-2"
+                className="px-6 py-3 rounded-xl bg-gradient-to-r from-[#C9A45C] to-[#80683D] text-[#071018] font-['Barlow_Condensed'] font-black text-base tracking-wider uppercase shadow-lg hover:scale-105 transition-all flex items-center gap-2 cursor-pointer"
               >
                 <FastForward className="w-5 h-5" />
                 <span>MÔ PHỎNG TOÀN BỘ PLAYOFFS</span>
@@ -389,10 +466,10 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
             ) : (
               <button
                 onClick={() => playoffBracket.champion && onViewChampion(playoffBracket.champion)}
-                className="px-6 py-3 rounded-xl bg-[#3EAD83] text-[#071018] font-['Barlow_Condensed'] font-black text-base tracking-wider uppercase shadow-lg hover:scale-105 transition-all flex items-center gap-2"
+                className="px-6 py-3 rounded-xl bg-[#3EAD83] text-[#071018] font-['Barlow_Condensed'] font-black text-base tracking-wider uppercase shadow-lg hover:scale-105 transition-all flex items-center gap-2 cursor-pointer"
               >
                 <Trophy className="w-5 h-5" />
-                <span>XEM MÀN HÌNH CHAMPION</span>
+                <span>XEM MÀN HÌNH CHAMPION & FMVP</span>
               </button>
             )}
           </div>
@@ -408,7 +485,8 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
                 {playoffBracket.upperRound1.map(m => (
                   <div
                     key={m.id}
-                    className="bg-[#142330] p-4 rounded-xl border border-[#354653]/60 shadow-md"
+                    onClick={() => handleOpenMatch(m)}
+                    className="bg-[#142330] p-4 rounded-xl border border-[#354653]/60 hover:border-[#C9A45C] transition-all cursor-pointer shadow-md"
                   >
                     <div className="text-[10px] text-[#91A0AA] mb-2 flex justify-between">
                       <span>{m.roundName.split('(')[0]}</span>
@@ -440,10 +518,15 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
 
             {/* Grand Final Card */}
             {playoffBracket.grandFinal && (
-              <div className="mt-8 bg-gradient-to-r from-[#142330] via-[#1C3042] to-[#142330] p-6 rounded-2xl border-2 border-[#C9A45C] shadow-2xl text-center">
+              <div
+                onClick={() => handleOpenMatch(playoffBracket.grandFinal!)}
+                className="mt-8 bg-gradient-to-r from-[#142330] via-[#1C3042] to-[#142330] p-6 rounded-2xl border-2 border-[#C9A45C] shadow-2xl text-center cursor-pointer hover:scale-[1.01] transition-all"
+              >
                 <span className="text-xs font-black text-[#C9A45C] tracking-widest uppercase mb-1 block">
                   ★ TRẬN CHUNG KẾT TỔNG APL 2026 (Bo7) ★
                 </span>
+                <p className="text-xs text-[#91A0AA] mb-4">Click để xem chi tiết từng ván đấu và MVP</p>
+
                 <div className="flex items-center justify-center gap-6 my-4">
                   <div className="text-right">
                     <p className="font-['Barlow_Condensed'] font-black text-2xl text-[#F2F0E9]">
@@ -474,6 +557,16 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
             )}
           </div>
         </div>
+      )}
+
+      {/* Match Center Modal */}
+      {selectedMatch && (
+        <MatchCenterModal
+          isOpen={isModalOpen}
+          match={selectedMatch}
+          onClose={() => setIsModalOpen(false)}
+          onCompleteMatch={handleCompleteMatch}
+        />
       )}
     </div>
   );
