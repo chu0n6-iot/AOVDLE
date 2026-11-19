@@ -35,6 +35,176 @@
   .draft-gold-card {
     clip-path: polygon(0 8px, 8px 8px, 8px 0, calc(100% - 8px) 0, calc(100% - 8px) 8px, 100% 8px, 100% calc(100% - 8px), calc(100% - 8px) calc(100% - 8px), calc(100% - 8px) 100%, 8px 100%, 8px calc(100% - 8px), 0 calc(100% - 8px));
   }
+
+  .swiss-stage-shell {
+    background:
+      radial-gradient(circle at 50% 100%, rgba(30, 98, 112, .22), transparent 32%),
+      linear-gradient(135deg, rgba(201, 164, 92, .04) 25%, transparent 25%) 0 0/26px 26px,
+      #071018;
+    border: 1px solid rgba(201, 164, 92, .38);
+    box-shadow: inset 0 0 80px rgba(20, 74, 92, .12);
+  }
+
+  .swiss-stage-topbar {
+    background: linear-gradient(90deg, rgba(7,16,24,.96), rgba(20,48,66,.82), rgba(7,16,24,.96));
+    border-bottom: 1px solid rgba(201,164,92,.42);
+  }
+
+  .swiss-bracket-grid {
+    display: grid;
+    grid-template-columns: repeat(9, minmax(112px, 1fr));
+    gap: 6px;
+    align-items: start;
+  }
+
+  .swiss-record-column {
+    min-height: 100%;
+    border-left: 1px solid rgba(97,218,251,.08);
+    border-right: 1px solid rgba(97,218,251,.04);
+    padding: 0 4px;
+  }
+
+  .swiss-record-heading {
+    height: 38px;
+    margin-bottom: 8px;
+    border: 1px solid rgba(97,218,251,.22);
+    background: rgba(20,35,48,.82);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    color: #F2F0E9;
+  }
+
+  .swiss-record-heading b {
+    font-size: 8px;
+    letter-spacing: .12em;
+    color: #061018;
+    background: #C9A45C;
+    padding: 1px 5px;
+    margin-top: 2px;
+  }
+
+  .eliminated-heading b {
+    background: #D45B58;
+    color: #fff;
+  }
+
+  .swiss-match-card,
+  .swiss-team-card {
+    min-height: 52px;
+    background: linear-gradient(135deg, rgba(20,35,48,.96), rgba(7,16,24,.96));
+    border: 1px solid rgba(145,160,170,.34);
+    box-shadow: 0 5px 12px rgba(0,0,0,.24);
+  }
+
+  .swiss-match-live {
+    border-color: rgba(97,218,251,.8);
+    box-shadow: 0 0 12px rgba(97,218,251,.12);
+  }
+
+  .swiss-match-completed {
+    border-color: rgba(201,164,92,.48);
+  }
+
+  .swiss-team-card {
+    display: grid;
+    grid-template-columns: 36px 1fr auto;
+    align-items: center;
+    gap: 6px;
+    padding: 7px;
+    color: #F2F0E9;
+  }
+
+  .swiss-team-card.qualified {
+    border-color: #C9A45C;
+    box-shadow: 0 0 14px rgba(201,164,92,.16);
+  }
+
+  .swiss-qualified-bar {
+    background: linear-gradient(90deg, rgba(7,16,24,.98), rgba(20,35,48,.92));
+    border-top: 1px solid rgba(201,164,92,.38);
+  }
+
+  .qualified-team-chip,
+  .eliminated-count,
+  .history-match-row {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    flex-shrink: 0;
+    min-height: 32px;
+    border: 1px solid rgba(201,164,92,.38);
+    background: rgba(201,164,92,.08);
+    color: #F2F0E9;
+    padding: 3px 7px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  .qualified-team-chip b {
+    color: #C9A45C;
+  }
+
+  .eliminated-count {
+    border-color: rgba(212,91,88,.5);
+    color: #D45B58;
+    background: rgba(212,91,88,.08);
+  }
+
+  .swiss-action-button {
+    height: 38px;
+    min-width: 180px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    border: 1px solid #C9A45C;
+    background: linear-gradient(135deg, #C9A45C, #80683D);
+    color: #071018;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 900;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+
+  .swiss-history {
+    border-top: 1px solid rgba(145,160,170,.22);
+    background: #0D1923;
+  }
+
+  .swiss-history summary {
+    min-height: 28px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 12px;
+    color: #91A0AA;
+    font-size: 10px;
+    font-weight: 800;
+    cursor: pointer;
+  }
+
+  .history-match-row {
+    justify-content: space-between;
+    width: 100%;
+    color: #91A0AA;
+    text-transform: none;
+  }
+
+  .history-match-row strong {
+    color: #F2F0E9;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
   
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Barlow Condensed', sans-serif;

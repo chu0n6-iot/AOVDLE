@@ -170,10 +170,6 @@ export const MatchCenterModal: React.FC<MatchCenterModalProps> = ({
                     )}
                   </div>
                   <div className="flex flex-wrap items-center gap-2 text-xs">
-                    <span className="text-[#C9A45C] font-mono font-bold">
-                      Sức mạnh: {team1.effectiveStrength || team1.powerRating}
-                    </span>
-                    <span className="text-[#91A0AA]">·</span>
                     <span className="text-[#91A0AA]">HLV: {team1.coach.name}</span>
                   </div>
                   {t1Tactics && (
@@ -206,9 +202,6 @@ export const MatchCenterModal: React.FC<MatchCenterModalProps> = ({
                   <div className="flex flex-wrap items-center justify-end gap-2 text-xs">
                     <span className="text-[#91A0AA]">HLV: {team2.coach.name}</span>
                     <span className="text-[#91A0AA]">·</span>
-                    <span className="text-[#C9A45C] font-mono font-bold">
-                      Sức mạnh: {team2.effectiveStrength || team2.powerRating}
-                    </span>
                   </div>
                   {t2Tactics && (
                     <div className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-lg bg-[#071018] border border-[#354653]/60 text-xs text-[#61DAFB]">
@@ -255,9 +248,6 @@ export const MatchCenterModal: React.FC<MatchCenterModalProps> = ({
                               {form1.label}
                             </span>
                           </div>
-                          <span className="font-mono font-bold text-[#C9A45C] shrink-0">
-                            {p1.rating}
-                          </span>
                         </div>
 
                         {/* Role Center */}
@@ -267,9 +257,6 @@ export const MatchCenterModal: React.FC<MatchCenterModalProps> = ({
 
                         {/* Player 2 */}
                         <div className="col-span-5 flex items-center justify-end gap-2.5 min-w-0 text-right">
-                          <span className="font-mono font-bold text-[#C9A45C] shrink-0">
-                            {p2.rating}
-                          </span>
                           <div className="min-w-0 flex-1">
                             <p className="font-['Barlow_Condensed'] font-bold text-sm text-[#F2F0E9] truncate">
                               {p2.name}

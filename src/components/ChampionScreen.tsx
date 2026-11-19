@@ -158,9 +158,6 @@ export const ChampionScreen: React.FC<ChampionScreenProps> = ({
                 ĐỘI HÌNH VÔ ĐỊCH: {champion.name}
               </h3>
             </div>
-            <span className="font-['Barlow_Condensed'] font-black text-base sm:text-lg text-[#C9A45C]">
-              Rating: {champion.effectiveStrength || champion.powerRating}
-            </span>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2.5">

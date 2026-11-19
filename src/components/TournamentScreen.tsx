@@ -29,6 +29,8 @@ import {
   Zap,
 } from './icons';
 import { MatchCenterModal } from './MatchCenterModal';
+import { SwissStageView } from './SwissStageView';
+import { getAssetUrl } from '../utils/assets';
 
 interface TournamentScreenProps {
   swissState: SwissStageState;
@@ -122,7 +124,13 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
     <div className="max-w-7xl mx-auto px-2 sm:px-4 py-2 sm:py-3 animate-fade-in flex flex-col h-full min-h-0">
       {/* Header Tournament Banner */}
       <div className="flex flex-col sm:flex-row items-center justify-between gap-2 sm:gap-4 bg-[#0D1923] p-3 sm:p-4 rounded-2xl border border-[#C9A45C]/40 shadow-xl mb-3 shrink-0">
-        <div>
+        <div className="flex items-center gap-3">
+          <img
+            src={getAssetUrl('/assets/branding/aov-logo.svg')}
+            alt="Arena of Valor"
+            className="h-12 w-auto object-contain"
+          />
+          <div>
           <div className="flex items-center gap-2 mb-0.5">
             <span className="px-2 py-0.2 rounded text-[10px] font-bold bg-[#C9A45C] text-[#071018]">
               APL 2026
@@ -134,6 +142,7 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
           <h1 className="font-['Barlow_Condensed'] font-black text-2xl sm:text-3xl text-[#F2F0E9] tracking-wider leading-tight">
             GIẢI ĐẤU <span className="text-[#C9A45C]">VÔ ĐỊCH QUỐC TẾ</span>
           </h1>
+          </div>
         </div>
 
         {/* Stage Pills */}
@@ -166,7 +175,7 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
       </div>
 
       {/* SWISS STAGE VIEW */}
-      {activeTab === 'swiss' && (
+      {false && (
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-3 sm:gap-4 flex-1 min-h-0 overflow-hidden">
           {/* Left: Standings Table (7 cols) */}
           <div className="lg:col-span-7 bg-[#0D1923] rounded-2xl p-3 sm:p-4 border border-[#354653]/60 shadow-lg flex flex-col min-h-0">
@@ -413,6 +422,20 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
             </div>
           </div>
         </div>
+      )}
+
+      {activeTab === 'swiss' && (
+        <SwissStageView
+          state={swissState}
+          onAdvance={handleAdvanceSwiss}
+          onOpenMatch={handleOpenMatch}
+          onOpenPlayoffs={() => {
+            if (!playoffBracket) {
+              onUpdatePlayoffBracket(initializePlayoffBracket(swissState.qualifiedTeams));
+            }
+            setActiveTab('playoffs');
+          }}
+        />
       )}
 
       {/* PLAYOFFS VIEW */}

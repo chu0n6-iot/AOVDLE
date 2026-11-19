@@ -419,9 +419,11 @@ export interface TournamentMatch {
   format: 'Bo3' | 'Bo5' | 'Bo7';
   games: MatchGame[];
   isComplete: boolean;
+  seed?: number;
 }
 
 export interface SwissStageState {
+  tournamentSeed: number;
   round: number; // 1 to 5
   teams: TournamentTeam[];
   currentMatches: TournamentMatch[];

@@ -268,12 +268,19 @@ export function simulateMatchSeries(match: TournamentMatch): TournamentMatch {
  */
 export function initializeSwissStage(userTeam: TournamentTeam): SwissStageState {
   const aiTeams = generateAITournamentTeams();
-  const all16Teams = [userTeam, ...aiTeams];
+  const all16Teams = [userTeam, ...aiTeams].slice(0, 16);
+  const tournamentSeed = Date.now() % 2147483647;
+  let seed = tournamentSeed;
+  const random = () => {
+    seed = (seed * 48271) % 2147483647;
+    return seed / 2147483647;
+  };
+  const shuffled = [...all16Teams].sort((a, b) => random() - random());
 
   const round1Matches: TournamentMatch[] = [];
   for (let i = 0; i < 8; i++) {
-    const t1 = all16Teams[i];
-    const t2 = all16Teams[i + 8];
+    const t1 = shuffled[i * 2];
+    const t2 = shuffled[i * 2 + 1];
     round1Matches.push({
       id: `swiss_r1_m${i + 1}`,
       stage: 'swiss',
@@ -291,6 +298,7 @@ export function initializeSwissStage(userTeam: TournamentTeam): SwissStageState 
   }
 
   return {
+    tournamentSeed,
     round: 1,
     teams: all16Teams,
     currentMatches: round1Matches,
@@ -316,21 +324,64 @@ export function pairSwissRound(teams: TournamentTeam[], roundNumber: number): To
   });
 
   let matchIndex = 1;
-  Object.entries(groups).forEach(([record, groupTeams]) => {
-    const pool = [...groupTeams].sort(() => 0.5 - Math.random());
-    while (pool.length >= 2) {
-      const t1 = pool.shift()!;
-      let opponentIdx = pool.findIndex(t => !t1.swissRecord.opponents.includes(t.id));
-      if (opponentIdx === -1) opponentIdx = 0;
-      const t2 = pool.splice(opponentIdx, 1)[0];
+  let shuffleSeed = roundNumber * 104729 + activeTeams.reduce((sum, team) => sum + team.seed, 0);
+  const seededRandom = () => {
+    shuffleSeed = (shuffleSeed * 48271) % 2147483647;
+    return shuffleSeed / 2147483647;
+  };
+  const unmatched: TournamentTeam[] = [];
+  Object.entries(groups).forEach(([, groupTeams]) => unmatched.push(...groupTeams));
 
-      const isDecisive = t1.swissRecord.wins === 2 || t1.swissRecord.losses === 2;
-      const format = isDecisive ? 'Bo5' : 'Bo3';
+  while (unmatched.length >= 2) {
+    let team1Index = -1;
+    let team2Index = -1;
 
-      matches.push({
+    // First priority: same record and never met.
+    for (let i = 0; i < unmatched.length && team1Index === -1; i++) {
+      const candidate = unmatched[i];
+      const opponentIndex = unmatched.findIndex((team, index) =>
+        index !== i &&
+        team.swissRecord.wins === candidate.swissRecord.wins &&
+        team.swissRecord.losses === candidate.swissRecord.losses &&
+        !candidate.swissRecord.opponents.includes(team.id)
+      );
+      if (opponentIndex !== -1) {
+        team1Index = i;
+        team2Index = opponentIndex;
+      }
+    }
+
+    // Second priority: any record, but never met.
+    if (team1Index === -1) {
+      for (let i = 0; i < unmatched.length && team1Index === -1; i++) {
+        const candidate = unmatched[i];
+        const opponentIndex = unmatched.findIndex((team, index) =>
+          index !== i && !candidate.swissRecord.opponents.includes(team.id)
+        );
+        if (opponentIndex !== -1) {
+          team1Index = i;
+          team2Index = opponentIndex;
+        }
+      }
+    }
+
+    if (team1Index === -1) break;
+
+    const t1 = unmatched.splice(team1Index, 1)[0];
+    if (team2Index > team1Index) team2Index--;
+    const t2 = unmatched.splice(team2Index, 1)[0];
+
+    const isDecisive =
+      t1.swissRecord.wins >= 2 ||
+      t1.swissRecord.losses >= 2 ||
+      t2.swissRecord.wins >= 2 ||
+      t2.swissRecord.losses >= 2;
+    const format = isDecisive ? 'Bo5' : 'Bo3';
+
+    matches.push({
         id: `swiss_r${roundNumber}_m${matchIndex++}`,
         stage: 'swiss',
-        roundName: `Swiss Vòng ${roundNumber} (${record})`,
+        roundName: `SWISS ROUND ${roundNumber}`,
         roundNumber,
         team1: t1,
         team2: t2,
@@ -340,9 +391,9 @@ export function pairSwissRound(teams: TournamentTeam[], roundNumber: number): To
         format,
         games: [],
         isComplete: false,
-      });
-    }
-  });
+        seed: shuffleSeed,
+    });
+  }
 
   return matches;
 }
@@ -443,6 +494,7 @@ export function advanceSwissRound(state: SwissStageState): SwissStageState {
   const nextMatches = pairSwissRound(updatedTeams, nextRoundNumber);
 
   return {
+    tournamentSeed: state.tournamentSeed,
     round: nextRoundNumber,
     teams: updatedTeams,
     currentMatches: nextMatches,

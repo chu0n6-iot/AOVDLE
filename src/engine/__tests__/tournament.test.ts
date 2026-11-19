@@ -79,4 +79,35 @@ describe('Tournament Simulation Engine', () => {
     expect(completedBracket.champion).toBeDefined();
     expect(completedBracket.grandFinal?.winner).toBeDefined();
   });
+
+  it('avoids Swiss rematches and completes 100 tournaments with logical champions', () => {
+    const champions = new Set<string>();
+
+    for (let run = 0; run < 100; run++) {
+      const seenPairs = new Set<string>();
+      let swiss = initializeSwissStage({
+        ...dummyUserTeam,
+        powerRating: 88 + (run % 7),
+        effectiveStrength: 88 + (run % 7),
+      });
+
+      for (let round = 0; round < 5 && !swiss.isComplete; round++) {
+        const previousMatches = [...swiss.currentMatches];
+        previousMatches.forEach(match => {
+          const pair = [match.team1.id, match.team2.id].sort().join('|');
+          expect(seenPairs.has(pair)).toBe(false);
+          seenPairs.add(pair);
+        });
+        swiss = advanceSwissRound(swiss);
+      }
+
+      expect(swiss.qualifiedTeams).toHaveLength(8);
+      const bracket = advancePlayoffBracket(initializePlayoffBracket(swiss.qualifiedTeams), swiss);
+      expect(bracket.isComplete).toBe(true);
+      expect(bracket.grandFinal?.winner?.id).toBe(bracket.champion?.id);
+      champions.add(bracket.champion?.id || 'unknown');
+    }
+
+    expect(champions.size).toBeGreaterThan(1);
+  });
 });

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Shield, Trophy, RotateCcw, Info, Sparkles, Users } from './icons';
+import { getAssetUrl } from '../utils/assets';
 
 interface NavbarProps {
   currentTab: 'draft' | 'dreamteam' | 'tournament';
@@ -26,9 +27,11 @@ export const Navbar: React.FC<NavbarProps> = ({
         <div className="max-w-7xl mx-auto flex items-center justify-between gap-3">
           {/* Logo & Brand */}
           <div className="flex items-center gap-2.5">
-            <div className="w-8 h-8 sm:w-9 sm:h-9 rounded-lg bg-gradient-to-br from-[#C9A45C] to-[#80683D] flex items-center justify-center shadow-md border border-[#F2F0E9]/20 shrink-0">
-              <Shield className="w-4 h-4 sm:w-5 sm:h-5 text-[#071018]" />
-            </div>
+            <img
+              src={getAssetUrl('/assets/branding/aov-logo.svg')}
+              alt="Arena of Valor"
+              className="h-9 sm:h-10 w-auto object-contain shrink-0"
+            />
             <div>
               <div className="flex items-center gap-1.5 leading-none">
                 <span className="font-['Barlow_Condensed'] font-black text-xl sm:text-2xl tracking-wider text-[#F2F0E9]">
