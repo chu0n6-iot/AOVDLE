@@ -414,38 +414,6 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
           </div>
         </div>
       )}
-                {!swissState.isComplete ? (
-                  <button
-                    onClick={handleAdvanceSwiss}
-                    className="w-full py-4 rounded-2xl bg-gradient-to-r from-[#C9A45C] to-[#80683D] text-[#071018] font-['Barlow_Condensed'] font-black text-lg tracking-wider uppercase shadow-xl hover:shadow-[#C9A45C]/30 hover:scale-[1.01] active:scale-95 transition-all flex items-center justify-center gap-2 cursor-pointer"
-                  >
-                    <Play className="w-5 h-5 fill-current" />
-                    <span>
-                      {isAllCurrentMatchesComplete
-                        ? `BƯỚC SANG VÒNG THỤY SĨ ${swissState.round + 1}`
-                        : `MÔ PHỎNG CÁC TRẬN CÒN LẠI (VÒNG ${swissState.round})`}
-                    </span>
-                  </button>
-                ) : (
-                  <button
-                    onClick={() => {
-                      if (!playoffBracket) {
-                        const bracket = initializePlayoffBracket(swissState.qualifiedTeams);
-                        onUpdatePlayoffBracket(bracket);
-                      }
-                      setActiveTab('playoffs');
-                    }}
-                    className="w-full py-4 rounded-2xl bg-[#3EAD83] text-[#071018] font-['Barlow_Condensed'] font-black text-lg tracking-wider uppercase shadow-xl hover:bg-[#3EAD83]/90 transition-all flex items-center justify-center gap-2 cursor-pointer"
-                  >
-                    <Trophy className="w-5 h-5" />
-                    <span>BƯỚC VÀO VÒNG PLAYOFFS</span>
-                  </button>
-                )}
-              </div>
-            </div>
-          </div>
-        </div>
-      )}
 
       {/* PLAYOFFS VIEW */}
       {activeTab === 'playoffs' && playoffBracket && (

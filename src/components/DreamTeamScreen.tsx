@@ -281,5 +281,4 @@ export const DreamTeamScreen: React.FC<DreamTeamScreenProps> = ({
       </div>
     </div>
   );
-  );
 };

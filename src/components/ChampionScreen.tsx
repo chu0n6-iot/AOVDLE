@@ -196,10 +196,7 @@ export const ChampionScreen: React.FC<ChampionScreenProps> = ({
                     {player.rating}
                   </span>
                 </div>
-          
-    </div>
-  );
-};
+              );
             })}
 
             {/* Coach */}
@@ -232,6 +229,5 @@ export const ChampionScreen: React.FC<ChampionScreenProps> = ({
         </button>
       </div>
     </div>
-  );
   );
 };
