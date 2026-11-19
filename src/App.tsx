@@ -99,7 +99,7 @@ export const App: React.FC = () => {
 
   // Handle Player Selection
   const handleSelectPlayer = (player: PlayerVersion) => {
-    const updated = pickPlayer(draftState, player, draftState.targetRole || undefined);
+    const updated = pickPlayer(draftState, player);
     setDraftState(updated);
 
     // If 5 roles are now filled and coach is selected, construct dream team
@@ -187,19 +187,14 @@ export const App: React.FC = () => {
         {/* TAB 1: DRAFT SCREEN */}
         {currentTab === 'draft' && (
           <div className="w-full max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 py-3 sm:py-4 flex-1 flex flex-col min-h-0">
-            {/* Top Slots Progress Indicator */}
-            <RoleProgressSlots
-              picks={draftState.picks}
-              coach={draftState.coach}
-              targetRole={draftState.targetRole}
-              rerollsLeft={draftState.rerollsLeft}
-              onReroll={() => setDraftState(prev => rerollDraftTeams(prev))}
-              onSelectRole={role => {
-                setDraftState(prev => ({ ...prev, targetRole: role }));
-                if (window.innerWidth < 1024) setMobileDraftView('teams');
-              }}
-              canReroll={draftState.phase === 'team_draft'}
-            />
+            <div className="draft-screen-header shrink-0 mb-3 text-center">
+              <p className="text-[9px] sm:text-[10px] font-black tracking-[0.32em] text-[#C9A45C]">
+                ROUND {picksCount + 1} / 5
+              </p>
+              <h1 className="font-['Barlow_Condensed'] font-black text-[30px] sm:text-[42px] leading-none text-[#F2F0E9]">
+                {draftState.phase === 'player_draft' ? 'SELECT A PLAYER' : 'SELECT A TEAM'}
+              </h1>
+            </div>
 
             {/* Mobile View Toggle Pills (Visible only on < lg) */}
             <div className="flex lg:hidden items-center justify-center gap-2 mb-3 shrink-0">
@@ -225,26 +220,17 @@ export const App: React.FC = () => {
               </button>
             </div>
 
-            {/* Main Draft Layout: 2 Columns on Desktop, Switchable on Mobile */}
-            <div className="grid grid-cols-1 lg:grid-cols-12 gap-4 lg:gap-8 items-start flex-1 min-h-0">
-              {/* LEFT COLUMN: 3 Team Cards or Roster Selection (6 cols) */}
+            {/* Main Draft Layout: 42% / 54% desktop, switchable mobile */}
+            <div className="grid grid-cols-1 lg:grid-cols-[42fr_54fr] gap-3 lg:gap-5 items-stretch flex-1 min-h-0">
+              {/* LEFT COLUMN: 3 Team Cards or Roster Selection */}
               <div
-                className={`lg:col-span-6 space-y-3 ${
+                className={`min-h-0 ${
                   mobileDraftView === 'teams' ? 'block' : 'hidden lg:block'
                 }`}
               >
                 {draftState.phase === 'team_draft' && (
-                  <div>
-                    <div className="flex items-center justify-between mb-2">
-                      <h2 className="font-['Barlow_Condensed'] font-black text-lg sm:text-xl text-[#F2F0E9] tracking-wider">
-                        CHỌN 1 TRONG 3 ĐỘI TUYỂN
-                      </h2>
-                      <span className="text-xs text-[#C9A45C] font-semibold bg-[#C9A45C]/10 px-2 py-0.5 rounded-full border border-[#C9A45C]/30">
-                        Lượt {picksCount + 1} / 5
-                      </span>
-                    </div>
-
-                    <div className="space-y-2.5">
+                  <div className="flex flex-col h-full min-h-0">
+                    <div className="grid gap-2 flex-1 content-start">
                       {draftState.currentTeamChoices.map((team, idx) => (
                         <TeamCard
                           key={team.team_id}
@@ -254,6 +240,14 @@ export const App: React.FC = () => {
                         />
                       ))}
                     </div>
+                    <button
+                      type="button"
+                      onClick={() => setDraftState(prev => rerollDraftTeams(prev))}
+                      disabled={draftState.rerollsLeft <= 0}
+                      className="mt-3 w-full h-11 border border-[#C9A45C]/70 bg-[#0D1923] text-[#C9A45C] font-['Barlow_Condensed'] font-black text-[16px] tracking-[0.18em] disabled:opacity-40 disabled:cursor-not-allowed hover:bg-[#142330] transition-colors"
+                    >
+                      REROLL ({draftState.rerollsLeft}/3)
+                    </button>
                   </div>
                 )}
 
@@ -269,9 +263,9 @@ export const App: React.FC = () => {
                 )}
               </div>
 
-              {/* RIGHT COLUMN: Interactive Antaris Battlefield Map (6 cols) */}
+              {/* RIGHT COLUMN: Interactive Antaris Battlefield Map */}
               <div
-                className={`lg:col-span-6 flex flex-col items-center justify-center ${
+                className={`flex flex-col items-center justify-center min-h-0 ${
                   mobileDraftView === 'map' ? 'block' : 'hidden lg:flex'
                 }`}
               >

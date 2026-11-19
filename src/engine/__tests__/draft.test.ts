@@ -69,6 +69,29 @@ describe('Draft Engine', () => {
     expect(dupDraft.picks.Jungle).toBeNull();
   });
 
+  it('keeps a historical player in their exact registered role', () => {
+    let draft = initializeDraft();
+    const junglePlayer: PlayerVersion = {
+      player_id: 'PLAYER_TEST_JUNGLE',
+      player_name: 'TestJungler',
+      nickname: 'TestJungler',
+      country: 'Vietnam',
+      team_id: 'TEAM_TEST',
+      tournament_id: 'APL2026',
+      team_name: 'Test Team',
+      role: 'Jungle',
+      source_url: '',
+      verification_status: 'verified',
+      year: 2026,
+      rating: 88,
+    };
+
+    draft = pickPlayer(draft, junglePlayer, 'Mid');
+
+    expect(draft.picks.Jungle?.player_id).toBe('PLAYER_TEST_JUNGLE');
+    expect(draft.picks.Mid).toBeNull();
+  });
+
   it('advances to coach draft once 5 positions are filled', () => {
     let draft = initializeDraft();
     const roles: ('DSL' | 'Jungle' | 'Mid' | 'Farm' | 'Support')[] = [

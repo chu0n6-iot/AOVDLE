@@ -108,16 +108,11 @@ export function pickPlayer(
     return state;
   }
 
-  // Determine slot: either targetRole, player's own role if empty, or first unfilled role
-  let assignedRole: Role | null = targetRole || null;
-  if (!assignedRole) {
-    if (!state.picks[player.role]) {
-      assignedRole = player.role;
-    } else {
-      assignedRole = getFirstUnfilledRole(state.picks);
-    }
+  // A Player Version belongs to one historical role. Never reassign it to another lane.
+  let assignedRole: Role | null = player.role;
+  if (state.picks[assignedRole] !== null) {
+    return state;
   }
-
   if (!assignedRole) return state;
 
   const newPicks = {

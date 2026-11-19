@@ -21,6 +21,20 @@
     color: #F2F0E9;
     font-family: 'Inter', sans-serif;
   }
+
+  .draft-screen-header {
+    background:
+      linear-gradient(rgba(7,16,24,.82), rgba(7,16,24,.82)),
+      linear-gradient(90deg, rgba(201,164,92,.08) 1px, transparent 1px),
+      linear-gradient(rgba(201,164,92,.08) 1px, transparent 1px);
+    background-size: auto, 18px 18px, 18px 18px;
+    border-bottom: 1px solid rgba(201,164,92,.55);
+    padding: 8px 12px 10px;
+  }
+
+  .draft-gold-card {
+    clip-path: polygon(0 8px, 8px 8px, 8px 0, calc(100% - 8px) 0, calc(100% - 8px) 8px, 100% 8px, 100% calc(100% - 8px), calc(100% - 8px) calc(100% - 8px), calc(100% - 8px) 100%, 8px 100%, 8px calc(100% - 8px), 0 calc(100% - 8px));
+  }
   
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Barlow Condensed', sans-serif;
