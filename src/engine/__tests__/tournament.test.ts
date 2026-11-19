@@ -89,7 +89,7 @@ describe('Tournament Simulation Engine', () => {
         ...dummyUserTeam,
         powerRating: 88 + (run % 7),
         effectiveStrength: 88 + (run % 7),
-      });
+      }, 15000);
 
       for (let round = 0; round < 5 && !swiss.isComplete; round++) {
         const previousMatches = [...swiss.currentMatches];
