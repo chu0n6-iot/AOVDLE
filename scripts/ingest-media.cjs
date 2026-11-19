@@ -184,8 +184,6 @@ function generatePlayerPortraitSVG(playerName, teamName, role, country, year, ra
   <!-- Team & Rating Header Bar -->
   <rect x="0" y="0" width="140" height="26" rx="12" fill="#071018" fill-opacity="0.75"/>
   <rect x="8" y="7" width="12" height="12" rx="2" fill="${flagColor}"/>
-  <text x="24" y="16" font-family="'Barlow Condensed', sans-serif" font-size="10" font-weight="bold" fill="#F2F0E9">${brand.tag}</text>
-  <text x="130" y="17" font-family="'Barlow Condensed', sans-serif" font-size="12" font-weight="900" fill="${brand.secondary}" text-anchor="end">${rating}</text>
 
   <!-- Player Silhouette with Team Jersey -->
   <!-- Head & Hair -->
@@ -200,7 +198,6 @@ function generatePlayerPortraitSVG(playerName, teamName, role, country, year, ra
   <path d="M22 152C22 110 40 98 70 98C100 98 118 110 118 152V160H22V152Z" fill="${brand.primary}" stroke="#354653" stroke-width="1.5"/>
   <!-- Jersey Collar & Accents -->
   <path d="M54 98L70 118L86 98" stroke="${brand.secondary}" stroke-width="3" fill="none"/>
-  <text x="70" y="138" font-family="'Barlow Condensed', sans-serif" font-size="13" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">${brand.tag}</text>
 
   <!-- Player Tag Bar (Bottom) -->
   <rect x="0" y="148" width="140" height="32" rx="10" fill="#071018" fill-opacity="0.95" stroke="#354653" stroke-width="1"/>
