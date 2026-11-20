@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <radialGradient id="bgG_BAC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF4081" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#071018" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#bgG_BAC)" stroke="#181818" stroke-width="2.5"/>
+  <circle cx="50" cy="50" r="30" fill="#FF4081"/><ellipse cx="50" cy="54" rx="14" ry="10" fill="#FFE5EC"/><circle cx="45" cy="54" r="3" fill="#181818"/><circle cx="55" cy="54" r="3" fill="#181818"/><polygon points="26,30 38,36 30,46" fill="#FF4081"/><polygon points="74,30 62,36 70,46" fill="#FF4081"/>
+  <text x="50" y="93" font-family="'Barlow Condensed', sans-serif" font-size="9" font-weight="bold" fill="#FFE5EC" text-anchor="middle" letter-spacing="0.5">BACON TIME</text>
+</svg>

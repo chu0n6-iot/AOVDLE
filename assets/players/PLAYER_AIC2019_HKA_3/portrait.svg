@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 180" fill="none">
+  <defs>
+    <linearGradient id="pGrad_HON" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1923"/>
+      <stop offset="60%" stop-color="#0D1923"/>
+      <stop offset="100%" stop-color="#071018"/>
+    </linearGradient>
+  </defs>
+  <rect width="140" height="180" rx="14" fill="url(#pGrad_HON)" stroke="#C9A45C" stroke-width="2"/>
+  
+  <!-- Team & Rating Header Bar -->
+  <rect x="0" y="0" width="140" height="26" rx="12" fill="#071018" fill-opacity="0.75"/>
+  <rect x="8" y="7" width="12" height="12" rx="2" fill="#000095"/>
+  <text x="24" y="16" font-family="'Barlow Condensed', sans-serif" font-size="10" font-weight="bold" fill="#F2F0E9">HON</text>
+
+  <!-- Player Silhouette with Team Jersey -->
+  <!-- Head & Hair -->
+  <circle cx="70" cy="62" r="26" fill="#1C3042" stroke="#C9A45C" stroke-width="1.5"/>
+  <!-- Esports Headset -->
+  <path d="M42 60C42 42 54 30 70 30C86 30 98 42 98 60" stroke="#C9A45C" stroke-width="4.5" stroke-linecap="round"/>
+  <rect x="36" y="55" width="10" height="18" rx="4" fill="#C9A45C"/>
+  <rect x="94" y="55" width="10" height="18" rx="4" fill="#C9A45C"/>
+  <path d="M44 68C48 76 56 80 64 80" stroke="#C9A45C" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Shoulders & Official Team Jersey -->
+  <path d="M22 152C22 110 40 98 70 98C100 98 118 110 118 152V160H22V152Z" fill="#0D1923" stroke="#354653" stroke-width="1.5"/>
+  <!-- Jersey Collar & Accents -->
+  <path d="M54 98L70 118L86 98" stroke="#C9A45C" stroke-width="3" fill="none"/>
+  <text x="70" y="138" font-family="'Barlow Condensed', sans-serif" font-size="13" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">HON</text>
+
+  <!-- Player Tag Bar (Bottom) -->
+  <rect x="0" y="148" width="140" height="32" rx="10" fill="#071018" fill-opacity="0.95" stroke="#354653" stroke-width="1"/>
+  <text x="70" y="166" font-family="'Barlow Condensed', sans-serif" font-size="14" font-weight="900" fill="#F2F0E9" text-anchor="middle">EZ</text>
+  <text x="70" y="176" font-family="'Inter', sans-serif" font-size="8" font-weight="600" fill="#C9A45C" text-anchor="middle">Mid • 2019</text>
+</svg>
