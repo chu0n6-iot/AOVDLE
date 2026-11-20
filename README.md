@@ -13,6 +13,8 @@
 
 **AOVDLE** là web game Draft & Tournament Simulation lấy cảm hứng từ lịch sử thi đấu thể thao điện tử Arena of Valor (Liên Quân Mobile) đỉnh cao qua các kỳ AWC, AIC và APL.
 
+🎲 **Cảm hứng:** AOVDLE gửi lời cảm ơn đến [LoLdle](https://loldle.net/) và [Wordle](https://www.nytimes.com/games/wordle/index.html) — hai tựa game truyền cảm hứng cho tinh thần đoán, thử lại và chinh phục mỗi phiên chơi.
+
 Người chơi xây dựng đội hình Dream Team từ các thế hệ tuyển thủ từng tham dự giải đấu quốc tế, lựa chọn một Head Coach chiến lược và đưa đội hình tham gia giải đấu giả lập quốc tế APL 2026.
 
 ### Điểm đặc biệt của AOVDLE:
@@ -85,6 +87,17 @@ Các liên kết:
 Buff được kích hoạt tự động trong Simulation.
 
 Tổng bonus synergy dự kiến giới hạn ở mức 5% trong giai đoạn thử nghiệm. Giá trị chính thức sẽ được điều chỉnh qua kiểm thử cân bằng.
+
+### 3.4. Hướng dẫn nhanh cho người mới
+
+1. **Bắt đầu Draft:** Mỗi lượt chọn một trong ba đội được rút ra, sau đó chọn tuyển thủ cho vị trí đang thiếu.
+2. **Hoàn thiện đội hình:** Lấp đủ 5 vị trí DSL, Jungle, Mid, Farm và Support. Bạn có tối đa 3 lần Reroll trong Player Draft.
+3. **Chọn HLV:** Sau 5 tuyển thủ, chọn 1 trong 3 Head Coach được đưa ra.
+4. **Vào giải:** Đưa Dream Team vào Swiss Stage 16 đội. Thắng 3 trận để đi tiếp, thua 3 trận sẽ bị loại.
+5. **Theo dõi trận đấu:** Mở từng trận ở Swiss hoặc Playoffs để xem từng BO, từng ván, timeline sự kiện và MVP.
+6. **Chơi lại:** Nhấn **Chơi lại** bất cứ lúc nào để tạo ngay một phiên Draft mới.
+
+**GL HF!** Hãy thử nhiều cách kết hợp tuyển thủ, tận hưởng diễn biến trận đấu và viết lại lịch sử theo cách của bạn.
 
 ## 4. Tournament Simulation
 
@@ -337,5 +350,14 @@ Dự án được chia thành 5 module chính:
    👉 **`https://chu0n6-iot.github.io/AOVDLE/`**
 
 ---
+
+   ## 13. Cảm hứng & lời cảm ơn
+
+   AOVDLE được xây dựng với tinh thần khám phá và chơi lại nhiều lần. Xin shout-out đến:
+
+   - [LoLdle](https://loldle.net/) — cảm hứng cho trải nghiệm thử thách kiến thức game và cảm giác muốn đoán thêm một lượt.
+   - [Wordle](https://www.nytimes.com/games/wordle/index.html) — cảm hứng cho vòng lặp đơn giản, dễ bắt đầu nhưng khuyến khích quay lại.
+
+   Đây là những nguồn cảm hứng về tinh thần trải nghiệm; AOVDLE có gameplay, dữ liệu lịch sử và mô phỏng giải đấu riêng.
 
 *AOVDLE – Build your Dream Team. Rewrite your history.*

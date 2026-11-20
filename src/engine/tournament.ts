@@ -10,7 +10,7 @@ import {
   PlayerPerformanceProfile,
   PlayerVersion,
 } from '../data/types';
-import { HISTORICAL_TEAMS, HISTORICAL_PLAYERS, HISTORICAL_COACHES } from '../data/historicalData';
+import { HISTORICAL_PLAYERS, HISTORICAL_COACHES } from '../data/historicalData';
 import {
   createPlayerPerformanceProfile,
   calculateRealisticTeamStrength,
@@ -25,100 +25,83 @@ import { calculateTournamentFMVP } from './fmvp';
  * and calculated team strength models.
  */
 export function generateAITournamentTeams(): TournamentTeam[] {
-  const candidateNames = [
-    'Bacon Time',
-    'Buriram United Esports',
-    'Flash Wolves',
-    'Talon Esports',
-    'Saigon Phantom',
-    'Team Flash',
-    'ONE Team',
-    'BanMei Gaming',
-    'FULL SENSE',
-    'eArena',
-    'Deep Cross Gaming',
-    'Bikertopia Esports',
-    'V Gaming',
-    'Hong Kong Attitude',
-    'Kagendra',
-    'Valencia CF Esports',
-    'BOX Gaming',
-    'Most Outstanding Player',
-  ];
-
   const aiTeams: TournamentTeam[] = [];
-  const usedTeamNames = new Set<string>();
+  const generatedSignatures = new Set<string>();
+  const shuffle = <T,>(items: T[]): T[] => {
+    const result = [...items];
+    for (let i = result.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [result[i], result[j]] = [result[j], result[i]];
+    }
+    return result;
+  };
 
-  for (const name of candidateNames) {
-    if (aiTeams.length >= 15) break;
+  for (let teamIndex = 0; teamIndex < 15; teamIndex++) {
+    let selectedPlayers: Partial<Record<Role, PlayerVersion>> = {};
+    let signature = '';
 
-    const matchedTeams = HISTORICAL_TEAMS.filter(t =>
-      t.team_name.toLowerCase().includes(name.toLowerCase())
-    );
-    if (matchedTeams.length === 0) continue;
+    for (let attempt = 0; attempt < 100; attempt++) {
+      const usedSourceTeams = new Set<string>();
+      const candidatePlayers: Partial<Record<Role, PlayerVersion>> = {};
 
-    const selectedTeamSeason = matchedTeams[matchedTeams.length - 1];
-    if (usedTeamNames.has(selectedTeamSeason.team_name)) continue;
-    usedTeamNames.add(selectedTeamSeason.team_name);
+      for (const role of ROLES) {
+        const roleCandidates = shuffle(HISTORICAL_PLAYERS.filter(p => p.role === role));
+        const player =
+          roleCandidates.find(candidate => !usedSourceTeams.has(candidate.team_id)) ||
+          roleCandidates[0];
+        if (player) {
+          candidatePlayers[role] = player;
+          usedSourceTeams.add(player.team_id);
+        }
+      }
 
-    const teamPlayers = HISTORICAL_PLAYERS.filter(p => p.team_id === selectedTeamSeason.team_id);
-    const teamCoach = HISTORICAL_COACHES.find(c => c.team_id === selectedTeamSeason.team_id) || {
-      coach_name: 'Coach ' + selectedTeamSeason.team_name.slice(0, 4),
+      const candidateSignature = ROLES.map(role => candidatePlayers[role]?.player_id || '').join('|');
+      if (ROLES.every(role => candidatePlayers[role]) && !generatedSignatures.has(candidateSignature)) {
+        selectedPlayers = candidatePlayers;
+        signature = candidateSignature;
+        break;
+      }
+    }
+
+    if (!signature) {
+      throw new Error('Unable to generate a unique historical Dream Team opponent.');
+    }
+
+    generatedSignatures.add(signature);
+    const teamName = `AI Dream Team ${String(teamIndex + 1).padStart(2, '0')}`;
+    const teamCoach = shuffle(HISTORICAL_COACHES)[0] || {
+      coach_name: `Coach ${teamIndex + 1}`,
       rating: 84,
-      team_id: selectedTeamSeason.team_id,
-      team_name: selectedTeamSeason.team_name,
-      coach_id: `coach_${selectedTeamSeason.team_id}`,
-      tournament_id: selectedTeamSeason.tournament_id,
+      team_id: `ai_coach_${teamIndex + 1}`,
+      team_name: teamName,
+      coach_id: `coach_ai_${teamIndex + 1}`,
+      tournament_id: 'ai_dream_team',
       role: 'Head Coach',
       source_url: '',
       verification_status: 'verified' as const,
-      country: selectedTeamSeason.country,
-      year: selectedTeamSeason.year,
+      country: 'International',
+      year: 2026,
     };
 
-    const rosterObj: Record<Role, { name: string; rating: number; country?: string; portrait_url?: string }> = {
-      DSL: { name: 'Player Top', rating: 82 },
-      Jungle: { name: 'Player Jungle', rating: 84 },
-      Mid: { name: 'Player Mid', rating: 85 },
-      Farm: { name: 'Player Farm', rating: 83 },
-      Support: { name: 'Player Support', rating: 81 },
-    };
+    const rosterObj = {} as Record<
+      Role,
+      { name: string; rating: number; country?: string; portrait_url?: string }
+    >;
 
-    const playerProfiles: Record<Role, PlayerPerformanceProfile> = {} as any;
+    const playerProfiles = {} as Record<Role, PlayerPerformanceProfile>;
 
     ROLES.forEach(role => {
-      const p = teamPlayers.find(tp => tp.role === role);
-      if (p) {
-        rosterObj[role] = {
-          name: p.player_name,
-          rating: p.rating,
-          country: p.country,
-          portrait_url: p.portrait_url,
-        };
-        playerProfiles[role] = createPlayerPerformanceProfile(p, 'stable');
-      } else {
-        const fallbackPlayer: PlayerVersion = {
-          player_id: `fallback_${selectedTeamSeason.team_id}_${role}`,
-          player_name: rosterObj[role].name,
-          nickname: rosterObj[role].name,
-          country: selectedTeamSeason.country,
-          team_id: selectedTeamSeason.team_id,
-          tournament_id: selectedTeamSeason.tournament_id,
-          team_name: selectedTeamSeason.team_name,
-          role,
-          source_url: '',
-          verification_status: 'verified',
-          year: selectedTeamSeason.year,
-          rating: rosterObj[role].rating,
-        };
-        playerProfiles[role] = createPlayerPerformanceProfile(fallbackPlayer, 'stable');
-      }
+      const player = selectedPlayers[role]!;
+      rosterObj[role] = {
+        name: player.player_name,
+        rating: player.rating,
+        country: player.country,
+        portrait_url: player.portrait_url,
+      };
+      playerProfiles[role] = createPlayerPerformanceProfile(player, 'stable');
     });
 
-    const tacticalIdentity = assignTeamTacticalIdentity(
-      selectedTeamSeason.team_name,
-      aiTeams.length + 1
-    );
+    const tacticalIdentity = assignTeamTacticalIdentity(teamName, teamIndex + 1);
 
     const teamStrengthCalc = calculateRealisticTeamStrength(
       playerProfiles,
@@ -126,7 +109,7 @@ export function generateAITournamentTeams(): TournamentTeam[] {
       tacticalIdentity
     );
 
-    const tag = selectedTeamSeason.team_name
+    const tag = teamName
       .split(' ')
       .map(w => w[0])
       .join('')
@@ -134,17 +117,16 @@ export function generateAITournamentTeams(): TournamentTeam[] {
       .slice(0, 4);
 
     aiTeams.push({
-      id: `ai_${selectedTeamSeason.team_id}`,
-      name: selectedTeamSeason.team_name,
+      id: `ai_dream_team_${teamIndex + 1}`,
+      name: teamName,
       tag: tag || 'AOV',
-      team_id: selectedTeamSeason.team_id,
+      team_id: `ai_dream_team_${teamIndex + 1}`,
       isPlayer: false,
       powerRating: teamStrengthCalc.finalStrength,
       effectiveStrength: teamStrengthCalc.finalStrength,
       tacticalIdentity,
       superstarRole: teamStrengthCalc.superstarRole,
       weakestRole: teamStrengthCalc.weakestRole,
-      logo_url: selectedTeamSeason.logo_url,
       players: rosterObj,
       playerProfiles,
       coach: {

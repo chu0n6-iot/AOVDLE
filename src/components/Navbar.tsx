@@ -139,6 +139,19 @@ export const Navbar: React.FC<NavbarProps> = ({
             </div>
 
             <div className="mt-4 space-y-4 text-sm text-[#91A0AA]">
+              <div className="bg-[#142330] rounded-xl p-3 border border-[#C9A45C]/40">
+                <h4 className="font-bold text-[#C9A45C] uppercase text-xs tracking-wider mb-1">
+                  Hướng dẫn nhanh cho người mới
+                </h4>
+                <ol className="list-decimal list-inside space-y-1">
+                  <li>Chọn đội rồi chọn tuyển thủ cho vị trí còn thiếu.</li>
+                  <li>Lấp đủ DSL, Jungle, Mid, Farm và Support; bạn có 3 lần Reroll.</li>
+                  <li>Chọn 1 Head Coach sau khi đủ 5 tuyển thủ.</li>
+                  <li>Vào Swiss Stage, thắng 3 trận để đi tiếp và thua 3 trận sẽ bị loại.</li>
+                  <li>Mở từng trận để xem BO, từng ván, timeline sự kiện và MVP.</li>
+                </ol>
+              </div>
+
               <div>
                 <h4 className="font-bold text-[#F2F0E9] uppercase text-xs tracking-wider mb-1">
                   1. Player Draft (5 Vị trí)
@@ -173,6 +186,34 @@ export const Navbar: React.FC<NavbarProps> = ({
                 <p>
                   Đưa Dream Team vào giải đấu 16 đội Swiss Stage. Thắng 3 trận để vào Playoffs Double Elimination, thua 3 trận bị loại!
                 </p>
+              </div>
+
+              <div className="bg-[#142330]/70 rounded-xl p-3 border border-[#61DAFB]/30">
+                <h4 className="font-bold text-[#F2F0E9] uppercase text-xs tracking-wider mb-1">
+                  Shout-out & cảm hứng
+                </h4>
+                <p>
+                  AOVDLE gửi lời cảm ơn đến{' '}
+                  <a
+                    href="https://loldle.net/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-[#61DAFB] underline hover:text-[#90E0EF]"
+                  >
+                    LoLdle
+                  </a>{' '}
+                  và{' '}
+                  <a
+                    href="https://www.nytimes.com/games/wordle/index.html"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-[#61DAFB] underline hover:text-[#90E0EF]"
+                  >
+                    Wordle
+                  </a>
+                  . Cảm hứng nằm ở tinh thần thử thách, đoán, thử lại và chơi thêm một phiên.
+                </p>
+                <p className="mt-2 text-[#C9A45C] font-bold">GL HF!</p>
               </div>
             </div>
 

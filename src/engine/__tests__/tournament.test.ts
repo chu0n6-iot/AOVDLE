@@ -6,6 +6,7 @@ import {
   initializePlayoffBracket,
   advancePlayoffBracket,
 } from '../tournament';
+import { HISTORICAL_PLAYERS } from '../../data/historicalData';
 import { TournamentTeam } from '../../data/types';
 
 describe('Tournament Simulation Engine', () => {
@@ -39,6 +40,27 @@ describe('Tournament Simulation Engine', () => {
       expect(t.players.Mid.name).toBeDefined();
       expect(t.players.Farm.name).toBeDefined();
       expect(t.players.Support.name).toBeDefined();
+    });
+  });
+
+  it('creates distinct multi-source Dream Team combinations', () => {
+    const aiTeams = generateAITournamentTeams();
+    const playerById = new Map(HISTORICAL_PLAYERS.map(player => [player.player_id, player]));
+    const signatures = new Set(
+      aiTeams.map(team =>
+        Object.values(team.playerProfiles || {})
+          .map(profile => profile.playerId)
+          .sort()
+          .join('|')
+      )
+    );
+
+    expect(signatures).toHaveLength(15);
+    aiTeams.forEach(team => {
+      const sourceTeams = Object.values(team.playerProfiles || {})
+        .map(profile => playerById.get(profile.playerId)?.team_id)
+        .filter(Boolean);
+      expect(new Set(sourceTeams).size).toBeGreaterThanOrEqual(4);
     });
   });
 

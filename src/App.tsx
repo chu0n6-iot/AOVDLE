@@ -153,18 +153,16 @@ export const App: React.FC = () => {
 
   // Handle Reset Game
   const handleResetGame = () => {
-    if (window.confirm('Bạn có chắc muốn bắt đầu lại phiên Draft mới?')) {
-      try {
-        localStorage.removeItem(STORAGE_KEY);
-      } catch (e) {}
-      const freshDraft = initializeDraft();
-      setDraftState(freshDraft);
-      setDreamTeam(null);
-      setSwissState(null);
-      setPlayoffBracket(null);
-      setChampion(null);
-      setCurrentTab('draft');
-    }
+    try {
+      localStorage.removeItem(STORAGE_KEY);
+    } catch (e) {}
+    const freshDraft = initializeDraft();
+    setDraftState(freshDraft);
+    setDreamTeam(null);
+    setSwissState(null);
+    setPlayoffBracket(null);
+    setChampion(null);
+    setCurrentTab('draft');
   };
 
   // Draft view mode for mobile screens: 'teams' or 'map'

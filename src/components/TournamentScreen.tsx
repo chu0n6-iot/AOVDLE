@@ -78,16 +78,26 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
 
     // If in Playoffs
     if (playoffBracket) {
-      // Check upper round 1
-      const ubIdx = playoffBracket.upperRound1.findIndex(m => m.id === updatedMatch.id);
-      if (ubIdx !== -1) {
-        const newUB = [...playoffBracket.upperRound1];
-        newUB[ubIdx] = updatedMatch;
-        onUpdatePlayoffBracket({
-          ...playoffBracket,
-          upperRound1: newUB,
-        });
-      }
+      const replaceMatch = (matches: TournamentMatch[]) =>
+        matches.map(match => (match.id === updatedMatch.id ? updatedMatch : match));
+      onUpdatePlayoffBracket({
+        ...playoffBracket,
+        upperRound1: replaceMatch(playoffBracket.upperRound1),
+        upperFinal:
+          playoffBracket.upperFinal?.id === updatedMatch.id
+            ? updatedMatch
+            : playoffBracket.upperFinal,
+        lowerRound1: replaceMatch(playoffBracket.lowerRound1),
+        lowerRound2: replaceMatch(playoffBracket.lowerRound2),
+        lowerFinal:
+          playoffBracket.lowerFinal?.id === updatedMatch.id
+            ? updatedMatch
+            : playoffBracket.lowerFinal,
+        grandFinal:
+          playoffBracket.grandFinal?.id === updatedMatch.id
+            ? updatedMatch
+            : playoffBracket.grandFinal,
+      });
     }
   };
 
@@ -119,6 +129,52 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
   const isAllCurrentMatchesComplete =
     currentCompletedCount === swissState.currentMatches.length &&
     swissState.currentMatches.length > 0;
+
+  const renderPlayoffMatch = (match: TournamentMatch) => (
+    <div
+      key={match.id}
+      onClick={() => handleOpenMatch(match)}
+      className="bg-[#142330] p-4 rounded-xl border border-[#354653]/60 hover:border-[#C9A45C] transition-all cursor-pointer shadow-md"
+    >
+      <div className="text-[10px] text-[#91A0AA] mb-2 flex justify-between">
+        <span>{match.roundName.split('(')[0]}</span>
+        <span className="font-bold text-[#C9A45C]">{match.format}</span>
+      </div>
+
+      <div className="space-y-1.5">
+        {[match.team1, match.team2].map((team, index) => {
+          const score = index === 0 ? match.score1 : match.score2;
+          return (
+            <div
+              key={team.id}
+              className={`flex items-center justify-between text-xs font-semibold ${
+                match.winner?.id === team.id ? 'text-[#3EAD83]' : 'text-[#F2F0E9]'
+              }`}
+            >
+              <span className="truncate">{team.name}</span>
+              <span className="font-mono font-bold ml-2">{score}</span>
+            </div>
+          );
+        })}
+      </div>
+
+      <div className="mt-3 text-[10px] text-[#91A0AA]">
+        {match.isComplete ? 'Đã xong · Xem diễn biến từng ván' : 'Chưa đấu · Mở trận để mô phỏng'}
+      </div>
+    </div>
+  );
+
+  const renderPlayoffSection = (title: string, matches: TournamentMatch[]) =>
+    matches.length > 0 ? (
+      <div>
+        <h3 className="font-['Barlow_Condensed'] font-bold text-lg text-[#C9A45C] tracking-wide mb-3">
+          {title}
+        </h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+          {matches.map(renderPlayoffMatch)}
+        </div>
+      </div>
+    ) : null;
 
   return (
     <div className="max-w-7xl mx-auto px-2 sm:px-4 py-2 sm:py-3 animate-fade-in flex flex-col h-full min-h-0">
@@ -473,44 +529,26 @@ export const TournamentScreen: React.FC<TournamentScreenProps> = ({
           {/* Bracket Tree */}
           <div className="space-y-8">
             {/* Upper Bracket Round 1 */}
-            <div>
-              <h3 className="font-['Barlow_Condensed'] font-bold text-lg text-[#C9A45C] tracking-wide mb-3">
-                TỨ KẾT NHÁNH THẮNG (UPPER BRACKET QUARTERFINALS — Bo5)
-              </h3>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-                {playoffBracket.upperRound1.map(m => (
-                  <div
-                    key={m.id}
-                    onClick={() => handleOpenMatch(m)}
-                    className="bg-[#142330] p-4 rounded-xl border border-[#354653]/60 hover:border-[#C9A45C] transition-all cursor-pointer shadow-md"
-                  >
-                    <div className="text-[10px] text-[#91A0AA] mb-2 flex justify-between">
-                      <span>{m.roundName.split('(')[0]}</span>
-                      <span className="font-bold text-[#C9A45C]">{m.format}</span>
-                    </div>
-
-                    <div className="space-y-1.5">
-                      <div
-                        className={`flex items-center justify-between text-xs font-semibold ${
-                          m.winner?.id === m.team1.id ? 'text-[#3EAD83]' : 'text-[#F2F0E9]'
-                        }`}
-                      >
-                        <span className="truncate">{m.team1.name}</span>
-                        <span className="font-mono font-bold ml-2">{m.score1}</span>
-                      </div>
-                      <div
-                        className={`flex items-center justify-between text-xs font-semibold ${
-                          m.winner?.id === m.team2.id ? 'text-[#3EAD83]' : 'text-[#F2F0E9]'
-                        }`}
-                      >
-                        <span className="truncate">{m.team2.name}</span>
-                        <span className="font-mono font-bold ml-2">{m.score2}</span>
-                      </div>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
+            {renderPlayoffSection(
+              'TỨ KẾT NHÁNH THẮNG (UPPER BRACKET QUARTERFINALS — Bo5)',
+              playoffBracket.upperRound1
+            )}
+            {renderPlayoffSection(
+              'TỨ KẾT / VÒNG 1 NHÁNH THUA — Bo5',
+              playoffBracket.lowerRound1
+            )}
+            {renderPlayoffSection(
+              'TỨ KẾT / BÁN KẾT NHÁNH THUA — Bo7',
+              playoffBracket.lowerRound2
+            )}
+            {renderPlayoffSection(
+              'CHUNG KẾT NHÁNH THẮNG — Bo7',
+              playoffBracket.upperFinal ? [playoffBracket.upperFinal] : []
+            )}
+            {renderPlayoffSection(
+              'CHUNG KẾT NHÁNH THUA — Bo7',
+              playoffBracket.lowerFinal ? [playoffBracket.lowerFinal] : []
+            )}
 
             {/* Grand Final Card */}
             {playoffBracket.grandFinal && (

@@ -1,6 +1,5 @@
 import React from 'react';
 import { DreamTeam, ROLES, ROLE_LABELS, Role } from '../data/types';
-import { calculateDreamTeamStrength } from '../engine/rating';
 import { calculateSynergies } from '../engine/synergy';
 import { Shield, Sparkles, Trophy, ArrowRight, Zap, CheckCircle2 } from './icons';
 import { getAssetUrl } from '../utils/assets';
@@ -17,7 +16,6 @@ export const DreamTeamScreen: React.FC<DreamTeamScreenProps> = ({
   onEnterTournament,
   onResetDraft,
 }) => {
-  const strength = calculateDreamTeamStrength(dreamTeam, dreamTeam.coach);
   const { links: synergies, bonusPercent } = calculateSynergies(dreamTeam, dreamTeam.coach);
 
   // Trigger celebration confetti on mount
@@ -48,57 +46,6 @@ export const DreamTeamScreen: React.FC<DreamTeamScreenProps> = ({
         <p className="text-[11px] sm:text-xs text-[#91A0AA] max-w-lg mx-auto">
           5 vị trí và 1 Head Coach đã sẵn sàng bước vào giải đấu quốc tế APL 2026.
         </p>
-      </div>
-
-      {/* Main Stats Summary Card */}
-      <div className="bg-[#0D1923] rounded-2xl p-3 sm:p-4 border border-[#C9A45C]/40 shadow-xl mb-4 relative overflow-hidden shrink-0">
-        <div className="absolute top-0 right-0 w-60 h-60 bg-[#C9A45C]/5 rounded-full blur-3xl pointer-events-none" />
-
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-4 text-center">
-          <div className="bg-[#142330] p-2.5 sm:p-3 rounded-xl border border-[#354653]/50">
-            <p className="text-[10px] font-semibold text-[#91A0AA] uppercase tracking-wider">
-              Điểm Tuyển Thủ
-            </p>
-            <p className="font-['Barlow_Condensed'] font-black text-2xl sm:text-3xl text-[#F2F0E9]">
-              {strength.playerAverage}
-            </p>
-            <p className="text-[9px] text-[#91A0AA]">TB 5 vị trí</p>
-          </div>
-
-          <div className="bg-[#142330] p-2.5 sm:p-3 rounded-xl border border-[#354653]/50">
-            <p className="text-[10px] font-semibold text-[#91A0AA] uppercase tracking-wider">
-              HLV Bonus
-            </p>
-            <p className="font-['Barlow_Condensed'] font-black text-2xl sm:text-3xl text-[#C9A45C]">
-              +{strength.coachBonus}
-            </p>
-            <p className="text-[9px] text-[#91A0AA] truncate">
-              {dreamTeam.coach?.coach_name || 'Chiến thuật'}
-            </p>
-          </div>
-
-          <div className="bg-[#142330] p-2.5 sm:p-3 rounded-xl border border-[#354653]/50">
-            <p className="text-[10px] font-semibold text-[#91A0AA] uppercase tracking-wider">
-              Hidden Synergy
-            </p>
-            <p className="font-['Barlow_Condensed'] font-black text-2xl sm:text-3xl text-[#3EAD83]">
-              +{bonusPercent}%
-            </p>
-            <p className="text-[9px] text-[#91A0AA]">
-              {synergies.length} Liên kết
-            </p>
-          </div>
-
-          <div className="bg-gradient-to-br from-[#1C3042] to-[#142330] p-2.5 sm:p-3 rounded-xl border-2 border-[#C9A45C] shadow-md shadow-[#C9A45C]/10">
-            <p className="text-[10px] font-bold text-[#C9A45C] uppercase tracking-wider">
-              TỔNG SỨC MẠNH
-            </p>
-            <p className="font-['Barlow_Condensed'] font-black text-2xl sm:text-3xl text-[#C9A45C]">
-              {strength.finalStrength}
-            </p>
-            <p className="text-[9px] text-[#F2F0E9]">Hạng Tier S</p>
-          </div>
-        </div>
       </div>
 
       {/* Scrollable Center: 5 Player Cards + Coach + Synergies */}
